@@ -6,7 +6,7 @@ Companion study demonstrating unified statistical homology alignment, reticulate
 
 ## Repository Structure
 
-- [`manuscript/`](manuscript/) — *Science*-format manuscript ([`main.tex`](manuscript/main.tex), [`main.pdf`](manuscript/main.pdf)), Supplementary Materials ([`supplement.tex`](manuscript/supplement.tex), [`supplement.pdf`](manuscript/supplement.pdf)), merged [`science_combined.pdf`](manuscript/science_combined.pdf), BibTeX bibliography ([`references.bib`](manuscript/references.bib)), vector figures ([`manuscript/figures/`](manuscript/figures/)), generated LaTeX tables ([`table1_summary.tex`](manuscript/table1_summary.tex), [`tables_supplement_generated.tex`](manuscript/tables_supplement_generated.tex)), and preserved bioRxiv v1 draft (`main_biorxiv_v1.*`). Tracked directly against the Overleaf remote while mirrored in this repository.
+- [`manuscript/`](manuscript/) — *Science*-format manuscript ([`main.tex`](manuscript/main.tex), [`main.pdf`](manuscript/main.pdf)), Supplementary Materials ([`supplement.tex`](manuscript/supplement.tex), [`supplement.pdf`](manuscript/supplement.pdf)), merged [`science_combined.pdf`](manuscript/science_combined.pdf), BibTeX bibliography ([`references.bib`](manuscript/references.bib)), vector figures ([`manuscript/figures/`](manuscript/figures/)), generated LaTeX tables ([`table1_summary.tex`](manuscript/table1_summary.tex), [`tables_supplement_generated.tex`](manuscript/tables_supplement_generated.tex)), and preserved bioRxiv v1 draft (`main_biorxiv_v1.*`). Tracked directly against both [veg/unalignable-arms-race-paper](https://github.com/veg/unalignable-arms-race-paper) (`origin`) and Overleaf (`overleaf`), and mirrored in this repository.
 - [`scripts/`](scripts/) — End-to-end curation, execution, synthesis, figure/table generation, and Overleaf synchronization scripts:
   - [`synthesize_full_study.py`](scripts/synthesize_full_study.py) — Aggregates WALRUS, S-PRIME, PDB contact, legacy baseline, and Tier-2 TOGA2 statistics into JSON summaries.
   - [`generate_science_figures.py`](scripts/generate_science_figures.py) — Generates all 6 Type-42 vector PDF and 300-dpi PNG figures (`fig1`–`fig4`, `fig_s1`–`fig_s2`).
@@ -32,13 +32,13 @@ latexmk -pdf -interaction=nonstopmode supplement.tex
 
 ## Syncing Between Overleaf and GitHub
 
-`manuscript/` holds its own Overleaf Git remote while all files inside `manuscript/` are also tracked directly in `veg/unalignable-arms-race`:
+`manuscript/` has its own dual-remote repository (`origin` = [veg/unalignable-arms-race-paper](https://github.com/veg/unalignable-arms-race-paper), `overleaf` = Overleaf) while all files inside `manuscript/` are also mirrored directly in `veg/unalignable-arms-race`:
 
 ```bash
-# Pull updates from Overleaf and mirror into the GitHub index
+# Pull updates from Overleaf + veg/unalignable-arms-race-paper and mirror into root index
 ./scripts/sync_overleaf.sh
 
-# Commit & push manuscript changes to both Overleaf and GitHub
+# Commit & push manuscript changes to Overleaf, veg/unalignable-arms-race-paper, and veg/unalignable-arms-race
 ./scripts/sync_overleaf.sh --push
 ```
 
