@@ -1,0 +1,815 @@
+{
+  "gene": "MX1",
+  "total_taxa": 80,
+  "intact_taxa": 76,
+  "pseudogene_or_frameshift_taxa": [
+    "Delphinus_delphis",
+    "Globicephala_melas",
+    "Orcinus_orca",
+    "Pseudorca_crassidens"
+  ],
+  "min_nt": 1516,
+  "max_nt": 2094,
+  "records": [
+    {
+      "taxon": "Homo_sapiens",
+      "species": "Homo sapiens",
+      "accession": "NM_001144925.2",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Ailuropoda_melanoleuca",
+      "species": "Ailuropoda melanoleuca",
+      "accession": "XM_002925877.4",
+      "nt_len": 1980,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Carnivora"
+    },
+    {
+      "taxon": "Aotus_nancymaae",
+      "species": "Aotus nancymaae",
+      "accession": "XM_012445105.3",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Artibeus_jamaicensis",
+      "species": "Artibeus jamaicensis",
+      "accession": "XM_053657741.1",
+      "nt_len": 1980,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Balaenoptera_acutorostrata",
+      "species": "Balaenoptera acutorostrata",
+      "accession": "XM_007172712.3",
+      "nt_len": 1980,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Cetacea"
+    },
+    {
+      "taxon": "Balaenoptera_borealis",
+      "species": "Balaenoptera borealis",
+      "accession": "XM_082392921.1",
+      "nt_len": 1980,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Cetacea"
+    },
+    {
+      "taxon": "Balaenoptera_ricei",
+      "species": "Balaenoptera ricei",
+      "accession": "XM_059921621.1",
+      "nt_len": 1980,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Cetacea"
+    },
+    {
+      "taxon": "Bos_taurus",
+      "species": "Bos taurus",
+      "accession": "NM_173940.2",
+      "nt_len": 1947,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Artiodactyla"
+    },
+    {
+      "taxon": "Bubalus_bubalis",
+      "species": "Bubalus bubalis",
+      "accession": "NM_001290853.1",
+      "nt_len": 1947,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Artiodactyla"
+    },
+    {
+      "taxon": "Callithrix_jacchus",
+      "species": "Callithrix jacchus",
+      "accession": "XM_008986719.5",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Canis_lupus",
+      "species": "Canis lupus familiaris",
+      "accession": "NM_001003134.1",
+      "nt_len": 1974,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Carnivora"
+    },
+    {
+      "taxon": "Cebus_imitator",
+      "species": "Cebus imitator",
+      "accession": "XM_037742069.1",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Cercocebus_atys",
+      "species": "Cercocebus atys",
+      "accession": "NM_001305954.1",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Chlorocebus_sabaeus",
+      "species": "Chlorocebus sabaeus",
+      "accession": "XM_007968708.3",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Cnephaeus_nilssonii",
+      "species": "Cnephaeus nilssonii",
+      "accession": "XM_079767420.1",
+      "nt_len": 1971,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Colobus_angolensis",
+      "species": "Colobus angolensis palliatus",
+      "accession": "XM_011954059.1",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Delphinus_delphis",
+      "species": "Delphinus delphis",
+      "accession": "XM_060009785.1",
+      "nt_len": 1516,
+      "internal_stops": 1,
+      "source": "GenBank_Odontoceti_MX1",
+      "note": "XM_060009785.1 PREDICTED: Delphinus delphis interferon-induced GTP-binding protein Mx1-lik",
+      "order": "Cetacea"
+    },
+    {
+      "taxon": "Eptesicus_fuscus",
+      "species": "Eptesicus fuscus",
+      "accession": "XM_054713558.1",
+      "nt_len": 1965,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Equus_caballus",
+      "species": "Equus caballus",
+      "accession": "NM_001082492.3",
+      "nt_len": 1983,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Perissodactyla"
+    },
+    {
+      "taxon": "Eubalaena_glacialis",
+      "species": "Eubalaena glacialis",
+      "accession": "XM_061193890.1",
+      "nt_len": 1983,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Cetacea"
+    },
+    {
+      "taxon": "Eulemur_rufifrons",
+      "species": "Eulemur rufifrons",
+      "accession": "XM_069474936.1",
+      "nt_len": 1995,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Globicephala_melas",
+      "species": "Globicephala melas",
+      "accession": "XM_030835455.2",
+      "nt_len": 1895,
+      "internal_stops": 5,
+      "source": "GenBank_Odontoceti_MX1",
+      "note": "XM_030835455.2 PREDICTED: Globicephala melas interferon-induced GTP-binding protein Mx1-li",
+      "order": "Cetacea"
+    },
+    {
+      "taxon": "Gorilla_gorilla",
+      "species": "Gorilla gorilla gorilla",
+      "accession": "NM_001279761.1",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Hylobates_moloch",
+      "species": "Hylobates moloch",
+      "accession": "XM_032174258.2",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Lemur_catta",
+      "species": "Lemur catta",
+      "accession": "XM_045540700.1",
+      "nt_len": 1995,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Macaca_fascicularis",
+      "species": "Macaca fascicularis",
+      "accession": "XM_015446623.4",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Macaca_mulatta",
+      "species": "Macaca mulatta",
+      "accession": "NM_001079693.2",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Macaca_nemestrina",
+      "species": "Macaca nemestrina",
+      "accession": "XM_011725991.3",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Macaca_thibetana",
+      "species": "Macaca thibetana thibetana",
+      "accession": "XM_050784560.1",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Mandrillus_leucophaeus",
+      "species": "Mandrillus leucophaeus",
+      "accession": "XM_011984185.1",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Mesocricetus_auratus",
+      "species": "Mesocricetus auratus",
+      "accession": "NM_001281635.1",
+      "nt_len": 1908,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Rodentia"
+    },
+    {
+      "taxon": "Mesoplodon_mirus",
+      "species": "Mesoplodon mirus",
+      "accession": "XM_082624383.1",
+      "nt_len": 2055,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Cetacea"
+    },
+    {
+      "taxon": "Microcebus_murinus",
+      "species": "Microcebus murinus",
+      "accession": "XM_076000046.1",
+      "nt_len": 1992,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Miniopterus_natalensis",
+      "species": "Miniopterus natalensis",
+      "accession": "XM_016220937.2",
+      "nt_len": 1959,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Miniopterus_schreibersii",
+      "species": "Miniopterus schreibersii",
+      "accession": "XM_081138671.1",
+      "nt_len": 1959,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Molossus_molossus",
+      "species": "Molossus molossus",
+      "accession": "XM_036242666.1",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Mus_musculus",
+      "species": "Mus musculus",
+      "accession": "NM_010846.1",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Rodentia"
+    },
+    {
+      "taxon": "Mustela_putorius",
+      "species": "Mustela putorius furo",
+      "accession": "NM_001310201.1",
+      "nt_len": 1977,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Carnivora"
+    },
+    {
+      "taxon": "Myotis_brandtii",
+      "species": "Myotis brandtii",
+      "accession": "XM_005885691.2",
+      "nt_len": 1968,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Myotis_daubentonii",
+      "species": "Myotis daubentonii",
+      "accession": "XM_059686501.1",
+      "nt_len": 1971,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Myotis_davidii",
+      "species": "Myotis davidii",
+      "accession": "XM_006754325.2",
+      "nt_len": 1971,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Myotis_lucifugus",
+      "species": "Myotis lucifugus",
+      "accession": "XM_006104436.3",
+      "nt_len": 1968,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Myotis_myotis",
+      "species": "Myotis myotis",
+      "accession": "XM_036350244.1",
+      "nt_len": 2082,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Myotis_nattereri",
+      "species": "Myotis nattereri",
+      "accession": "XM_081088252.1",
+      "nt_len": 1971,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Myotis_yumanensis",
+      "species": "Myotis yumanensis",
+      "accession": "XM_070407164.1",
+      "nt_len": 1968,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Nomascus_leucogenys",
+      "species": "Nomascus leucogenys",
+      "accession": "NM_001280102.1",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Nycticebus_coucang",
+      "species": "Nycticebus coucang",
+      "accession": "XM_053564822.1",
+      "nt_len": 1995,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Orcinus_orca",
+      "species": "Orcinus orca",
+      "accession": "XM_033418342.2",
+      "nt_len": 1903,
+      "internal_stops": 5,
+      "source": "GenBank_Odontoceti_MX1",
+      "note": "XM_033418342.2 PREDICTED: Orcinus orca MX dynamin like GTPase 1 (MX1), mRNA",
+      "order": "Cetacea"
+    },
+    {
+      "taxon": "Ovis_aries",
+      "species": "Ovis aries",
+      "accession": "NM_001009753.1",
+      "nt_len": 1965,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Artiodactyla"
+    },
+    {
+      "taxon": "Pan_paniscus",
+      "species": "Pan paniscus",
+      "accession": "NM_001301762.1",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Pan_troglodytes",
+      "species": "Pan troglodytes",
+      "accession": "NM_001279836.1",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Papio_anubis",
+      "species": "Papio anubis",
+      "accession": "XM_003895462.4",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Phyllostomus_discolor",
+      "species": "Phyllostomus discolor",
+      "accession": "XM_036017449.1",
+      "nt_len": 1980,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Phyllostomus_hastatus",
+      "species": "Phyllostomus hastatus",
+      "accession": "XM_045852476.1",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Piliocolobus_tephrosceles",
+      "species": "Piliocolobus tephrosceles",
+      "accession": "XM_023191838.1",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Pipistrellus_hanaki",
+      "species": "Pipistrellus hanaki",
+      "accession": "XM_084873630.1",
+      "nt_len": 1974,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Pipistrellus_kuhlii",
+      "species": "Pipistrellus kuhlii",
+      "accession": "XM_036445307.2",
+      "nt_len": 1956,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Plecotus_auritus",
+      "species": "Plecotus auritus",
+      "accession": "XM_080657377.1",
+      "nt_len": 1968,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Pongo_abelii",
+      "species": "Pongo abelii",
+      "accession": "NM_001134146.2",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Pongo_pygmaeus",
+      "species": "Pongo pygmaeus",
+      "accession": "XM_054468821.2",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Propithecus_coquereli",
+      "species": "Propithecus coquereli",
+      "accession": "XM_012640117.1",
+      "nt_len": 1992,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Pseudorca_crassidens",
+      "species": "Pseudorca crassidens",
+      "accession": "XM_067739535.1",
+      "nt_len": 1902,
+      "internal_stops": 5,
+      "source": "GenBank_Odontoceti_MX1",
+      "note": "XM_067739535.1 PREDICTED: Pseudorca crassidens interferon-induced GTP-binding protein Mx1-",
+      "order": "Cetacea"
+    },
+    {
+      "taxon": "Pteronotus_mesoamericanus",
+      "species": "Pteronotus mesoamericanus",
+      "accession": "XM_054578558.1",
+      "nt_len": 1974,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Pteropus_alecto",
+      "species": "Pteropus alecto",
+      "accession": "NM_001290174.1",
+      "nt_len": 2004,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Pteropus_medius",
+      "species": "Pteropus medius",
+      "accession": "XM_039857788.1",
+      "nt_len": 2064,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Pteropus_vampyrus",
+      "species": "Pteropus vampyrus",
+      "accession": "XM_023538201.1",
+      "nt_len": 2052,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Rhinolophus_ferrumequinum",
+      "species": "Rhinolophus ferrumequinum",
+      "accession": "XM_033134275.1",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Rhinolophus_hipposideros",
+      "species": "Rhinolophus hipposideros",
+      "accession": "XM_081071723.1",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Rhinolophus_sinicus",
+      "species": "Rhinolophus sinicus",
+      "accession": "XM_019745766.3",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Rhinopithecus_roxellana",
+      "species": "Rhinopithecus roxellana",
+      "accession": "XM_030914603.1",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Rousettus_aegyptiacus",
+      "species": "Rousettus aegyptiacus",
+      "accession": "XM_036218455.1",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Saccopteryx_bilineata",
+      "species": "Saccopteryx bilineata",
+      "accession": "XM_066259339.1",
+      "nt_len": 2001,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Saccopteryx_leptura",
+      "species": "Saccopteryx leptura",
+      "accession": "XM_066370151.1",
+      "nt_len": 2001,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Saimiri_boliviensis",
+      "species": "Saimiri boliviensis",
+      "accession": "XM_003927592.4",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Sapajus_apella",
+      "species": "Sapajus apella",
+      "accession": "XM_032276827.1",
+      "nt_len": 2094,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Sturnira_hondurensis",
+      "species": "Sturnira hondurensis",
+      "accession": "XM_037042997.1",
+      "nt_len": 1977,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Chiroptera"
+    },
+    {
+      "taxon": "Sus_scrofa",
+      "species": "Sus scrofa",
+      "accession": "NM_214061.2",
+      "nt_len": 1992,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Artiodactyla"
+    },
+    {
+      "taxon": "Symphalangus_syndactylus",
+      "species": "Symphalangus syndactylus",
+      "accession": "XM_055279742.2",
+      "nt_len": 1989,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Theropithecus_gelada",
+      "species": "Theropithecus gelada",
+      "accession": "XM_025380298.2",
+      "nt_len": 1980,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    },
+    {
+      "taxon": "Trachypithecus_francoisi",
+      "species": "Trachypithecus francoisi",
+      "accession": "XM_033232525.1",
+      "nt_len": 1986,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_4599",
+      "note": "",
+      "order": "Primates"
+    }
+  ]
+}

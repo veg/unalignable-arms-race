@@ -1,0 +1,513 @@
+{
+  "gene": "PRDM9",
+  "total_taxa": 50,
+  "intact_taxa": 48,
+  "pseudogene_or_frameshift_taxa": [
+    "Canis_aureus",
+    "Canis_lupus"
+  ],
+  "min_nt": 1296,
+  "max_nt": 3741,
+  "records": [
+    {
+      "taxon": "Homo_sapiens",
+      "species": "Homo sapiens",
+      "accession": "NM_001376900.1",
+      "nt_len": 2685,
+      "znf_count": 12,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "12 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Acomys_russatus",
+      "species": "Acomys russatus",
+      "accession": "XM_051164366.1",
+      "nt_len": 2856,
+      "znf_count": 14,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "14 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Apodemus_sylvaticus",
+      "species": "Apodemus sylvaticus",
+      "accession": "XM_052169812.1",
+      "nt_len": 2544,
+      "znf_count": 11,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "11 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Arvicanthis_niloticus",
+      "species": "Arvicanthis niloticus",
+      "accession": "XM_076926543.1",
+      "nt_len": 2394,
+      "znf_count": 9,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "9 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Bos_grunniens",
+      "species": "Bos grunniens",
+      "accession": "XM_086387932.1",
+      "nt_len": 3039,
+      "znf_count": 16,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "16 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Bos_javanicus",
+      "species": "Bos javanicus",
+      "accession": "XM_061408182.1",
+      "nt_len": 2277,
+      "znf_count": 13,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "13 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Bos_mutus",
+      "species": "Bos mutus",
+      "accession": "XM_070364095.1",
+      "nt_len": 2700,
+      "znf_count": 13,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "13 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Bubalus_bubalis",
+      "species": "Bubalus bubalis",
+      "accession": "XM_025294312.3",
+      "nt_len": 2346,
+      "znf_count": 8,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "8 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Canis_aureus",
+      "species": "Canis aureus",
+      "accession": "JF750659.1",
+      "nt_len": 1296,
+      "znf_count": 0,
+      "internal_stops": 17,
+      "source": "GenBank_Canidae_LoF_MunozFuentes2011",
+      "note": "Canis aureus PRDM9 pseudogene, partial sequence"
+    },
+    {
+      "taxon": "Canis_lupus",
+      "species": "Canis lupus familiaris",
+      "accession": "MW004668.1",
+      "nt_len": 1383,
+      "znf_count": 0,
+      "internal_stops": 7,
+      "source": "GenBank_Canidae_LoF_MunozFuentes2011",
+      "note": "Canis lupus familiaris isolate Rajapalyam PRDM9 pseudogene, partial sequence"
+    },
+    {
+      "taxon": "Cavia_porcellus",
+      "species": "Cavia porcellus",
+      "accession": "XM_063242741.1",
+      "nt_len": 2181,
+      "znf_count": 7,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "7 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Chlorocebus_sabaeus",
+      "species": "Chlorocebus sabaeus",
+      "accession": "XM_007961264.3",
+      "nt_len": 2244,
+      "znf_count": 7,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "7 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Dipodomys_merriami",
+      "species": "Dipodomys merriami",
+      "accession": "XM_070042096.1",
+      "nt_len": 2385,
+      "znf_count": 13,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "13 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Dipodomys_spectabilis",
+      "species": "Dipodomys spectabilis",
+      "accession": "XM_042695259.1",
+      "nt_len": 2238,
+      "znf_count": 7,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "7 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Elephas_maximus",
+      "species": "Elephas maximus indicus",
+      "accession": "XM_049880497.1",
+      "nt_len": 3741,
+      "znf_count": 15,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "15 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Fukomys_damarensis",
+      "species": "Fukomys damarensis",
+      "accession": "XM_019205156.1",
+      "nt_len": 2496,
+      "znf_count": 11,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "11 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Gorilla_gorilla",
+      "species": "Gorilla gorilla gorilla",
+      "accession": "XM_055367487.2",
+      "nt_len": 2361,
+      "znf_count": 7,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "7 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Macaca_fascicularis",
+      "species": "Macaca fascicularis",
+      "accession": "XM_015451241.4",
+      "nt_len": 2244,
+      "znf_count": 7,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "7 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Macaca_mulatta",
+      "species": "Macaca mulatta",
+      "accession": "XM_028849361.2",
+      "nt_len": 2580,
+      "znf_count": 11,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "11 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Macaca_nemestrina",
+      "species": "Macaca nemestrina",
+      "accession": "XM_011726557.3",
+      "nt_len": 2580,
+      "znf_count": 11,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "11 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Macrotis_lagotis",
+      "species": "Macrotis lagotis",
+      "accession": "XM_074218948.1",
+      "nt_len": 2505,
+      "znf_count": 10,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "10 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Marmota_flaviventris",
+      "species": "Marmota flaviventris",
+      "accession": "XM_071619417.1",
+      "nt_len": 2796,
+      "znf_count": 11,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "11 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Meriones_unguiculatus",
+      "species": "Meriones unguiculatus",
+      "accession": "XM_021657408.2",
+      "nt_len": 2484,
+      "znf_count": 10,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "10 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Mesocricetus_auratus",
+      "species": "Mesocricetus auratus",
+      "accession": "XM_040728338.1",
+      "nt_len": 2661,
+      "znf_count": 12,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "12 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Microtus_pennsylvanicus",
+      "species": "Microtus pennsylvanicus",
+      "accession": "XM_075944620.1",
+      "nt_len": 2718,
+      "znf_count": 12,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "12 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Moschus_berezovskii",
+      "species": "Moschus berezovskii",
+      "accession": "XM_088832654.1",
+      "nt_len": 3009,
+      "znf_count": 16,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "16 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Mus_caroli",
+      "species": "Mus caroli",
+      "accession": "XM_085832883.1",
+      "nt_len": 2310,
+      "znf_count": 8,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "8 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Mus_musculus",
+      "species": "Mus musculus",
+      "accession": "NM_144809.3",
+      "nt_len": 2532,
+      "znf_count": 11,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "11 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Myodes_glareolus",
+      "species": "Myodes glareolus",
+      "accession": "XM_087896202.1",
+      "nt_len": 2634,
+      "znf_count": 11,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "11 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Notamacropus_eugenii",
+      "species": "Notamacropus eugenii",
+      "accession": "XM_072616254.1",
+      "nt_len": 2364,
+      "znf_count": 8,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "8 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Ochotona_curzoniae",
+      "species": "Ochotona curzoniae",
+      "accession": "XM_040970837.1",
+      "nt_len": 2586,
+      "znf_count": 10,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "10 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Octodon_degus",
+      "species": "Octodon degus",
+      "accession": "XM_023708680.1",
+      "nt_len": 1935,
+      "znf_count": 6,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "6 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Onychomys_torridus",
+      "species": "Onychomys torridus",
+      "accession": "XM_036169065.1",
+      "nt_len": 2682,
+      "znf_count": 13,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "13 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Oryctolagus_cuniculus",
+      "species": "Oryctolagus cuniculus",
+      "accession": "XM_017338435.4",
+      "nt_len": 2511,
+      "znf_count": 10,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "10 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Pan_paniscus",
+      "species": "Pan paniscus",
+      "accession": "XM_055112484.2",
+      "nt_len": 2496,
+      "znf_count": 6,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "6 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Pan_troglodytes",
+      "species": "Pan troglodytes",
+      "accession": "XM_016953502.4",
+      "nt_len": 2748,
+      "znf_count": 12,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "12 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Peromyscus_californicus",
+      "species": "Peromyscus californicus insignis",
+      "accession": "XM_052750702.1",
+      "nt_len": 2562,
+      "znf_count": 10,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "10 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Peromyscus_leucopus",
+      "species": "Peromyscus leucopus",
+      "accession": "XM_028866574.2",
+      "nt_len": 2481,
+      "znf_count": 9,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "9 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Peromyscus_maniculatus",
+      "species": "Peromyscus maniculatus bairdii",
+      "accession": "XM_076552986.1",
+      "nt_len": 2565,
+      "znf_count": 10,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "10 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Phascolarctos_cinereus",
+      "species": "Phascolarctos cinereus",
+      "accession": "XM_020977022.2",
+      "nt_len": 2283,
+      "znf_count": 8,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "8 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Pongo_abelii",
+      "species": "Pongo abelii",
+      "accession": "XM_054555277.2",
+      "nt_len": 2718,
+      "znf_count": 12,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "12 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Pongo_pygmaeus",
+      "species": "Pongo pygmaeus",
+      "accession": "XM_054488313.1",
+      "nt_len": 2463,
+      "znf_count": 8,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "8 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Pteronotus_mesoamericanus",
+      "species": "Pteronotus mesoamericanus",
+      "accession": "XM_054567799.1",
+      "nt_len": 2667,
+      "znf_count": 12,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "12 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Rattus_norvegicus",
+      "species": "Rattus norvegicus",
+      "accession": "NM_001108903.2",
+      "nt_len": 2391,
+      "znf_count": 9,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "9 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Rhinolophus_sinicus",
+      "species": "Rhinolophus sinicus",
+      "accession": "XM_088794774.1",
+      "nt_len": 2892,
+      "znf_count": 13,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "13 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Rousettus_aegyptiacus",
+      "species": "Rousettus aegyptiacus",
+      "accession": "XM_036224566.1",
+      "nt_len": 2520,
+      "znf_count": 10,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "10 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Saccopteryx_bilineata",
+      "species": "Saccopteryx bilineata",
+      "accession": "XM_066241173.1",
+      "nt_len": 2631,
+      "znf_count": 13,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "13 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Saimiri_boliviensis",
+      "species": "Saimiri boliviensis",
+      "accession": "XM_074405071.1",
+      "nt_len": 2721,
+      "znf_count": 11,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "11 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Suncus_etruscus",
+      "species": "Suncus etruscus",
+      "accession": "XM_049767679.1",
+      "nt_len": 2685,
+      "znf_count": 12,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "12 C2H2 ZnF repeats"
+    },
+    {
+      "taxon": "Theropithecus_gelada",
+      "species": "Theropithecus gelada",
+      "accession": "XM_025388312.2",
+      "nt_len": 2832,
+      "znf_count": 14,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_56979",
+      "note": "14 C2H2 ZnF repeats"
+    }
+  ]
+}

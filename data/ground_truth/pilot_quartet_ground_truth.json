@@ -1,0 +1,567 @@
+{
+  "TRIM5": {
+    "human_ref_aa_len": 493,
+    "human_ref_seq": "MASGILVNVKEEVTCPICLELLTQPLSLDCGHSFCQACLTANHKKSMLDKGESSCPVCRISYQPENIRPNRHVANIVEKLREVKLSPEGQKVDHCARHGEKLLLFCQEDGKVICWLCERSQEHRGHHTFLTEEVAREYQVKLQAALEMLRQKQQEAEELEADIREEKASWKTQIQYDKTNVLADFEQLRDILDWEESNELQNLEKEEEDILKSLTNSETEMVQQTQSLRELISDLEHRLQGSVMELLQGVDGVIKRTENVTLKKPETFPKNQRRVFRAPDLKGMLEVFRELTDVRRYWVDVTVAPNNISCAVISEDKRQVSSPKPQIIYGARGTRYQTFVNFNYCTGILGSQSITSGKHYWEVDVSKKTAWILGVCAGFQPDAMCNIEKNENYQPKYGYWVIGLEEGVKCSAFQDSSFHTPSVPFIVPLSVIICPDRVGVFLDYEACTVSFFNITNHGFLIYKFSHCSFSQPVFPYLNPRKCGVPMTLCSPSS",
+    "pdb_structures": [
+      "2LM3 (PRYSPRY NMR/crystal)",
+      "8F25 (TRIM5a-HIV1 CA hexamer cryo-EM)"
+    ],
+    "domains_1idx": {
+      "RING": [
+        15,
+        59
+      ],
+      "B_box_2": [
+        90,
+        132
+      ],
+      "Coiled_Coil": [
+        133,
+        241
+      ],
+      "Linker_L2": [
+        242,
+        290
+      ],
+      "PRYSPRY_core": [
+        291,
+        493
+      ]
+    },
+    "hypervariable_viral_loops_1idx": {
+      "v1_capsid_patch": [
+        324,
+        345
+      ],
+      "v2_loop": [
+        383,
+        395
+      ],
+      "v3_loop": [
+        415,
+        428
+      ],
+      "v4_loop": [
+        480,
+        488
+      ]
+    },
+    "experimental_functional_sites_1idx": [
+      330,
+      332,
+      334,
+      335,
+      336,
+      337,
+      339,
+      340,
+      385,
+      389,
+      420
+    ],
+    "known_lof_lineages": [
+      "Felis_catus (GQ183880.1 exon-8 premature TGA stop; McEwan et al. PLoS Pathog 2009)"
+    ]
+  },
+  "MX1": {
+    "human_ref_aa_len": 662,
+    "human_ref_seq": "MVVSEVDIAKADPAAASHPLLLNGDATVAQKNPGSVAENNLCSQYEEKVRPCIDLIDSLRALGVEQDLALPAIAVIGDQSSGKSSVLEALSGVALPRGSGIVTRCPLVLKLKKLVNEDKWRGKVSYQDYEIEISDASEVEKEINKAQNAIAGEGMGISHELITLEISSRDVPDLTLIDLPGITRVAVGNQPADIGYKIKTLIKKYIQRQETISLVVVPSNVDIATTEALSMAQEVDPEGDRTIGILTKPDLVDKGTEDKVVDVVRNLVFHLKKGYMIVKCRGQQEIQDQLSLSEALQREKIFFENHPYFRDLLEEGKATVPCLAEKLTSELITHICKSLPLLENQIKETHQRITEELQKYGVDIPEDENEKMFFLIDKVNAFNQDITALMQGEETVGEEDIRLFTRLRHEFHKWSTIIENNFQEGHKILSRKIQKFENQYRGRELPGFVNYRTFETIVKQQIKALEEPAVDMLHTVTDMVRLAFTDVSIKNFEEFFNLHRTAKSKIEDIRAEQEREGEKLIRLHFQMEQIVYCQDQVYRGALQKVREKELEEEKKKKSWDFGAFQSSSATDSSMEEIFQHLMAYHQEASKRISSHIPLIIQFFMLQTYGQQLQKAMLQLLQDKDTYSWLLKERSDTSDKRKFLKERLARLTQARRRLAQFPG",
+    "pdb_structures": [
+      "3SZR (human MxA full-length crystal)"
+    ],
+    "domains_1idx": {
+      "N_terminal_extension": [
+        1,
+        42
+      ],
+      "BSE_1": [
+        43,
+        68
+      ],
+      "GTPase_G_domain": [
+        69,
+        340
+      ],
+      "BSE_2": [
+        341,
+        367
+      ],
+      "Stalk_MD_IR": [
+        368,
+        532
+      ],
+      "Loop_L4_disordered_antiviral": [
+        533,
+        572
+      ],
+      "Stalk_C": [
+        573,
+        634
+      ],
+      "BSE_3": [
+        635,
+        662
+      ]
+    },
+    "hypervariable_viral_loops_1idx": {
+      "N_term_IDR": [
+        1,
+        42
+      ],
+      "Loop_L4_orthomyxovirus_NP_interface": [
+        533,
+        572
+      ]
+    },
+    "experimental_functional_sites_1idx": [
+      540,
+      543,
+      549,
+      559,
+      561,
+      562,
+      564,
+      566,
+      567
+    ],
+    "known_lof_lineages": [
+      "Odontoceti (toothed whales & dolphins Mx1 inactivation; Braun et al. PNAS 2015)"
+    ]
+  },
+  "APOBEC3G": {
+    "human_ref_aa_len": 384,
+    "human_ref_seq": "MKPHFRNTVERMYRDTFSYNFYNRPILSRRNTVWLCYEVKTKGPSRPPLDAKIFRGQVYSELKYHPEMRFFHWFSKWRKLHRDQEYEVTWYISWSPCTKCTRDMATFLAEDPKVTLTIFVARLYYFWDPDYQEALRSLCQKRDGPRATMKIMNYDEFQHCWSKFVYSQRELFEPWNNLPKYYILLHIMLGEILRHSMDPPTFTFNFNNEPWVRGRHETYLCYEVERMHNDTWVLLNQRRGFLCNQAPHKHGFLEGRHAELCFLDVIPFWKLDLDQDYRVTCFTSWSPCFSCAQEMAKFISKNKHVSLCIFTARIYDDQGRCQEGLRTLAEAGAKISIMTYSEFKHCWDTFVDHQGCPFQPWDGLDEHSQDLSGRLRAILQNQEN",
+    "pdb_structures": [
+      "8E40 (HIV-1 Vif-CBFb-APOBEC3G cryo-EM)",
+      "3IR2 (CD2 catalytic crystal)"
+    ],
+    "domains_1idx": {
+      "CD1_N_terminal_RNA_Vif_binding": [
+        1,
+        196
+      ],
+      "CD2_C_terminal_catalytic_deaminase": [
+        197,
+        384
+      ]
+    },
+    "hypervariable_viral_loops_1idx": {
+      "CD1_Loop7_Vif_interface": [
+        122,
+        134
+      ],
+      "CD1_alpha2_alpha3_Vif_patch": [
+        95,
+        110
+      ],
+      "CD2_substrate_loops": [
+        205,
+        220
+      ]
+    },
+    "experimental_functional_sites_1idx": [
+      126,
+      127,
+      128,
+      129,
+      130,
+      211,
+      317
+    ],
+    "known_lof_lineages": [
+      "Paralogous/inter-domain ectopic gene conversion across primate APOBEC3"
+    ]
+  },
+  "PRDM9": {
+    "human_ref_aa_len": 894,
+    "human_ref_seq": "MSPEKSQEESPEEDTERTERKPMVKDAFKDISIYFTKEEWAEMGDWEKTRYRNVKRNYNALITIGLRATRPAFMCHRRQAIKLQVDDTEDSDEEWTPRQQVKPPWMALRVEQRKHQKGMPKASFSNESSLKELSRTANLLNASGSEQAQKPVSPSGEASTSGQHSRLKLELRKKETERKMYSLRERKGHAYKEVSEPQDDDYLYCEMCQNFFIDSCAAHGPPTFVKDSAVDKGHPNRSALSLPPGLRIGPSGIPQAGLGVWNEASDLPLGLHFGPYEGRITEDEEAANNGYSWLITKGRNCYEYVDGKDKSWANWMRYVNCARDDEEQNLVAFQYHRQIFYRTCRVIRPGCELLVWYGDEYGQELGIKWGSKWKKELMAGREPKPEIHPCPSCCLAFSSQKFLSQHVERNHSSQNFPGPSARKLLQPENPCPGDQNQEQQYPDPHSRNDKTKGQEIKERSKLLNKRTWQREISRAFSSPPKGQMGSCRVGKRIMEEESRTGQKVNPGNTGKLFVGVGISRIAKVKYGECGQGFSVKSDVITHQRTHTGEKLYVCRECGRGFSWKSHLLIHQRIHTGEKPYVCRECGRGFSWQSVLLTHQRTHTGEKPYVCRECGRGFSRQSVLLTHQRRHTGEKPYVCRECGRGFSRQSVLLTHQRRHTGEKPYVCRECGRGFSWQSVLLTHQRTHTGEKPYVCRECGRGFSWQSVLLTHQRTHTGEKPYVCRECGRGFSNKSHLLRHQRTHTGEKPYVCRECGRGFRDKSHLLRHQRTHTGEKPYVCRECGRGFRDKSNLLSHQRTHTGEKPYVCRECGRGFSNKSHLLRHQRTHTGEKPYVCRECGRGFRNKSHLLRHQRTHTGEKPYVCRECGRGFSDRSSLCYHQRTHTGEKPYVCREDE",
+    "mammalian_znf_count_range": [
+      6,
+      16
+    ],
+    "pdb_structures": [
+      "5EGB (human PRDM9 ZnF8-12 bound to hotspot DNA)",
+      "4C1Q (PR/SET catalytic domain)"
+    ],
+    "domains_1idx": {
+      "KRAB_domain": [
+        24,
+        97
+      ],
+      "SSXRD_motif": [
+        151,
+        183
+      ],
+      "PR_SET_methyltransferase": [
+        202,
+        368
+      ],
+      "Post_SET_linker": [
+        369,
+        531
+      ],
+      "Tandem_C2H2_ZnF_array": [
+        550,
+        894
+      ]
+    },
+    "znf_repeat_count": 12,
+    "znf_repeats": [
+      {
+        "finger_index": 1,
+        "c1_to_h2_1idx": [
+          554,
+          574
+        ],
+        "motif_seq": "CRECGRGFSWKSHLLIHQRIH",
+        "c2h2_coordinating_1idx": [
+          554,
+          557,
+          570,
+          574
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          563,
+          565,
+          566,
+          569
+        ],
+        "dna_contact_aas": "WSHI"
+      },
+      {
+        "finger_index": 2,
+        "c1_to_h2_1idx": [
+          582,
+          602
+        ],
+        "motif_seq": "CRECGRGFSWQSVLLTHQRTH",
+        "c2h2_coordinating_1idx": [
+          582,
+          585,
+          598,
+          602
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          591,
+          593,
+          594,
+          597
+        ],
+        "dna_contact_aas": "WSVT"
+      },
+      {
+        "finger_index": 3,
+        "c1_to_h2_1idx": [
+          610,
+          630
+        ],
+        "motif_seq": "CRECGRGFSRQSVLLTHQRRH",
+        "c2h2_coordinating_1idx": [
+          610,
+          613,
+          626,
+          630
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          619,
+          621,
+          622,
+          625
+        ],
+        "dna_contact_aas": "RSVT"
+      },
+      {
+        "finger_index": 4,
+        "c1_to_h2_1idx": [
+          638,
+          658
+        ],
+        "motif_seq": "CRECGRGFSRQSVLLTHQRRH",
+        "c2h2_coordinating_1idx": [
+          638,
+          641,
+          654,
+          658
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          647,
+          649,
+          650,
+          653
+        ],
+        "dna_contact_aas": "RSVT"
+      },
+      {
+        "finger_index": 5,
+        "c1_to_h2_1idx": [
+          666,
+          686
+        ],
+        "motif_seq": "CRECGRGFSWQSVLLTHQRTH",
+        "c2h2_coordinating_1idx": [
+          666,
+          669,
+          682,
+          686
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          675,
+          677,
+          678,
+          681
+        ],
+        "dna_contact_aas": "WSVT"
+      },
+      {
+        "finger_index": 6,
+        "c1_to_h2_1idx": [
+          694,
+          714
+        ],
+        "motif_seq": "CRECGRGFSWQSVLLTHQRTH",
+        "c2h2_coordinating_1idx": [
+          694,
+          697,
+          710,
+          714
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          703,
+          705,
+          706,
+          709
+        ],
+        "dna_contact_aas": "WSVT"
+      },
+      {
+        "finger_index": 7,
+        "c1_to_h2_1idx": [
+          722,
+          742
+        ],
+        "motif_seq": "CRECGRGFSNKSHLLRHQRTH",
+        "c2h2_coordinating_1idx": [
+          722,
+          725,
+          738,
+          742
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          731,
+          733,
+          734,
+          737
+        ],
+        "dna_contact_aas": "NSHR"
+      },
+      {
+        "finger_index": 8,
+        "c1_to_h2_1idx": [
+          750,
+          770
+        ],
+        "motif_seq": "CRECGRGFRDKSHLLRHQRTH",
+        "c2h2_coordinating_1idx": [
+          750,
+          753,
+          766,
+          770
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          759,
+          761,
+          762,
+          765
+        ],
+        "dna_contact_aas": "DSHR"
+      },
+      {
+        "finger_index": 9,
+        "c1_to_h2_1idx": [
+          778,
+          798
+        ],
+        "motif_seq": "CRECGRGFRDKSNLLSHQRTH",
+        "c2h2_coordinating_1idx": [
+          778,
+          781,
+          794,
+          798
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          787,
+          789,
+          790,
+          793
+        ],
+        "dna_contact_aas": "DSNS"
+      },
+      {
+        "finger_index": 10,
+        "c1_to_h2_1idx": [
+          806,
+          826
+        ],
+        "motif_seq": "CRECGRGFSNKSHLLRHQRTH",
+        "c2h2_coordinating_1idx": [
+          806,
+          809,
+          822,
+          826
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          815,
+          817,
+          818,
+          821
+        ],
+        "dna_contact_aas": "NSHR"
+      },
+      {
+        "finger_index": 11,
+        "c1_to_h2_1idx": [
+          834,
+          854
+        ],
+        "motif_seq": "CRECGRGFRNKSHLLRHQRTH",
+        "c2h2_coordinating_1idx": [
+          834,
+          837,
+          850,
+          854
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          843,
+          845,
+          846,
+          849
+        ],
+        "dna_contact_aas": "NSHR"
+      },
+      {
+        "finger_index": 12,
+        "c1_to_h2_1idx": [
+          862,
+          882
+        ],
+        "motif_seq": "CRECGRGFSDRSSLCYHQRTH",
+        "c2h2_coordinating_1idx": [
+          862,
+          865,
+          878,
+          882
+        ],
+        "dna_contact_positions_m1_p2_p3_p6_1idx": [
+          871,
+          873,
+          874,
+          877
+        ],
+        "dna_contact_aas": "DSSY"
+      }
+    ],
+    "experimental_dna_contact_sites_1idx": [
+      563,
+      565,
+      566,
+      569,
+      591,
+      593,
+      594,
+      597,
+      619,
+      621,
+      622,
+      625,
+      647,
+      649,
+      650,
+      653,
+      675,
+      677,
+      678,
+      681,
+      703,
+      705,
+      706,
+      709,
+      731,
+      733,
+      734,
+      737,
+      759,
+      761,
+      762,
+      765,
+      787,
+      789,
+      790,
+      793,
+      815,
+      817,
+      818,
+      821,
+      843,
+      845,
+      846,
+      849,
+      871,
+      873,
+      874,
+      877
+    ],
+    "c2h2_coordinating_scaffold_sites_1idx": [
+      554,
+      557,
+      570,
+      574,
+      582,
+      585,
+      598,
+      602,
+      610,
+      613,
+      626,
+      630,
+      638,
+      641,
+      654,
+      658,
+      666,
+      669,
+      682,
+      686,
+      694,
+      697,
+      710,
+      714,
+      722,
+      725,
+      738,
+      742,
+      750,
+      753,
+      766,
+      770,
+      778,
+      781,
+      794,
+      798,
+      806,
+      809,
+      822,
+      826,
+      834,
+      837,
+      850,
+      854,
+      862,
+      865,
+      878,
+      882
+    ],
+    "known_lof_lineages": [
+      "Canidae (Canis lupus familiaris, Canis aureus, Lupulella mesomelas, Vulpes vulpes inactivated PRDM9; Munoz-Fuentes et al. MBE 2011)"
+    ]
+  }
+}

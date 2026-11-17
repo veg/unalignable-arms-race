@@ -1,0 +1,208 @@
+{
+  "gene": "APOBEC3G",
+  "total_taxa": 22,
+  "intact_taxa": 22,
+  "pseudogene_or_frameshift_taxa": [],
+  "min_nt": 1119,
+  "max_nt": 1197,
+  "records": [
+    {
+      "taxon": "Homo_sapiens",
+      "species": "Homo sapiens",
+      "accession": "NM_021822.4",
+      "nt_len": 1155,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), transcript v"
+    },
+    {
+      "taxon": "Aotus_nancymaae",
+      "species": "Aotus nancymaae",
+      "accession": "NM_001308530.1",
+      "nt_len": 1155,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Aotus nancymaae apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G (APOBEC3G),"
+    },
+    {
+      "taxon": "Callithrix_jacchus",
+      "species": "Callithrix jacchus",
+      "accession": "NM_001267742.1",
+      "nt_len": 1155,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Callithrix jacchus apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA"
+    },
+    {
+      "taxon": "Cercocebus_atys",
+      "species": "Cercocebus atys",
+      "accession": "NM_001305962.1",
+      "nt_len": 1131,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Cercocebus atys apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA"
+    },
+    {
+      "taxon": "Chlorocebus_aethiops",
+      "species": "Chlorocebus aethiops",
+      "accession": "AY331714.1",
+      "nt_len": 1131,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Cercopithecus aethiops apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G (APOB"
+    },
+    {
+      "taxon": "Chlorocebus_sabaeus",
+      "species": "Chlorocebus sabaeus",
+      "accession": "NM_001292076.2",
+      "nt_len": 1131,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Chlorocebus sabaeus apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA"
+    },
+    {
+      "taxon": "Gorilla_gorilla",
+      "species": "Gorilla gorilla gorilla",
+      "accession": "XM_031005603.3",
+      "nt_len": 1155,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "PREDICTED: Gorilla gorilla gorilla apolipoprotein B mRNA editing enzyme catalytic subunit 3G (A"
+    },
+    {
+      "taxon": "Macaca_fascicularis",
+      "species": "Macaca fascicularis",
+      "accession": "NM_001284084.1",
+      "nt_len": 1134,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Macaca fascicularis apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA"
+    },
+    {
+      "taxon": "Macaca_leonina",
+      "species": "Macaca leonina",
+      "accession": "KX583654.1",
+      "nt_len": 1152,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Macaca leonina Apobec3G mRNA, complete cds"
+    },
+    {
+      "taxon": "Macaca_mulatta",
+      "species": "Macaca mulatta",
+      "accession": "NM_001198693.3",
+      "nt_len": 1155,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Macaca mulatta apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA"
+    },
+    {
+      "taxon": "Macaca_nemestrina",
+      "species": "Macaca nemestrina",
+      "accession": "NM_001305908.2",
+      "nt_len": 1131,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Macaca nemestrina apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA"
+    },
+    {
+      "taxon": "Mandrillus_leucophaeus",
+      "species": "Mandrillus leucophaeus",
+      "accession": "NM_001345916.1",
+      "nt_len": 1131,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Mandrillus leucophaeus apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mR"
+    },
+    {
+      "taxon": "Nomascus_leucogenys",
+      "species": "Nomascus leucogenys",
+      "accession": "DQ251285.1",
+      "nt_len": 1134,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Nomascus leucogenys apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G (APOBEC3"
+    },
+    {
+      "taxon": "Pan_paniscus",
+      "species": "Pan paniscus",
+      "accession": "XM_034949101.4",
+      "nt_len": 1155,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "PREDICTED: Pan paniscus apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), t"
+    },
+    {
+      "taxon": "Pan_troglodytes",
+      "species": "Pan troglodytes",
+      "accession": "NM_001009001.2",
+      "nt_len": 1155,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Pan troglodytes apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA"
+    },
+    {
+      "taxon": "Papio_anubis",
+      "species": "Papio anubis",
+      "accession": "NM_001345883.1",
+      "nt_len": 1131,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Papio anubis apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA"
+    },
+    {
+      "taxon": "Piliocolobus_tephrosceles",
+      "species": "Piliocolobus tephrosceles",
+      "accession": "XM_026448467.1",
+      "nt_len": 1161,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "PREDICTED: Piliocolobus tephrosceles apolipoprotein B mRNA editing enzyme catalytic subunit 3G "
+    },
+    {
+      "taxon": "Pongo_abelii",
+      "species": "Pongo abelii",
+      "accession": "XM_024239696.3",
+      "nt_len": 1197,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "PREDICTED: Pongo abelii apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), t"
+    },
+    {
+      "taxon": "Pongo_pygmaeus",
+      "species": "Pongo pygmaeus",
+      "accession": "XM_054470460.2",
+      "nt_len": 1197,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "PREDICTED: Pongo pygmaeus apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G),"
+    },
+    {
+      "taxon": "Rhinopithecus_roxellana",
+      "species": "Rhinopithecus roxellana",
+      "accession": "NM_001345905.1",
+      "nt_len": 1140,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Rhinopithecus roxellana apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), m"
+    },
+    {
+      "taxon": "Symphalangus_syndactylus",
+      "species": "Symphalangus syndactylus",
+      "accession": "DQ251286.1",
+      "nt_len": 1119,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "Symphalangus syndactylus apolipoprotein B mRNA editing enzyme catalytic polypeptide-like 3G (AP"
+    },
+    {
+      "taxon": "Theropithecus_gelada",
+      "species": "Theropithecus gelada",
+      "accession": "XM_086726397.1",
+      "nt_len": 1185,
+      "internal_stops": 0,
+      "source": "NCBI_Primate_APOBEC3G",
+      "note": "PREDICTED: Theropithecus gelada apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOB"
+    }
+  ]
+}

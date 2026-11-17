@@ -1,0 +1,756 @@
+{
+  "gene": "TRIM25",
+  "human_gene_id": 7706,
+  "uniprot": "Q14258",
+  "arm": "Antiviral_Effector_Sensor",
+  "human_uniprot_aa_len": 630,
+  "human_cds_nt_len": 1893,
+  "human_aa_match_to_uniprot": 1.0,
+  "total_taxa": 72,
+  "intact_taxa": 72,
+  "pseudogene_stop_taxa": [],
+  "min_nt": 1767,
+  "max_nt": 2019,
+  "orders": {
+    "Afrosoricida": 3,
+    "Artiodactyla": 6,
+    "Carnivora": 6,
+    "Cetacea": 6,
+    "Chiroptera": 6,
+    "Cingulata": 1,
+    "Eulipotyphla": 5,
+    "Lagomorpha": 4,
+    "Other": 3,
+    "Perissodactyla": 4,
+    "Pholidota": 2,
+    "Pilosa": 2,
+    "Primates": 14,
+    "Proboscidea": 2,
+    "Rodentia": 6,
+    "Scandentia": 1,
+    "Sirenia": 1
+  },
+  "records": [
+    {
+      "taxon": "Homo_sapiens",
+      "species": "Homo sapiens",
+      "order": "Primates",
+      "family": "Hominidae",
+      "accession": "NM_005082.5",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_RefSeq_Homo_sapiens",
+      "aa_match_to_uniprot": 1.0
+    },
+    {
+      "taxon": "Chrysochloris_asiatica",
+      "species": "Chrysochloris asiatica",
+      "order": "Afrosoricida",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_006833643.1",
+      "nt_len": 1845,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Echinops_telfairi",
+      "species": "Echinops telfairi",
+      "order": "Afrosoricida",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_045299738.1",
+      "nt_len": 1860,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Tenrec_ecaudatus",
+      "species": "Tenrec ecaudatus",
+      "order": "Afrosoricida",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_075561560.1",
+      "nt_len": 1875,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Bos_taurus",
+      "species": "Bos taurus",
+      "order": "Artiodactyla",
+      "family": "NCBI_RefSeq",
+      "accession": "NM_001100336.1",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Oryx_dammah",
+      "species": "Oryx dammah",
+      "order": "Artiodactyla",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_040244280.1",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Ovis_canadensis",
+      "species": "Ovis canadensis",
+      "order": "Artiodactyla",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_069602541.1",
+      "nt_len": 1902,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Phacochoerus_africanus",
+      "species": "Phacochoerus africanus",
+      "order": "Artiodactyla",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_047757189.1",
+      "nt_len": 1899,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Sus_scrofa",
+      "species": "Sus scrofa",
+      "order": "Artiodactyla",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_084983130.1",
+      "nt_len": 1899,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Vicugna_pacos",
+      "species": "Vicugna pacos",
+      "order": "Artiodactyla",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_031685141.2",
+      "nt_len": 1902,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Ailuropoda_melanoleuca",
+      "species": "Ailuropoda melanoleuca",
+      "order": "Carnivora",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_011220272.3",
+      "nt_len": 1905,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Canis_lupus",
+      "species": "Canis lupus baileyi",
+      "order": "Carnivora",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_072779918.1",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Nyctereutes_procyonoides",
+      "species": "Nyctereutes procyonoides",
+      "order": "Carnivora",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_055328962.1",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Suricata_suricatta",
+      "species": "Suricata suricatta",
+      "order": "Carnivora",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_029928709.1",
+      "nt_len": 1905,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Ursus_maritimus",
+      "species": "Ursus maritimus",
+      "order": "Carnivora",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_008695618.2",
+      "nt_len": 1905,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Vulpes_lagopus",
+      "species": "Vulpes lagopus",
+      "order": "Carnivora",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_041724411.1",
+      "nt_len": 1908,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Delphinus_delphis",
+      "species": "Delphinus delphis",
+      "order": "Cetacea",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_059997100.1",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Eubalaena_glacialis",
+      "species": "Eubalaena glacialis",
+      "order": "Cetacea",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_061174718.1",
+      "nt_len": 1902,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Leucopleurus_acutus",
+      "species": "Leucopleurus acutus",
+      "order": "Cetacea",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_082861344.1",
+      "nt_len": 1887,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Orcinus_orca",
+      "species": "Orcinus orca",
+      "order": "Cetacea",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_033431757.2",
+      "nt_len": 1887,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Stenella_coeruleoalba",
+      "species": "Stenella coeruleoalba",
+      "order": "Cetacea",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_079904548.1",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Tursiops_truncatus",
+      "species": "Tursiops truncatus",
+      "order": "Cetacea",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_019945458.3",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Phyllostomus_hastatus",
+      "species": "Phyllostomus hastatus",
+      "order": "Chiroptera",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_045837574.1",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Pipistrellus_kuhlii",
+      "species": "Pipistrellus kuhlii",
+      "order": "Chiroptera",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_036454199.2",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Pteronotus_mesoamericanus",
+      "species": "Pteronotus mesoamericanus",
+      "order": "Chiroptera",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_054585444.1",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Pteropus_vampyrus",
+      "species": "Pteropus vampyrus",
+      "order": "Chiroptera",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_023533518.1",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Rousettus_aegyptiacus",
+      "species": "Rousettus aegyptiacus",
+      "order": "Chiroptera",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_036221981.1",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Sturnira_hondurensis",
+      "species": "Sturnira hondurensis",
+      "order": "Chiroptera",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_037037427.1",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Dasypus_novemcinctus",
+      "species": "Dasypus novemcinctus",
+      "order": "Cingulata",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_004481244.5",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Condylura_cristata",
+      "species": "Condylura cristata",
+      "order": "Eulipotyphla",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_012726580.1",
+      "nt_len": 1914,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Erinaceus_europaeus",
+      "species": "Erinaceus europaeus",
+      "order": "Eulipotyphla",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_060203787.1",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Solenodon_paradoxus",
+      "species": "Solenodon paradoxus",
+      "order": "Eulipotyphla",
+      "family": "Solenodontidae",
+      "accession": "TOGA2:HLsolPar1",
+      "nt_len": 1881,
+      "internal_stops": 0,
+      "source": "TOGA2_intact"
+    },
+    {
+      "taxon": "Sorex_araneus",
+      "species": "Sorex araneus",
+      "order": "Eulipotyphla",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_055132231.1",
+      "nt_len": 1905,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Talpa_occidentalis",
+      "species": "Talpa occidentalis",
+      "order": "Eulipotyphla",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_037492296.2",
+      "nt_len": 1911,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Lepus_europaeus",
+      "species": "Lepus europaeus",
+      "order": "Lagomorpha",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_062215648.1",
+      "nt_len": 1920,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Ochotona_curzoniae",
+      "species": "Ochotona curzoniae",
+      "order": "Lagomorpha",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_041000284.1",
+      "nt_len": 1854,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Ochotona_princeps",
+      "species": "Ochotona princeps",
+      "order": "Lagomorpha",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_058675898.1",
+      "nt_len": 1899,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Oryctolagus_cuniculus",
+      "species": "Oryctolagus cuniculus",
+      "order": "Lagomorpha",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_070060915.2",
+      "nt_len": 1911,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Aethalodelphis_obliquidens",
+      "species": "Aethalodelphis obliquidens",
+      "order": "Other",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_027087128.1",
+      "nt_len": 1887,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Dromiciops_gliroides",
+      "species": "Dromiciops gliroides",
+      "order": "Other",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_044000295.1",
+      "nt_len": 2019,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Orycteropus_afer",
+      "species": "Orycteropus afer afer",
+      "order": "Other",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_042782156.1",
+      "nt_len": 1872,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Ceratotherium_simum",
+      "species": "Ceratotherium simum simum",
+      "order": "Perissodactyla",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_087440942.1",
+      "nt_len": 1914,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Dicerorhinus_sumatrensis",
+      "species": "Dicerorhinus sumatrensis harrissoni",
+      "order": "Perissodactyla",
+      "family": "Rhinocerotidae",
+      "accession": "TOGA2:HLdicSumHar2",
+      "nt_len": 1875,
+      "internal_stops": 0,
+      "source": "TOGA2_intact"
+    },
+    {
+      "taxon": "Diceros_bicornis",
+      "species": "Diceros bicornis minor",
+      "order": "Perissodactyla",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_058560609.1",
+      "nt_len": 1914,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Rhinoceros_unicornis",
+      "species": "Rhinoceros unicornis",
+      "order": "Perissodactyla",
+      "family": "Rhinocerotidae",
+      "accession": "TOGA2:HLrhiUni1",
+      "nt_len": 1875,
+      "internal_stops": 0,
+      "source": "TOGA2_intact"
+    },
+    {
+      "taxon": "Manis_javanica",
+      "species": "Manis javanica",
+      "order": "Pholidota",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_036999018.2",
+      "nt_len": 1911,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Manis_pentadactyla",
+      "species": "Manis pentadactyla",
+      "order": "Pholidota",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_036879558.2",
+      "nt_len": 1911,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Choloepus_didactylus",
+      "species": "Choloepus didactylus",
+      "order": "Pilosa",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_037809282.1",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Tamandua_tetradactyla",
+      "species": "Tamandua tetradactyla",
+      "order": "Pilosa",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_077164865.1",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Nycticebus_coucang",
+      "species": "Nycticebus coucang",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_053568170.1",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Otolemur_garnettii",
+      "species": "Otolemur garnettii",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_023516599.1",
+      "nt_len": 1767,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Pan_troglodytes",
+      "species": "Pan troglodytes",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_063799893.1",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Papio_anubis",
+      "species": "Papio anubis",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_003912787.5",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Piliocolobus_tephrosceles",
+      "species": "Piliocolobus tephrosceles",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_023204568.2",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Pongo_pygmaeus",
+      "species": "Pongo pygmaeus",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_054460187.2",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Propithecus_coquereli",
+      "species": "Propithecus coquereli",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_012665705.1",
+      "nt_len": 1902,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Rhinopithecus_roxellana",
+      "species": "Rhinopithecus roxellana",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_010380648.2",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Saimiri_boliviensis",
+      "species": "Saimiri boliviensis",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_074388546.1",
+      "nt_len": 1890,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Sapajus_apella",
+      "species": "Sapajus apella",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_032279361.1",
+      "nt_len": 1878,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Symphalangus_syndactylus",
+      "species": "Symphalangus syndactylus",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_055258818.2",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Theropithecus_gelada",
+      "species": "Theropithecus gelada",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_025362764.2",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Trachypithecus_francoisi",
+      "species": "Trachypithecus francoisi",
+      "order": "Primates",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_033183595.1",
+      "nt_len": 1893,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Elephas_maximus",
+      "species": "Elephas maximus indicus",
+      "order": "Proboscidea",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_049861302.1",
+      "nt_len": 1878,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Loxodonta_africana",
+      "species": "Loxodonta africana",
+      "order": "Proboscidea",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_064271266.1",
+      "nt_len": 1878,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Chinchilla_lanigera",
+      "species": "Chinchilla lanigera",
+      "order": "Rodentia",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_005394067.2",
+      "nt_len": 1890,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Cricetulus_griseus",
+      "species": "Cricetulus griseus",
+      "order": "Rodentia",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_007624115.4",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Dipodomys_spectabilis",
+      "species": "Dipodomys spectabilis",
+      "order": "Rodentia",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_042673726.1",
+      "nt_len": 1899,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Grammomys_surdaster",
+      "species": "Grammomys surdaster",
+      "order": "Rodentia",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_028772391.1",
+      "nt_len": 1896,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Heterocephalus_glaber",
+      "species": "Heterocephalus glaber",
+      "order": "Rodentia",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_004859798.3",
+      "nt_len": 1887,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Perognathus_longimembris",
+      "species": "Perognathus longimembris pacificus",
+      "order": "Rodentia",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_048365842.1",
+      "nt_len": 1902,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Tupaia_belangeri",
+      "species": "Tupaia belangeri chinensis",
+      "order": "Scandentia",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_006154666.3",
+      "nt_len": 1926,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    },
+    {
+      "taxon": "Trichechus_manatus",
+      "species": "Trichechus manatus latirostris",
+      "order": "Sirenia",
+      "family": "NCBI_RefSeq",
+      "accession": "XM_023732735.1",
+      "nt_len": 1878,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_7706"
+    }
+  ]
+}

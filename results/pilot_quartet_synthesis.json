@@ -1,0 +1,4262 @@
+{
+  "pilot_quartet": {
+    "TRIM5": {
+      "gene": "TRIM5",
+      "input_sequences": 67,
+      "admitted_sequences": 67,
+      "rescued_frame_or_strand": 1,
+      "admitted_pseudogene_or_frameshift_taxa": [
+        {
+          "codon_length": 419,
+          "frame_offset": 0,
+          "internal_stops_frame0": 4,
+          "max_aa_identity": 0.5322195704057279,
+          "max_homology_z": 19.930221996921343,
+          "name": "Felis_catus",
+          "raw_nt_length": 1252,
+          "reason": "Admitted pseudogene (fwd frame +0; repaired 5 frameshifts, masked 2 internal stops to NNN)",
+          "reverse_complemented": false,
+          "status": "Rescued"
+        }
+      ],
+      "msa_codons": 595,
+      "human_ref_codons": 493,
+      "non_human_inserted_columns": 92,
+      "branch_indel_events": 150,
+      "branch_indel_codons": 458,
+      "mean_column_posterior": 0.9552007550634876,
+      "coupled_spr_moves": 0,
+      "wheatstone_bridges_count": 12,
+      "recombination_segments": [
+        {
+          "clade_u": "Node16",
+          "conductance": 0.8423446101972352,
+          "p_value": 0.00399800099950025,
+          "peak_end_codon": 35,
+          "peak_start_codon": 5,
+          "routed_to_spr_tree": true,
+          "segment_delta_log_l": 14.71882727655459,
+          "target_v": "Saimiri_boliviensis"
+        },
+        {
+          "clade_u": "Eptesicus_fuscus",
+          "conductance": 0.7996311839068772,
+          "p_value": 0.3658170914542729,
+          "peak_end_codon": 90,
+          "peak_start_codon": 69,
+          "routed_to_spr_tree": false,
+          "segment_delta_log_l": 6.393516955773322,
+          "target_v": "Gorilla_gorilla"
+        }
+      ],
+      "gc3_heterogeneous": false,
+      "gc3_cp3_p": 0.9999999998865498,
+      "directional_drift_active": false,
+      "busted_e_lrt": 0.0,
+      "busted_e_p": 1.0,
+      "error_sink_weight": 0.0059239879388029125,
+      "summary_counts": {
+        "branches_episodic_diversifying": 9,
+        "branches_intensified": 0,
+        "branches_loss_of_constraint": 1,
+        "branches_relaxed": 16,
+        "false_positive_sites_eliminated": 2,
+        "sites_episodic_diversifying": 89,
+        "sites_exchangeability_or_convergent": 48,
+        "sites_pervasive_diversifying": 49,
+        "sites_pervasive_purifying": 99,
+        "sites_regime_differential": 0,
+        "sites_simes_diversifying": 3,
+        "sites_simes_fdr_significant": 59,
+        "sites_simes_purifying": 21,
+        "spatial_domains_detected": 6,
+        "synonymous_constraint_islands": 0,
+        "true_positive_sites_rescued": 0
+      },
+      "coevolution_pairs_q010": [
+        {
+          "bh_q_value": 1.2533205619102704e-11,
+          "cosine_similarity": 0.823128035125361,
+          "expected_shared": 30.04572764277132,
+          "p_value": 1e-15,
+          "shared_branches": 51.0,
+          "site_i": 307,
+          "site_j": 511,
+          "top_co_mutating_branches": "Propithecus_coquereli,Lemur_catta,Lagothrix_lagotricha"
+        },
+        {
+          "bh_q_value": 1.2533205619102704e-11,
+          "cosine_similarity": 0.9541181110482801,
+          "expected_shared": 27.818187844472956,
+          "p_value": 1e-15,
+          "shared_branches": 50.0,
+          "site_i": 508,
+          "site_j": 511,
+          "top_co_mutating_branches": "Node17,Lagothrix_lagotricha,Ateles_geoffroyi,Sapajus_apella"
+        },
+        {
+          "bh_q_value": 1.2533205619102704e-11,
+          "cosine_similarity": 0.8154147603230336,
+          "expected_shared": 29.26484318748855,
+          "p_value": 1e-15,
+          "shared_branches": 50.0,
+          "site_i": 416,
+          "site_j": 511,
+          "top_co_mutating_branches": "Lemur_catta,Lagothrix_lagotricha,Ateles_geoffroyi"
+        },
+        {
+          "bh_q_value": 1.2533205619102704e-11,
+          "cosine_similarity": 0.7880072194643898,
+          "expected_shared": 29.020558207652517,
+          "p_value": 1e-15,
+          "shared_branches": 49.0,
+          "site_i": 416,
+          "site_j": 508,
+          "top_co_mutating_branches": "Lagothrix_lagotricha,Ateles_geoffroyi,Sapajus_apella"
+        },
+        {
+          "bh_q_value": 1.2533205619102704e-11,
+          "cosine_similarity": 0.7710777462758102,
+          "expected_shared": 29.786425654179894,
+          "p_value": 1.029049511396514e-15,
+          "shared_branches": 49.0,
+          "site_i": 307,
+          "site_j": 508,
+          "top_co_mutating_branches": "Lagothrix_lagotricha,Ateles_geoffroyi,Sapajus_apella"
+        },
+        {
+          "bh_q_value": 2.611124466578423e-09,
+          "cosine_similarity": 0.7495368245723375,
+          "expected_shared": 26.9465895345379,
+          "p_value": 2.5726631524493057e-13,
+          "shared_branches": 42.0,
+          "site_i": 401,
+          "site_j": 416,
+          "top_co_mutating_branches": "Felis_catus,Node9,Tadarida_brasiliensis,Miniopterus_fuliginosus"
+        },
+        {
+          "bh_q_value": 1.6570966659273373e-08,
+          "cosine_similarity": 0.6619511436457213,
+          "expected_shared": 31.500290871139043,
+          "p_value": 1.904802644053297e-12,
+          "shared_branches": 52.0,
+          "site_i": 307,
+          "site_j": 416,
+          "top_co_mutating_branches": "Lemur_catta,Felis_catus,Node7,Lagothrix_lagotricha"
+        },
+        {
+          "bh_q_value": 1.0767324093687595e-06,
+          "cosine_similarity": 0.8769334063168619,
+          "expected_shared": 0.41002461894817055,
+          "p_value": 1.4144964899666777e-10,
+          "shared_branches": 4.0,
+          "site_i": 272,
+          "site_j": 550,
+          "top_co_mutating_branches": "Eptesicus_fuscus,Capra_hircus,Mus_pahari,Node20"
+        },
+        {
+          "bh_q_value": 1.7962310156875547e-06,
+          "cosine_similarity": 0.9999914822405939,
+          "expected_shared": 0.1845110785266769,
+          "p_value": 2.65465936600949e-10,
+          "shared_branches": 3.0,
+          "site_i": 6,
+          "site_j": 173,
+          "top_co_mutating_branches": "Miniopterus_fuliginosus,Mus_pahari,Rattus_norvegicus"
+        },
+        {
+          "bh_q_value": 2.1846677057520497e-06,
+          "cosine_similarity": 0.9999104424454062,
+          "expected_shared": 0.1845110785266769,
+          "p_value": 3.587480016670854e-10,
+          "shared_branches": 3.0,
+          "site_i": 164,
+          "site_j": 226,
+          "top_co_mutating_branches": "Node3,Felis_catus,Node13"
+        },
+        {
+          "bh_q_value": 0.0003690981531315669,
+          "cosine_similarity": 0.8059195181361944,
+          "expected_shared": 0.5740344665274383,
+          "p_value": 7.242572012021537e-08,
+          "shared_branches": 4.0,
+          "site_i": 428,
+          "site_j": 431,
+          "top_co_mutating_branches": "Lemur_catta,Node7,Bos_taurus,Node15"
+        },
+        {
+          "bh_q_value": 0.0003690981531315669,
+          "cosine_similarity": 0.7738608452334149,
+          "expected_shared": 0.5740344665274383,
+          "p_value": 7.273228299553021e-08,
+          "shared_branches": 4.0,
+          "site_i": 65,
+          "site_j": 183,
+          "top_co_mutating_branches": "Node3,Felis_catus,Node20,Node38"
+        },
+        {
+          "bh_q_value": 0.0010648467908650435,
+          "cosine_similarity": 0.8360114578505984,
+          "expected_shared": 0.12300738568445123,
+          "p_value": 2.2731839468685759e-07,
+          "shared_branches": 2.0,
+          "site_i": 28,
+          "site_j": 84,
+          "top_co_mutating_branches": "Sciurus_carolinensis,Rattus_norvegicus"
+        },
+        {
+          "bh_q_value": 0.001088036598549609,
+          "cosine_similarity": 0.7686308495158474,
+          "expected_shared": 0.30751846421112805,
+          "p_value": 2.5013567794299435e-07,
+          "shared_branches": 3.0,
+          "site_i": 225,
+          "site_j": 295,
+          "top_co_mutating_branches": "Tadarida_brasiliensis,Spermophilus_citellus,Node20"
+        },
+        {
+          "bh_q_value": 0.0014443632772771146,
+          "cosine_similarity": 0.8146171300359103,
+          "expected_shared": 0.12300738568445123,
+          "p_value": 3.719537247141233e-07,
+          "shared_branches": 2.0,
+          "site_i": 238,
+          "site_j": 375,
+          "top_co_mutating_branches": "Microcebus_murinus,Mus_pahari"
+        },
+        {
+          "bh_q_value": 0.0014443632772771146,
+          "cosine_similarity": 0.7353044128446062,
+          "expected_shared": 0.5125307736852129,
+          "p_value": 3.794901626752358e-07,
+          "shared_branches": 4.0,
+          "site_i": 271,
+          "site_j": 523,
+          "top_co_mutating_branches": "Felis_catus,Tadarida_brasiliensis,Eptesicus_fuscus"
+        },
+        {
+          "bh_q_value": 0.0016601761195177576,
+          "cosine_similarity": 0.8119738805961007,
+          "expected_shared": 0.12300738568445123,
+          "p_value": 4.88721882625797e-07,
+          "shared_branches": 2.0,
+          "site_i": 277,
+          "site_j": 304,
+          "top_co_mutating_branches": "Node11,Sciurus_carolinensis"
+        },
+        {
+          "bh_q_value": 0.0016601761195177576,
+          "cosine_similarity": 0.8110148368910448,
+          "expected_shared": 0.12300738568445123,
+          "p_value": 4.907166223511772e-07,
+          "shared_branches": 2.0,
+          "site_i": 72,
+          "site_j": 130,
+          "top_co_mutating_branches": "Miniopterus_fuliginosus,Node12"
+        },
+        {
+          "bh_q_value": 0.0018040467921870014,
+          "cosine_similarity": 0.8061632729090603,
+          "expected_shared": 0.12300738568445123,
+          "p_value": 5.893076506143909e-07,
+          "shared_branches": 2.0,
+          "site_i": 371,
+          "site_j": 535,
+          "top_co_mutating_branches": "Lemur_catta,Node11"
+        },
+        {
+          "bh_q_value": 0.0018040467921870014,
+          "cosine_similarity": 0.8059840495687045,
+          "expected_shared": 0.12300738568445123,
+          "p_value": 5.924911874762309e-07,
+          "shared_branches": 2.0,
+          "site_i": 111,
+          "site_j": 378,
+          "top_co_mutating_branches": "Miniopterus_fuliginosus,Node21"
+        },
+        {
+          "bh_q_value": 0.002088831467990524,
+          "cosine_similarity": 0.8054983697103758,
+          "expected_shared": 0.12300738568445123,
+          "p_value": 7.286428814940697e-07,
+          "shared_branches": 2.0,
+          "site_i": 6,
+          "site_j": 73,
+          "top_co_mutating_branches": "Miniopterus_fuliginosus,Mus_pahari"
+        },
+        {
+          "bh_q_value": 0.002088831467990524,
+          "cosine_similarity": 0.804280517241223,
+          "expected_shared": 0.12300738568445123,
+          "p_value": 7.546232539499734e-07,
+          "shared_branches": 2.0,
+          "site_i": 73,
+          "site_j": 173,
+          "top_co_mutating_branches": "Miniopterus_fuliginosus,Mus_pahari"
+        },
+        {
+          "bh_q_value": 0.0022548644648012896,
+          "cosine_similarity": 0.8038297897610753,
+          "expected_shared": 0.12300738568445123,
+          "p_value": 8.516328011302635e-07,
+          "shared_branches": 2.0,
+          "site_i": 164,
+          "site_j": 567,
+          "top_co_mutating_branches": "Node3,Node13"
+        },
+        {
+          "bh_q_value": 0.0024240657759618854,
+          "cosine_similarity": 0.791680045055509,
+          "expected_shared": 0.3690221570533538,
+          "p_value": 9.553439187987134e-07,
+          "shared_branches": 3.0,
+          "site_i": 429,
+          "site_j": 531,
+          "top_co_mutating_branches": "Bos_taurus,Node15,Rattus_norvegicus"
+        },
+        {
+          "bh_q_value": 0.002482143211630331,
+          "cosine_similarity": 0.8000602569467357,
+          "expected_shared": 0.12300738568445123,
+          "p_value": 1.018992401772801e-06,
+          "shared_branches": 2.0,
+          "site_i": 226,
+          "site_j": 567,
+          "top_co_mutating_branches": "Node3,Node13"
+        }
+      ],
+      "coevolution_pairs_top5": [
+        {
+          "bh_q_value": 1.2533205619102704e-11,
+          "cosine_similarity": 0.823128035125361,
+          "expected_shared": 30.04572764277132,
+          "p_value": 1e-15,
+          "shared_branches": 51.0,
+          "site_i": 307,
+          "site_j": 511,
+          "top_co_mutating_branches": "Propithecus_coquereli,Lemur_catta,Lagothrix_lagotricha"
+        },
+        {
+          "bh_q_value": 1.2533205619102704e-11,
+          "cosine_similarity": 0.9541181110482801,
+          "expected_shared": 27.818187844472956,
+          "p_value": 1e-15,
+          "shared_branches": 50.0,
+          "site_i": 508,
+          "site_j": 511,
+          "top_co_mutating_branches": "Node17,Lagothrix_lagotricha,Ateles_geoffroyi,Sapajus_apella"
+        },
+        {
+          "bh_q_value": 1.2533205619102704e-11,
+          "cosine_similarity": 0.8154147603230336,
+          "expected_shared": 29.26484318748855,
+          "p_value": 1e-15,
+          "shared_branches": 50.0,
+          "site_i": 416,
+          "site_j": 511,
+          "top_co_mutating_branches": "Lemur_catta,Lagothrix_lagotricha,Ateles_geoffroyi"
+        },
+        {
+          "bh_q_value": 1.2533205619102704e-11,
+          "cosine_similarity": 0.7880072194643898,
+          "expected_shared": 29.020558207652517,
+          "p_value": 1e-15,
+          "shared_branches": 49.0,
+          "site_i": 416,
+          "site_j": 508,
+          "top_co_mutating_branches": "Lagothrix_lagotricha,Ateles_geoffroyi,Sapajus_apella"
+        },
+        {
+          "bh_q_value": 1.2533205619102704e-11,
+          "cosine_similarity": 0.7710777462758102,
+          "expected_shared": 29.786425654179894,
+          "p_value": 1.029049511396514e-15,
+          "shared_branches": 49.0,
+          "site_i": 307,
+          "site_j": 508,
+          "top_co_mutating_branches": "Lagothrix_lagotricha,Ateles_geoffroyi,Sapajus_apella"
+        }
+      ],
+      "lof_flagged_branches": [
+        {
+          "branch": "Miniopterus_fuliginosus",
+          "lof_bf": 1692584.4656997647,
+          "lof_p": 5.77445943158501e-09,
+          "relax_k": 0.07761839719341693,
+          "core_invaded": [
+            280,
+            182,
+            256,
+            130,
+            118,
+            111,
+            69,
+            132
+          ]
+        }
+      ],
+      "loop_enrichment": {
+        "loop_cols": 82,
+        "loop_diversifying": 28,
+        "scaffold_cols": 513,
+        "scaffold_diversifying": 102,
+        "fisher_odds_ratio": 2.0893246187363834,
+        "fisher_p_value": 0.003924213856601473
+      },
+      "prime_changing_by_prop": {
+        "Isoelectric_Point_pI": 16,
+        "AlphaHelix_Propensity_ChouFasman": 8,
+        "Volume_Angstrom3": 8,
+        "Hydrophobicity_KyteDoolittle": 2,
+        "BetaSheet_Propensity_ChouFasman": 1
+      },
+      "prime_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 7,
+        "Hydrophobicity_KyteDoolittle": 5,
+        "BetaSheet_Propensity_ChouFasman": 7,
+        "Volume_Angstrom3": 5,
+        "Isoelectric_Point_pI": 1
+      },
+      "prime_changing_sites_detail": [
+        {
+          "msa_site": 8,
+          "human_pos": 8,
+          "human_coord_float": 8.0,
+          "omnibus_q": 0.8678917175152078,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.4273238800709633,
+              "adj_p": 0.008963932072331654
+            }
+          ]
+        },
+        {
+          "msa_site": 28,
+          "human_pos": 28,
+          "human_coord_float": 28.0,
+          "omnibus_q": 0.914681231325215,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.6496549928734099,
+              "adj_p": 0.04266506415474744
+            }
+          ]
+        },
+        {
+          "msa_site": 41,
+          "human_pos": 41,
+          "human_coord_float": 41.0,
+          "omnibus_q": 0.7078419173045977,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.3347462659070208,
+              "adj_p": 0.03705825801859555
+            }
+          ]
+        },
+        {
+          "msa_site": 45,
+          "human_pos": 45,
+          "human_coord_float": 45.0,
+          "omnibus_q": 0.8585303018450116,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.1951630752859246,
+              "adj_p": 0.010993390617360002
+            }
+          ]
+        },
+        {
+          "msa_site": 49,
+          "human_pos": 49,
+          "human_coord_float": 49.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.5018145449302558,
+              "adj_p": 0.02980719250075218
+            }
+          ]
+        },
+        {
+          "msa_site": 83,
+          "human_pos": 82,
+          "human_coord_float": 82.0,
+          "omnibus_q": 0.914681231325215,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -2.4732067865546647,
+              "adj_p": 0.06194793482154719
+            }
+          ]
+        },
+        {
+          "msa_site": 112,
+          "human_pos": 110,
+          "human_coord_float": 110.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.4139345514602124,
+              "adj_p": 0.00589293520055204
+            }
+          ]
+        },
+        {
+          "msa_site": 127,
+          "human_pos": 125,
+          "human_coord_float": 125.0,
+          "omnibus_q": 0.914681231325215,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.6698898803889086,
+              "adj_p": 0.05503677946641128
+            }
+          ]
+        },
+        {
+          "msa_site": 152,
+          "human_pos": 150,
+          "human_coord_float": 150.0,
+          "omnibus_q": 0.7078419173045977,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.9536101948599529,
+              "adj_p": 0.07674104796897917
+            }
+          ]
+        },
+        {
+          "msa_site": 154,
+          "human_pos": 152,
+          "human_coord_float": 152.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.252658343160529,
+              "adj_p": 0.08516191602269131
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.6654223704512732,
+              "adj_p": 0.09491027874361149
+            }
+          ]
+        },
+        {
+          "msa_site": 180,
+          "human_pos": 178,
+          "human_coord_float": 178.0,
+          "omnibus_q": 0.7078419173045977,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.9426955373879835,
+              "adj_p": 0.0928429691017089
+            },
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.1947009778360707,
+              "adj_p": 0.02651103413741897
+            }
+          ]
+        },
+        {
+          "msa_site": 189,
+          "human_pos": 187,
+          "human_coord_float": 187.0,
+          "omnibus_q": 0.47189625204039054,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.600014171179502,
+              "adj_p": 0.011687029728418912
+            }
+          ]
+        },
+        {
+          "msa_site": 206,
+          "human_pos": 204,
+          "human_coord_float": 204.0,
+          "omnibus_q": 0.8678917175152078,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.0209759351396672,
+              "adj_p": 0.010336850344143039
+            }
+          ]
+        },
+        {
+          "msa_site": 212,
+          "human_pos": 210,
+          "human_coord_float": 210.0,
+          "omnibus_q": 0.8585303018450116,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.3119510586301277,
+              "adj_p": 0.04905638963994055
+            }
+          ]
+        },
+        {
+          "msa_site": 215,
+          "human_pos": 213,
+          "human_coord_float": 213.0,
+          "omnibus_q": 0.8585303018450116,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.769016273278462,
+              "adj_p": 0.027269331555361646
+            }
+          ]
+        },
+        {
+          "msa_site": 217,
+          "human_pos": 215,
+          "human_coord_float": 215.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -2.3855348591257832,
+              "adj_p": 0.06639627447570762
+            }
+          ]
+        },
+        {
+          "msa_site": 296,
+          "human_pos": 294,
+          "human_coord_float": 294.0,
+          "omnibus_q": 0.47189625204039054,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.3053313699445936,
+              "adj_p": 0.0044004170277008306
+            }
+          ]
+        },
+        {
+          "msa_site": 297,
+          "human_pos": 295,
+          "human_coord_float": 295.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.2857848353084658,
+              "adj_p": 0.042147139216502295
+            }
+          ]
+        },
+        {
+          "msa_site": 312,
+          "human_pos": 309,
+          "human_coord_float": 309.0,
+          "omnibus_q": 0.47189625204039054,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -2.088664885028341,
+              "adj_p": 0.03870821416625579
+            }
+          ]
+        },
+        {
+          "msa_site": 319,
+          "human_pos": 316,
+          "human_coord_float": 316.0,
+          "omnibus_q": 0.8585303018450116,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.2928376321258814,
+              "adj_p": 0.05457558886368583
+            }
+          ]
+        },
+        {
+          "msa_site": 327,
+          "human_pos": 324,
+          "human_coord_float": 324.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.6452052576317417,
+              "adj_p": 0.08915202587252563
+            }
+          ]
+        },
+        {
+          "msa_site": 330,
+          "human_pos": 327,
+          "human_coord_float": 327.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.0853950367309204,
+              "adj_p": 0.08927965277963253
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.1410400377579946,
+              "adj_p": 0.05267744423690036
+            }
+          ]
+        },
+        {
+          "msa_site": 332,
+          "human_pos": 329,
+          "human_coord_float": 329.0,
+          "omnibus_q": 0.7078419173045977,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.6094329158598644,
+              "adj_p": 0.005745198905847137
+            }
+          ]
+        },
+        {
+          "msa_site": 339,
+          "human_pos": 336,
+          "human_coord_float": 336.0,
+          "omnibus_q": 0.8585303018450116,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.1825401293144713,
+              "adj_p": 0.09285341817953902
+            }
+          ]
+        },
+        {
+          "msa_site": 410,
+          "human_pos": 384,
+          "human_coord_float": 384.0,
+          "omnibus_q": 0.914681231325215,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.6107143585985477,
+              "adj_p": 0.03041620895794248
+            }
+          ]
+        },
+        {
+          "msa_site": 415,
+          "human_pos": 389,
+          "human_coord_float": 389.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.997585122186692,
+              "adj_p": 0.045989813846887787
+            }
+          ]
+        },
+        {
+          "msa_site": 428,
+          "human_pos": 401,
+          "human_coord_float": 401.0,
+          "omnibus_q": 0.47189625204039054,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -2.2295419221240147,
+              "adj_p": 0.01303216503532171
+            }
+          ]
+        },
+        {
+          "msa_site": 429,
+          "human_pos": 402,
+          "human_coord_float": 402.0,
+          "omnibus_q": 0.7078419173045977,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -2.3705083481903775,
+              "adj_p": 0.010858820165899377
+            }
+          ]
+        },
+        {
+          "msa_site": 498,
+          "human_pos": null,
+          "human_coord_float": 407.97,
+          "omnibus_q": 0.8585303018450116,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.9434296767907928,
+              "adj_p": 0.016125448119485887
+            }
+          ]
+        },
+        {
+          "msa_site": 560,
+          "human_pos": 467,
+          "human_coord_float": 467.0,
+          "omnibus_q": 0.7078419173045977,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.6698677214344322,
+              "adj_p": 0.028830923357785747
+            }
+          ]
+        },
+        {
+          "msa_site": 561,
+          "human_pos": 468,
+          "human_coord_float": 468.0,
+          "omnibus_q": 0.5961833121113741,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.6155698998727464,
+              "adj_p": 0.007511544754701736
+            }
+          ]
+        },
+        {
+          "msa_site": 576,
+          "human_pos": 483,
+          "human_coord_float": 483.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.70926610761426,
+              "adj_p": 0.09030577959234636
+            }
+          ]
+        }
+      ],
+      "legacy_mafft_foil": {
+        "mafft_admitted_taxa": 66,
+        "dropped_pseudogene_taxa": 1,
+        "mafft_codons": 650,
+        "mafft_meme_p05": 56,
+        "mafft_meme_q10": 1,
+        "mafft_fel_div_p05": 28
+      }
+    },
+    "MX1": {
+      "gene": "MX1",
+      "input_sequences": 80,
+      "admitted_sequences": 80,
+      "rescued_frame_or_strand": 4,
+      "admitted_pseudogene_or_frameshift_taxa": [
+        {
+          "codon_length": 505,
+          "frame_offset": 0,
+          "internal_stops_frame0": 1,
+          "max_aa_identity": 0.9465346534653465,
+          "max_homology_z": 43.784018663126396,
+          "name": "Delphinus_delphis",
+          "raw_nt_length": 1516,
+          "reason": "Admitted pseudogene (fwd frame +0; repaired 2 frameshifts)",
+          "reverse_complemented": false,
+          "status": "Rescued"
+        },
+        {
+          "codon_length": 635,
+          "frame_offset": 0,
+          "internal_stops_frame0": 5,
+          "max_aa_identity": 0.9653543307086614,
+          "max_homology_z": 51.941368302188344,
+          "name": "Globicephala_melas",
+          "raw_nt_length": 1895,
+          "reason": "Admitted pseudogene (fwd frame +0; repaired 7 frameshifts)",
+          "reverse_complemented": false,
+          "status": "Rescued"
+        },
+        {
+          "codon_length": 637,
+          "frame_offset": 0,
+          "internal_stops_frame0": 5,
+          "max_aa_identity": 0.9128712871287129,
+          "max_homology_z": 47.22804623927426,
+          "name": "Orcinus_orca",
+          "raw_nt_length": 1903,
+          "reason": "Admitted pseudogene (fwd frame +0; repaired 7 frameshifts)",
+          "reverse_complemented": false,
+          "status": "Rescued"
+        },
+        {
+          "codon_length": 638,
+          "frame_offset": 0,
+          "internal_stops_frame0": 5,
+          "max_aa_identity": 0.9653543307086614,
+          "max_homology_z": 51.941368302188344,
+          "name": "Pseudorca_crassidens",
+          "raw_nt_length": 1902,
+          "reason": "Admitted pseudogene (fwd frame +0; repaired 7 frameshifts)",
+          "reverse_complemented": false,
+          "status": "Rescued"
+        }
+      ],
+      "msa_codons": 955,
+      "human_ref_codons": 662,
+      "non_human_inserted_columns": 121,
+      "branch_indel_events": 306,
+      "branch_indel_codons": 1152,
+      "mean_column_posterior": 0.9148837532660273,
+      "coupled_spr_moves": 0,
+      "wheatstone_bridges_count": 18,
+      "recombination_segments": [
+        {
+          "clade_u": "Cebus_imitator",
+          "conductance": 1.388873454033708,
+          "p_value": 0.001999000499750125,
+          "peak_end_codon": 917,
+          "peak_start_codon": 864,
+          "routed_to_spr_tree": true,
+          "segment_delta_log_l": 12.025443434007109,
+          "target_v": "Node9"
+        },
+        {
+          "clade_u": "Node44",
+          "conductance": 1.303388581674173,
+          "p_value": 0.001999000499750125,
+          "peak_end_codon": 623,
+          "peak_start_codon": 498,
+          "routed_to_spr_tree": true,
+          "segment_delta_log_l": 67.34196045825614,
+          "target_v": "Node42"
+        }
+      ],
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 2.2305954107785872e-09,
+      "directional_drift_active": true,
+      "busted_e_lrt": 53.626955745233545,
+      "busted_e_p": 1.2536695369058339e-12,
+      "error_sink_weight": 0.011840992862427523,
+      "summary_counts": {
+        "branches_episodic_diversifying": 7,
+        "branches_intensified": 0,
+        "branches_loss_of_constraint": 10,
+        "branches_relaxed": 2,
+        "false_positive_sites_eliminated": 4,
+        "sites_episodic_diversifying": 75,
+        "sites_exchangeability_or_convergent": 72,
+        "sites_pervasive_diversifying": 20,
+        "sites_pervasive_purifying": 295,
+        "sites_regime_differential": 0,
+        "sites_simes_diversifying": 33,
+        "sites_simes_fdr_significant": 265,
+        "sites_simes_purifying": 198,
+        "spatial_domains_detected": 6,
+        "synonymous_constraint_islands": 0,
+        "true_positive_sites_rescued": 0
+      },
+      "coevolution_pairs_q010": [
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999979837668,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 852,
+          "site_j": 907,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999992901870834,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 909,
+          "site_j": 932,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999882976329,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 916,
+          "site_j": 924,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999998675931001,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 909,
+          "site_j": 924,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999997771640176,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 909,
+          "site_j": 916,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.999997761220561,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 907,
+          "site_j": 932,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999159731702,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 907,
+          "site_j": 924,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999669864401,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 907,
+          "site_j": 916,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999976248332658,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 852,
+          "site_j": 932,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999982719349291,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 916,
+          "site_j": 932,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999998879248295,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 852,
+          "site_j": 924,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999486529735,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 852,
+          "site_j": 916,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999995118827757,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 852,
+          "site_j": 909,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999985446437903,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 924,
+          "site_j": 932,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999999547873,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1926756083217427e-09,
+          "shared_branches": 2.0,
+          "site_i": 494,
+          "site_j": 500,
+          "top_co_mutating_branches": "Mesoplodon_mirus,Pteropus_vampyrus"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999992913736,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.2253577034896805e-09,
+          "shared_branches": 2.0,
+          "site_i": 757,
+          "site_j": 829,
+          "top_co_mutating_branches": "Delphinus_delphis,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9919046444538541,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.2253577034896805e-09,
+          "shared_branches": 2.0,
+          "site_i": 681,
+          "site_j": 906,
+          "top_co_mutating_branches": "Mus_musculus,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999823843982,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.2253577034896805e-09,
+          "shared_branches": 2.0,
+          "site_i": 233,
+          "site_j": 719,
+          "top_co_mutating_branches": "Delphinus_delphis,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999954136625,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.2253577034896805e-09,
+          "shared_branches": 2.0,
+          "site_i": 719,
+          "site_j": 771,
+          "top_co_mutating_branches": "Delphinus_delphis,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999969362092,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.2253577034896805e-09,
+          "shared_branches": 2.0,
+          "site_i": 233,
+          "site_j": 757,
+          "top_co_mutating_branches": "Delphinus_delphis,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999598212872,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.2253577034896805e-09,
+          "shared_branches": 2.0,
+          "site_i": 233,
+          "site_j": 771,
+          "top_co_mutating_branches": "Delphinus_delphis,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999932806635,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.2253577034896805e-09,
+          "shared_branches": 2.0,
+          "site_i": 233,
+          "site_j": 829,
+          "top_co_mutating_branches": "Delphinus_delphis,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999932590578,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.2253577034896805e-09,
+          "shared_branches": 2.0,
+          "site_i": 228,
+          "site_j": 829,
+          "top_co_mutating_branches": "Delphinus_delphis,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999974242126,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.2253577034896805e-09,
+          "shared_branches": 2.0,
+          "site_i": 719,
+          "site_j": 829,
+          "top_co_mutating_branches": "Delphinus_delphis,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.99999995976848,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.2253577034896805e-09,
+          "shared_branches": 2.0,
+          "site_i": 228,
+          "site_j": 771,
+          "top_co_mutating_branches": "Delphinus_delphis,Node44"
+        }
+      ],
+      "coevolution_pairs_top5": [
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999979837668,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 852,
+          "site_j": 907,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999992901870834,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 909,
+          "site_j": 932,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999999882976329,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 916,
+          "site_j": 924,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999998675931001,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 909,
+          "site_j": 924,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        },
+        {
+          "bh_q_value": 3.0106333680162236e-06,
+          "cosine_similarity": 0.9999997771640176,
+          "expected_shared": 0.0786491747033156,
+          "p_value": 1.1043152607484652e-09,
+          "shared_branches": 2.0,
+          "site_i": 909,
+          "site_j": 916,
+          "top_co_mutating_branches": "Sapajus_apella,Node44"
+        }
+      ],
+      "lof_flagged_branches": [
+        {
+          "branch": "Sapajus_apella",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 5.218420194579878e-29,
+          "relax_k": 5.0,
+          "core_invaded": [
+            939,
+            931,
+            850,
+            929,
+            851,
+            849,
+            852,
+            870
+          ]
+        },
+        {
+          "branch": "Equus_caballus",
+          "lof_bf": 10809.516177281077,
+          "lof_p": 1.6323191214234147e-05,
+          "relax_k": 0.4306183272519419,
+          "core_invaded": [
+            495,
+            477,
+            573,
+            742,
+            586,
+            832,
+            554,
+            277
+          ]
+        },
+        {
+          "branch": "Mus_musculus",
+          "lof_bf": 48754811.93440826,
+          "lof_p": 2.6784956254820573e-09,
+          "relax_k": 0.5317648087753578,
+          "core_invaded": [
+            427,
+            664,
+            672,
+            549,
+            435,
+            371,
+            723,
+            574
+          ]
+        },
+        {
+          "branch": "Mustela_putorius",
+          "lof_bf": 3556.10649067249,
+          "lof_p": 4.6148857083346345e-05,
+          "relax_k": 5.0,
+          "core_invaded": [
+            357,
+            365,
+            372,
+            278,
+            368,
+            373,
+            361,
+            360
+          ]
+        },
+        {
+          "branch": "Mesoplodon_mirus",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 6.267797252359155e-11,
+          "relax_k": 1.0,
+          "core_invaded": [
+            432,
+            435,
+            493,
+            269,
+            384,
+            750,
+            160,
+            210
+          ]
+        },
+        {
+          "branch": "Node43",
+          "lof_bf": 6066.706543386278,
+          "lof_p": 2.563182512776829e-06,
+          "relax_k": 0.12700246560137599,
+          "core_invaded": [
+            404,
+            237,
+            414,
+            254,
+            426,
+            407,
+            277,
+            393
+          ]
+        },
+        {
+          "branch": "Delphinus_delphis",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 2.8883548795178093e-74,
+          "relax_k": 0.06145724983060296,
+          "core_invaded": [
+            612,
+            343,
+            605,
+            603,
+            221,
+            778,
+            757,
+            761
+          ]
+        },
+        {
+          "branch": "Node44",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 6.817189531098003e-94,
+          "relax_k": 5.0,
+          "core_invaded": [
+            569,
+            759,
+            575,
+            769,
+            758,
+            757,
+            768,
+            852
+          ]
+        },
+        {
+          "branch": "Orcinus_orca",
+          "lof_bf": 277844779.1859099,
+          "lof_p": 1.9668922399510597e-15,
+          "relax_k": 1.0,
+          "core_invaded": [
+            466,
+            383,
+            664,
+            338,
+            723,
+            347,
+            686,
+            791
+          ]
+        },
+        {
+          "branch": "Pteropus_vampyrus",
+          "lof_bf": 105559.45351766692,
+          "lof_p": 1.9714897648467006e-13,
+          "relax_k": 5.0,
+          "core_invaded": [
+            495,
+            491,
+            836,
+            500,
+            785,
+            533,
+            523,
+            534
+          ]
+        }
+      ],
+      "loop_enrichment": {
+        "loop_cols": 179,
+        "loop_diversifying": 23,
+        "scaffold_cols": 776,
+        "scaffold_diversifying": 121,
+        "fisher_odds_ratio": 0.7981034117397754,
+        "fisher_p_value": 0.8513974908781956
+      },
+      "prime_changing_by_prop": {
+        "Isoelectric_Point_pI": 18,
+        "BetaSheet_Propensity_ChouFasman": 14,
+        "Volume_Angstrom3": 15,
+        "AlphaHelix_Propensity_ChouFasman": 12,
+        "Hydrophobicity_KyteDoolittle": 11
+      },
+      "prime_conserved_by_prop": {
+        "Isoelectric_Point_pI": 26,
+        "Hydrophobicity_KyteDoolittle": 22,
+        "Volume_Angstrom3": 14,
+        "AlphaHelix_Propensity_ChouFasman": 3,
+        "BetaSheet_Propensity_ChouFasman": 10
+      },
+      "prime_changing_sites_detail": [
+        {
+          "msa_site": 160,
+          "human_pos": 1,
+          "human_coord_float": 1.0,
+          "omnibus_q": 0.590339608057699,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.484052056219637,
+              "adj_p": 0.039856293081688546
+            }
+          ]
+        },
+        {
+          "msa_site": 189,
+          "human_pos": 28,
+          "human_coord_float": 28.0,
+          "omnibus_q": 0.4376542111367466,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.5717401500056845,
+              "adj_p": 0.04135125026021992
+            }
+          ]
+        },
+        {
+          "msa_site": 194,
+          "human_pos": 33,
+          "human_coord_float": 33.0,
+          "omnibus_q": 0.8718797556643452,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.240118239952027,
+              "adj_p": 0.06949758575260945
+            },
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.0353491673044894,
+              "adj_p": 0.06949758575260945
+            }
+          ]
+        },
+        {
+          "msa_site": 196,
+          "human_pos": 35,
+          "human_coord_float": 35.0,
+          "omnibus_q": 0.9072676420625602,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.4346925652275917,
+              "adj_p": 0.0859317934932583
+            }
+          ]
+        },
+        {
+          "msa_site": 301,
+          "human_pos": 135,
+          "human_coord_float": 135.0,
+          "omnibus_q": 0.07646281521497346,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.8696006284016606,
+              "adj_p": 0.0004289920921958179
+            },
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -0.6666421086983498,
+              "adj_p": 0.05392920265690073
+            }
+          ]
+        },
+        {
+          "msa_site": 302,
+          "human_pos": 136,
+          "human_coord_float": 136.0,
+          "omnibus_q": 0.048072654504466183,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.9385158478023645,
+              "adj_p": 0.05130309963827526
+            }
+          ]
+        },
+        {
+          "msa_site": 310,
+          "human_pos": 144,
+          "human_coord_float": 144.0,
+          "omnibus_q": 0.3063140283960158,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.3132101951877047,
+              "adj_p": 0.04096129666355219
+            }
+          ]
+        },
+        {
+          "msa_site": 360,
+          "human_pos": 193,
+          "human_coord_float": 193.0,
+          "omnibus_q": 0.09154417929139246,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -2.491889987107065,
+              "adj_p": 0.00566836010590153
+            }
+          ]
+        },
+        {
+          "msa_site": 367,
+          "human_pos": 200,
+          "human_coord_float": 200.0,
+          "omnibus_q": 0.20611926804957464,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -2.4957840481688374,
+              "adj_p": 0.00011177543383022582
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.7328399007689423,
+              "adj_p": 0.002446953282892528
+            }
+          ]
+        },
+        {
+          "msa_site": 369,
+          "human_pos": 202,
+          "human_coord_float": 202.0,
+          "omnibus_q": 0.1467654914631064,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -2.1124794139293557,
+              "adj_p": 0.01393799008680771
+            }
+          ]
+        },
+        {
+          "msa_site": 370,
+          "human_pos": 203,
+          "human_coord_float": 203.0,
+          "omnibus_q": 0.03642325632997685,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -0.5317173571597708,
+              "adj_p": 0.08265615147107731
+            }
+          ]
+        },
+        {
+          "msa_site": 374,
+          "human_pos": 207,
+          "human_coord_float": 207.0,
+          "omnibus_q": 0.11700977096177553,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -0.9955989177412345,
+              "adj_p": 0.019865964890058863
+            }
+          ]
+        },
+        {
+          "msa_site": 377,
+          "human_pos": 210,
+          "human_coord_float": 210.0,
+          "omnibus_q": 0.1729911750277335,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.8434159910575607,
+              "adj_p": 0.08916598368217317
+            }
+          ]
+        },
+        {
+          "msa_site": 464,
+          "human_pos": 293,
+          "human_coord_float": 293.0,
+          "omnibus_q": 0.8718797556643452,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.5691949432326342,
+              "adj_p": 0.036726398568095196
+            }
+          ]
+        },
+        {
+          "msa_site": 475,
+          "human_pos": 304,
+          "human_coord_float": 304.0,
+          "omnibus_q": 0.177672916392512,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -2.018629680403542,
+              "adj_p": 0.010999534386192644
+            }
+          ]
+        },
+        {
+          "msa_site": 479,
+          "human_pos": 308,
+          "human_coord_float": 308.0,
+          "omnibus_q": 0.3756632336469116,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.6195991612075205,
+              "adj_p": 0.03289950838029797
+            }
+          ]
+        },
+        {
+          "msa_site": 494,
+          "human_pos": 318,
+          "human_coord_float": 318.0,
+          "omnibus_q": 0.1467654914631064,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -0.11146546001961759,
+              "adj_p": 0.09143783896603003
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.9300052074277603,
+              "adj_p": 0.027746426944602443
+            },
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -0.8635804550680525,
+              "adj_p": 0.07882029958425021
+            }
+          ]
+        },
+        {
+          "msa_site": 534,
+          "human_pos": 336,
+          "human_coord_float": 336.0,
+          "omnibus_q": 0.2754270120972307,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -0.01666298701247501,
+              "adj_p": 0.08803091155233561
+            }
+          ]
+        },
+        {
+          "msa_site": 539,
+          "human_pos": 338,
+          "human_coord_float": 338.0,
+          "omnibus_q": 0.1467654914631064,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.7041860594448697,
+              "adj_p": 0.07012351507642173
+            }
+          ]
+        },
+        {
+          "msa_site": 542,
+          "human_pos": 341,
+          "human_coord_float": 341.0,
+          "omnibus_q": 0.09154417929139246,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.2355424301596973,
+              "adj_p": 0.004945710518044695
+            }
+          ]
+        },
+        {
+          "msa_site": 545,
+          "human_pos": 344,
+          "human_coord_float": 344.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.5752275241563476,
+              "adj_p": 0.07311252079476381
+            }
+          ]
+        },
+        {
+          "msa_site": 560,
+          "human_pos": 359,
+          "human_coord_float": 359.0,
+          "omnibus_q": 0.9072676420625602,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.300746068096219,
+              "adj_p": 0.05655434534153369
+            }
+          ]
+        },
+        {
+          "msa_site": 561,
+          "human_pos": 360,
+          "human_coord_float": 360.0,
+          "omnibus_q": 0.1467654914631064,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.5424063794156788,
+              "adj_p": 0.04854307299058244
+            }
+          ]
+        },
+        {
+          "msa_site": 602,
+          "human_pos": 401,
+          "human_coord_float": 401.0,
+          "omnibus_q": 0.12399872755320297,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -2.5400575692077814,
+              "adj_p": 0.00015889792208633407
+            }
+          ]
+        },
+        {
+          "msa_site": 616,
+          "human_pos": 415,
+          "human_coord_float": 415.0,
+          "omnibus_q": 0.8225312784772437,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -2.182856037999374,
+              "adj_p": 0.005860443977640036
+            }
+          ]
+        },
+        {
+          "msa_site": 626,
+          "human_pos": 420,
+          "human_coord_float": 420.0,
+          "omnibus_q": 0.03642325632997685,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -2.6965995962283107,
+              "adj_p": 8.570180515736671e-05
+            }
+          ]
+        },
+        {
+          "msa_site": 629,
+          "human_pos": 423,
+          "human_coord_float": 423.0,
+          "omnibus_q": 0.058409074354783014,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.1923497881400917,
+              "adj_p": 0.01276296517019099
+            },
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.2005207461695835,
+              "adj_p": 0.029969138326676834
+            }
+          ]
+        },
+        {
+          "msa_site": 640,
+          "human_pos": 431,
+          "human_coord_float": 431.0,
+          "omnibus_q": 0.30204986613425155,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.7553896029090732,
+              "adj_p": 0.01647129957459749
+            }
+          ]
+        },
+        {
+          "msa_site": 641,
+          "human_pos": 432,
+          "human_coord_float": 432.0,
+          "omnibus_q": 0.1729911750277335,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -2.033474441728523,
+              "adj_p": 0.008158965167065978
+            }
+          ]
+        },
+        {
+          "msa_site": 647,
+          "human_pos": 438,
+          "human_coord_float": 438.0,
+          "omnibus_q": 0.1729911750277335,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.1005654986343418,
+              "adj_p": 0.04233914563292185
+            }
+          ]
+        },
+        {
+          "msa_site": 650,
+          "human_pos": 439,
+          "human_coord_float": 439.0,
+          "omnibus_q": 0.25679184653850223,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.6930612261391276,
+              "adj_p": 0.019980440589894052
+            }
+          ]
+        },
+        {
+          "msa_site": 653,
+          "human_pos": 442,
+          "human_coord_float": 442.0,
+          "omnibus_q": 0.8385274231232537,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.3502056865093537,
+              "adj_p": 0.0868536036901206
+            }
+          ]
+        },
+        {
+          "msa_site": 675,
+          "human_pos": 464,
+          "human_coord_float": 464.0,
+          "omnibus_q": 0.5187976018516627,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -2.3618310942918344,
+              "adj_p": 0.009586138331864367
+            }
+          ]
+        },
+        {
+          "msa_site": 683,
+          "human_pos": 470,
+          "human_coord_float": 470.0,
+          "omnibus_q": 0.2604256301512795,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -2.5791349347028008,
+              "adj_p": 0.04238043753850948
+            }
+          ]
+        },
+        {
+          "msa_site": 685,
+          "human_pos": 472,
+          "human_coord_float": 472.0,
+          "omnibus_q": 0.32360318680041017,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.5668666701813716,
+              "adj_p": 0.09300196251378616
+            }
+          ]
+        },
+        {
+          "msa_site": 687,
+          "human_pos": 474,
+          "human_coord_float": 474.0,
+          "omnibus_q": 0.09154417929139246,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -2.2031803681802056,
+              "adj_p": 0.0030239533927159923
+            }
+          ]
+        },
+        {
+          "msa_site": 688,
+          "human_pos": 475,
+          "human_coord_float": 475.0,
+          "omnibus_q": 0.25647481409778006,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.4874412233746868,
+              "adj_p": 0.011674160875710042
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.1724515970632319,
+              "adj_p": 0.004312735653244739
+            }
+          ]
+        },
+        {
+          "msa_site": 719,
+          "human_pos": 484,
+          "human_coord_float": 484.0,
+          "omnibus_q": 0.4303234797465756,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.4857453304786867,
+              "adj_p": 0.024561790504093562
+            }
+          ]
+        },
+        {
+          "msa_site": 726,
+          "human_pos": 491,
+          "human_coord_float": 491.0,
+          "omnibus_q": 0.590339608057699,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.581125394524942,
+              "adj_p": 0.0992181878665965
+            }
+          ]
+        },
+        {
+          "msa_site": 736,
+          "human_pos": 501,
+          "human_coord_float": 501.0,
+          "omnibus_q": 0.3144701767272094,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.3396419402561155,
+              "adj_p": 0.06820396257050274
+            }
+          ]
+        },
+        {
+          "msa_site": 741,
+          "human_pos": 505,
+          "human_coord_float": 505.0,
+          "omnibus_q": 0.09154417929139246,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.5980381567263586,
+              "adj_p": 0.03313193734241484
+            }
+          ]
+        },
+        {
+          "msa_site": 756,
+          "human_pos": 520,
+          "human_coord_float": 520.0,
+          "omnibus_q": 0.1823921871168213,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.3289568598595383,
+              "adj_p": 0.00931679337854548
+            }
+          ]
+        },
+        {
+          "msa_site": 775,
+          "human_pos": 539,
+          "human_coord_float": 539.0,
+          "omnibus_q": 0.6814981769481301,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.1821000322531503,
+              "adj_p": 0.02791099790008997
+            }
+          ]
+        },
+        {
+          "msa_site": 777,
+          "human_pos": 541,
+          "human_coord_float": 541.0,
+          "omnibus_q": 0.8649922119446007,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.5511363741759692,
+              "adj_p": 0.0738336145018455
+            },
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -0.6125952965379104,
+              "adj_p": 0.0738336145018455
+            }
+          ]
+        },
+        {
+          "msa_site": 780,
+          "human_pos": 544,
+          "human_coord_float": 544.0,
+          "omnibus_q": 0.07646281521497346,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -0.7211175805568737,
+              "adj_p": 0.04844583365083446
+            }
+          ]
+        },
+        {
+          "msa_site": 825,
+          "human_pos": 574,
+          "human_coord_float": 574.0,
+          "omnibus_q": 0.09154417929139246,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.8972246266426216,
+              "adj_p": 0.008378738842802306
+            }
+          ]
+        },
+        {
+          "msa_site": 828,
+          "human_pos": null,
+          "human_coord_float": 575.67,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.711170819269462,
+              "adj_p": 0.07585006392686922
+            },
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.225286775552757,
+              "adj_p": 0.08555911684982652
+            }
+          ]
+        },
+        {
+          "msa_site": 837,
+          "human_pos": 584,
+          "human_coord_float": 584.0,
+          "omnibus_q": 0.1729911750277335,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.723571449699665,
+              "adj_p": 0.011614186921495262
+            }
+          ]
+        },
+        {
+          "msa_site": 841,
+          "human_pos": 588,
+          "human_coord_float": 588.0,
+          "omnibus_q": 0.36759145140214344,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.778270444469481,
+              "adj_p": 0.06639380200550289
+            }
+          ]
+        },
+        {
+          "msa_site": 843,
+          "human_pos": 590,
+          "human_coord_float": 590.0,
+          "omnibus_q": 0.17933739578660735,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.5205676119224958,
+              "adj_p": 0.03405276369813719
+            }
+          ]
+        },
+        {
+          "msa_site": 847,
+          "human_pos": 593,
+          "human_coord_float": 593.0,
+          "omnibus_q": 0.048072654504466183,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.7064201018459392,
+              "adj_p": 0.029012008587784084
+            }
+          ]
+        },
+        {
+          "msa_site": 849,
+          "human_pos": 595,
+          "human_coord_float": 595.0,
+          "omnibus_q": 0.4397295581389572,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.1142500694664716,
+              "adj_p": 0.07063282160109405
+            }
+          ]
+        },
+        {
+          "msa_site": 851,
+          "human_pos": 597,
+          "human_coord_float": 597.0,
+          "omnibus_q": 0.17787888915827899,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -2.3808032832207497,
+              "adj_p": 0.0036911869001135396
+            }
+          ]
+        },
+        {
+          "msa_site": 861,
+          "human_pos": 606,
+          "human_coord_float": 606.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.7814059889779724,
+              "adj_p": 0.07376382332830286
+            }
+          ]
+        },
+        {
+          "msa_site": 862,
+          "human_pos": 607,
+          "human_coord_float": 607.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -2.7594706000705673,
+              "adj_p": 0.04091235694497306
+            }
+          ]
+        },
+        {
+          "msa_site": 863,
+          "human_pos": 608,
+          "human_coord_float": 608.0,
+          "omnibus_q": 0.017590564761624745,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -3.205342097397718,
+              "adj_p": 0.02326763693356437
+            }
+          ]
+        },
+        {
+          "msa_site": 865,
+          "human_pos": 610,
+          "human_coord_float": 610.0,
+          "omnibus_q": 0.7988926627635693,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.0754548916868565,
+              "adj_p": 0.0997698381397835
+            }
+          ]
+        },
+        {
+          "msa_site": 905,
+          "human_pos": 628,
+          "human_coord_float": 628.0,
+          "omnibus_q": 0.1729911750277335,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -2.3081361642364526,
+              "adj_p": 0.07379273939536536
+            }
+          ]
+        },
+        {
+          "msa_site": 932,
+          "human_pos": 650,
+          "human_coord_float": 650.0,
+          "omnibus_q": 0.25647481409778006,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -2.017556224403879,
+              "adj_p": 0.0038818170247370016
+            }
+          ]
+        },
+        {
+          "msa_site": 934,
+          "human_pos": 652,
+          "human_coord_float": 652.0,
+          "omnibus_q": 0.9072676420625602,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -2.1374038582640478,
+              "adj_p": 0.09190134629802317
+            }
+          ]
+        },
+        {
+          "msa_site": 935,
+          "human_pos": 653,
+          "human_coord_float": 653.0,
+          "omnibus_q": 0.34306877470136304,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -2.3169434835515115,
+              "adj_p": 0.09142178030365754
+            }
+          ]
+        }
+      ]
+    },
+    "APOBEC3G": {
+      "gene": "APOBEC3G",
+      "input_sequences": 22,
+      "admitted_sequences": 22,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogene_or_frameshift_taxa": [],
+      "msa_codons": 411,
+      "human_ref_codons": 384,
+      "non_human_inserted_columns": 20,
+      "branch_indel_events": 39,
+      "branch_indel_codons": 94,
+      "mean_column_posterior": 0.9873749638629975,
+      "coupled_spr_moves": 0,
+      "wheatstone_bridges_count": 5,
+      "recombination_segments": [
+        {
+          "clade_u": "Nomascus_leucogenys",
+          "conductance": 0.9940690731966961,
+          "p_value": 0.6916541729135433,
+          "peak_end_codon": 117,
+          "peak_start_codon": 110,
+          "routed_to_spr_tree": false,
+          "segment_delta_log_l": 8.490711157155621,
+          "target_v": "Homo_sapiens"
+        },
+        {
+          "clade_u": "Node16",
+          "conductance": 0.9113302027624003,
+          "p_value": 0.5037481259370314,
+          "peak_end_codon": 355,
+          "peak_start_codon": 335,
+          "routed_to_spr_tree": false,
+          "segment_delta_log_l": 6.570642706380318,
+          "target_v": "Papio_anubis"
+        },
+        {
+          "clade_u": "Node14",
+          "conductance": 0.7463937851884135,
+          "p_value": 0.5937031484257871,
+          "peak_end_codon": 280,
+          "peak_start_codon": 257,
+          "routed_to_spr_tree": false,
+          "segment_delta_log_l": 4.682434768955042,
+          "target_v": "Macaca_leonina"
+        }
+      ],
+      "gc3_heterogeneous": false,
+      "gc3_cp3_p": 1.0,
+      "directional_drift_active": false,
+      "busted_e_lrt": 219.89149970812775,
+      "busted_e_p": 9.39288387197978e-49,
+      "error_sink_weight": 0.0018963654572397785,
+      "summary_counts": {
+        "branches_episodic_diversifying": 4,
+        "branches_intensified": 1,
+        "branches_loss_of_constraint": 1,
+        "branches_relaxed": 0,
+        "false_positive_sites_eliminated": 0,
+        "sites_episodic_diversifying": 33,
+        "sites_exchangeability_or_convergent": 108,
+        "sites_pervasive_diversifying": 22,
+        "sites_pervasive_purifying": 41,
+        "sites_regime_differential": 0,
+        "sites_simes_diversifying": 8,
+        "sites_simes_fdr_significant": 111,
+        "sites_simes_purifying": 5,
+        "spatial_domains_detected": 1,
+        "synonymous_constraint_islands": 1,
+        "true_positive_sites_rescued": 0
+      },
+      "coevolution_pairs_q010": [
+        {
+          "bh_q_value": 0.0006162875358221924,
+          "cosine_similarity": 1.0000000000000002,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 3.3261010171707295e-07,
+          "shared_branches": 2.0,
+          "site_i": 343,
+          "site_j": 384,
+          "top_co_mutating_branches": "Aotus_nancymaae,Callithrix_jacchus"
+        },
+        {
+          "bh_q_value": 0.0006162875358221924,
+          "cosine_similarity": 0.9999975749842404,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 4.0413865067993615e-07,
+          "shared_branches": 2.0,
+          "site_i": 113,
+          "site_j": 167,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node17"
+        },
+        {
+          "bh_q_value": 0.0006162875358221924,
+          "cosine_similarity": 0.9999412074134478,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 4.391409792924374e-07,
+          "shared_branches": 2.0,
+          "site_i": 78,
+          "site_j": 200,
+          "top_co_mutating_branches": "Node5,Node14"
+        },
+        {
+          "bh_q_value": 0.0006162875358221924,
+          "cosine_similarity": 0.9999980942217597,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 4.4702494632716275e-07,
+          "shared_branches": 2.0,
+          "site_i": 133,
+          "site_j": 180,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        },
+        {
+          "bh_q_value": 0.0006162875358221924,
+          "cosine_similarity": 0.9999962880134311,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 4.475817986843454e-07,
+          "shared_branches": 2.0,
+          "site_i": 118,
+          "site_j": 180,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        },
+        {
+          "bh_q_value": 0.0006162875358221924,
+          "cosine_similarity": 0.9999890627673435,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 4.530415602711534e-07,
+          "shared_branches": 2.0,
+          "site_i": 118,
+          "site_j": 133,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        },
+        {
+          "bh_q_value": 0.0010677718135442924,
+          "cosine_similarity": 1.0000000000000002,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 1.0699718422262256e-06,
+          "shared_branches": 2.0,
+          "site_i": 343,
+          "site_j": 386,
+          "top_co_mutating_branches": "Aotus_nancymaae,Callithrix_jacchus"
+        },
+        {
+          "bh_q_value": 0.0010677718135442924,
+          "cosine_similarity": 0.9951693444538523,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 1.3697956052866887e-06,
+          "shared_branches": 2.0,
+          "site_i": 133,
+          "site_j": 333,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        },
+        {
+          "bh_q_value": 0.0010677718135442924,
+          "cosine_similarity": 0.9949757824066804,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 1.3947187497026847e-06,
+          "shared_branches": 2.0,
+          "site_i": 180,
+          "site_j": 333,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        },
+        {
+          "bh_q_value": 0.0010677718135442924,
+          "cosine_similarity": 0.9977848125916505,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 1.4148410098036147e-06,
+          "shared_branches": 2.0,
+          "site_i": 263,
+          "site_j": 324,
+          "top_co_mutating_branches": "Node3,Node21"
+        },
+        {
+          "bh_q_value": 0.0010677718135442924,
+          "cosine_similarity": 0.9946993038555246,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 1.4390455708144104e-06,
+          "shared_branches": 2.0,
+          "site_i": 118,
+          "site_j": 333,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        },
+        {
+          "bh_q_value": 0.001681253278289638,
+          "cosine_similarity": 0.9999996946381883,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 2.8831830849406833e-06,
+          "shared_branches": 2.0,
+          "site_i": 87,
+          "site_j": 180,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        },
+        {
+          "bh_q_value": 0.001681253278289638,
+          "cosine_similarity": 0.9999981119687622,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 2.8834659256845766e-06,
+          "shared_branches": 2.0,
+          "site_i": 87,
+          "site_j": 118,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        },
+        {
+          "bh_q_value": 0.001681253278289638,
+          "cosine_similarity": 0.9999962631459396,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 2.883796360702638e-06,
+          "shared_branches": 2.0,
+          "site_i": 87,
+          "site_j": 133,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        },
+        {
+          "bh_q_value": 0.002136168932891277,
+          "cosine_similarity": 0.994897239206249,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 3.92581891611972e-06,
+          "shared_branches": 2.0,
+          "site_i": 87,
+          "site_j": 333,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        }
+      ],
+      "coevolution_pairs_top5": [
+        {
+          "bh_q_value": 0.0006162875358221924,
+          "cosine_similarity": 1.0000000000000002,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 3.3261010171707295e-07,
+          "shared_branches": 2.0,
+          "site_i": 343,
+          "site_j": 384,
+          "top_co_mutating_branches": "Aotus_nancymaae,Callithrix_jacchus"
+        },
+        {
+          "bh_q_value": 0.0006162875358221924,
+          "cosine_similarity": 0.9999975749842404,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 4.0413865067993615e-07,
+          "shared_branches": 2.0,
+          "site_i": 113,
+          "site_j": 167,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node17"
+        },
+        {
+          "bh_q_value": 0.0006162875358221924,
+          "cosine_similarity": 0.9999412074134478,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 4.391409792924374e-07,
+          "shared_branches": 2.0,
+          "site_i": 78,
+          "site_j": 200,
+          "top_co_mutating_branches": "Node5,Node14"
+        },
+        {
+          "bh_q_value": 0.0006162875358221924,
+          "cosine_similarity": 0.9999980942217597,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 4.4702494632716275e-07,
+          "shared_branches": 2.0,
+          "site_i": 133,
+          "site_j": 180,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        },
+        {
+          "bh_q_value": 0.0006162875358221924,
+          "cosine_similarity": 0.9999962880134311,
+          "expected_shared": 0.20760172418066242,
+          "p_value": 4.475817986843454e-07,
+          "shared_branches": 2.0,
+          "site_i": 118,
+          "site_j": 180,
+          "top_co_mutating_branches": "Symphalangus_syndactylus,Node21"
+        }
+      ],
+      "lof_flagged_branches": [
+        {
+          "branch": "Symphalangus_syndactylus",
+          "lof_bf": 274.733654729253,
+          "lof_p": 0.00021424471837261052,
+          "relax_k": 0.85,
+          "core_invaded": [
+            146,
+            118,
+            138,
+            113,
+            112,
+            147,
+            104
+          ]
+        }
+      ],
+      "loop_enrichment": {
+        "loop_cols": 45,
+        "loop_diversifying": 18,
+        "scaffold_cols": 366,
+        "scaffold_diversifying": 120,
+        "fisher_odds_ratio": 1.3666666666666667,
+        "fisher_p_value": 0.21054582546853245
+      },
+      "prime_changing_by_prop": {
+        "Isoelectric_Point_pI": 4,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Volume_Angstrom3": 1
+      },
+      "prime_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 1
+      },
+      "prime_changing_sites_detail": [
+        {
+          "msa_site": 80,
+          "human_pos": 57,
+          "human_coord_float": 57.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.1291340160680388,
+              "adj_p": 0.0873931573772569
+            }
+          ]
+        },
+        {
+          "msa_site": 91,
+          "human_pos": 64,
+          "human_coord_float": 64.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.3962819853411723,
+              "adj_p": 0.08483040976305221
+            }
+          ]
+        },
+        {
+          "msa_site": 112,
+          "human_pos": 85,
+          "human_coord_float": 85.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.8863724363259207,
+              "adj_p": 0.011977044894008186
+            }
+          ]
+        },
+        {
+          "msa_site": 203,
+          "human_pos": 176,
+          "human_coord_float": 176.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.407171615904422,
+              "adj_p": 0.05056349368912048
+            }
+          ]
+        },
+        {
+          "msa_site": 301,
+          "human_pos": 274,
+          "human_coord_float": 274.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.8834554699063921,
+              "adj_p": 0.001690489129966443
+            }
+          ]
+        },
+        {
+          "msa_site": 357,
+          "human_pos": 330,
+          "human_coord_float": 330.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.3496277899351288,
+              "adj_p": 0.017417577601846604
+            }
+          ]
+        }
+      ]
+    },
+    "PRDM9": {
+      "gene": "PRDM9",
+      "input_sequences": 50,
+      "admitted_sequences": 50,
+      "rescued_frame_or_strand": 2,
+      "admitted_pseudogene_or_frameshift_taxa": [
+        {
+          "codon_length": 437,
+          "frame_offset": 2,
+          "internal_stops_frame0": 17,
+          "max_aa_identity": 0.41418764302059496,
+          "max_homology_z": 10.848532541690886,
+          "name": "Canis_aureus",
+          "raw_nt_length": 1296,
+          "reason": "Admitted pseudogene (fwd frame +2; repaired 12 frameshifts, masked 3 internal stops to NNN)",
+          "reverse_complemented": false,
+          "status": "Rescued"
+        },
+        {
+          "codon_length": 464,
+          "frame_offset": 2,
+          "internal_stops_frame0": 7,
+          "max_aa_identity": 0.43103448275862066,
+          "max_homology_z": 13.006180800110194,
+          "name": "Canis_lupus",
+          "raw_nt_length": 1383,
+          "reason": "Admitted pseudogene (fwd frame +2; repaired 8 frameshifts, masked 4 internal stops to NNN)",
+          "reverse_complemented": false,
+          "status": "Rescued"
+        }
+      ],
+      "msa_codons": 1334,
+      "human_ref_codons": 894,
+      "non_human_inserted_columns": 319,
+      "branch_indel_events": 633,
+      "branch_indel_codons": 4950,
+      "mean_column_posterior": 0.7535622399367911,
+      "coupled_spr_moves": 0,
+      "wheatstone_bridges_count": 14,
+      "recombination_segments": [
+        {
+          "clade_u": "Resolved_100",
+          "conductance": 1.683217996160932,
+          "p_value": 0.4357821089455272,
+          "peak_end_codon": 615,
+          "peak_start_codon": 590,
+          "routed_to_spr_tree": false,
+          "segment_delta_log_l": 5.500263652783762,
+          "target_v": "Pan_paniscus"
+        },
+        {
+          "clade_u": "Elephas_maximus",
+          "conductance": 1.2478287941042099,
+          "p_value": 1.0,
+          "peak_end_codon": 1141,
+          "peak_start_codon": 1127,
+          "routed_to_spr_tree": false,
+          "segment_delta_log_l": 12.876161872084882,
+          "target_v": "Macaca_nemestrina"
+        }
+      ],
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 1.7833994230460453e-41,
+      "directional_drift_active": true,
+      "busted_e_lrt": 157.02986116834768,
+      "busted_e_p": 4.23656758550724e-35,
+      "error_sink_weight": 0.00566103601047343,
+      "summary_counts": {
+        "branches_episodic_diversifying": 37,
+        "branches_intensified": 0,
+        "branches_loss_of_constraint": 6,
+        "branches_relaxed": 0,
+        "false_positive_sites_eliminated": 11,
+        "sites_episodic_diversifying": 128,
+        "sites_exchangeability_or_convergent": 45,
+        "sites_pervasive_diversifying": 69,
+        "sites_pervasive_purifying": 323,
+        "sites_regime_differential": 0,
+        "sites_simes_diversifying": 56,
+        "sites_simes_fdr_significant": 237,
+        "sites_simes_purifying": 153,
+        "spatial_domains_detected": 9,
+        "synonymous_constraint_islands": 0,
+        "true_positive_sites_rescued": 2
+      },
+      "coevolution_pairs_q010": [
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.8891487411852861,
+          "expected_shared": 0.25427972134364357,
+          "p_value": 1.5263173749842947e-10,
+          "shared_branches": 3.0,
+          "site_i": 1126,
+          "site_j": 1154,
+          "top_co_mutating_branches": "Node17,Node22,Myodes_glareolus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9997558593241492,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 4.4060987365798823e-10,
+          "shared_branches": 2.0,
+          "site_i": 1014,
+          "site_j": 1042,
+          "top_co_mutating_branches": "Node22,Resolved_100"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.8661116160356284,
+          "expected_shared": 0.25427972134364357,
+          "p_value": 4.659486236095959e-10,
+          "shared_branches": 3.0,
+          "site_i": 956,
+          "site_j": 984,
+          "top_co_mutating_branches": "Homo_sapiens,Cavia_porcellus,Macrotis_lagotis"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.8789211124806675,
+          "expected_shared": 0.25427972134364357,
+          "p_value": 5.133270023393475e-10,
+          "shared_branches": 3.0,
+          "site_i": 647,
+          "site_j": 652,
+          "top_co_mutating_branches": "Node24,Node26,Octodon_degus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.8542240561625494,
+          "expected_shared": 0.25427972134364357,
+          "p_value": 6.993396911461757e-10,
+          "shared_branches": 3.0,
+          "site_i": 971,
+          "site_j": 999,
+          "top_co_mutating_branches": "Node24,Cavia_porcellus,Macrotis_lagotis"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 1.0,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 9.618052714575361e-10,
+          "shared_branches": 2.0,
+          "site_i": 1168,
+          "site_j": 1177,
+          "top_co_mutating_branches": "Canis_aureus,Canis_lupus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 1.0,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 9.618052714575361e-10,
+          "shared_branches": 2.0,
+          "site_i": 1156,
+          "site_j": 1168,
+          "top_co_mutating_branches": "Canis_aureus,Canis_lupus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 1.0000000000000004,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 9.618052714575361e-10,
+          "shared_branches": 2.0,
+          "site_i": 1156,
+          "site_j": 1177,
+          "top_co_mutating_branches": "Canis_aureus,Canis_lupus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 1.0,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 9.618052714575361e-10,
+          "shared_branches": 2.0,
+          "site_i": 1157,
+          "site_j": 1168,
+          "top_co_mutating_branches": "Canis_aureus,Canis_lupus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 1.0000000000000007,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 9.618052714575361e-10,
+          "shared_branches": 2.0,
+          "site_i": 1157,
+          "site_j": 1177,
+          "top_co_mutating_branches": "Canis_aureus,Canis_lupus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 1.0000000000000002,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 9.618052714575361e-10,
+          "shared_branches": 2.0,
+          "site_i": 1069,
+          "site_j": 1177,
+          "top_co_mutating_branches": "Canis_aureus,Canis_lupus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 1.0000000000000002,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 9.618052714575361e-10,
+          "shared_branches": 2.0,
+          "site_i": 1069,
+          "site_j": 1168,
+          "top_co_mutating_branches": "Canis_aureus,Canis_lupus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 1.0,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 9.618052714575361e-10,
+          "shared_branches": 2.0,
+          "site_i": 1069,
+          "site_j": 1156,
+          "top_co_mutating_branches": "Canis_aureus,Canis_lupus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 1.0000000000000002,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 9.618052714575361e-10,
+          "shared_branches": 2.0,
+          "site_i": 1069,
+          "site_j": 1157,
+          "top_co_mutating_branches": "Canis_aureus,Canis_lupus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9999998267857194,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 1.0281451514408369e-09,
+          "shared_branches": 2.0,
+          "site_i": 941,
+          "site_j": 969,
+          "top_co_mutating_branches": "Rousettus_aegyptiacus,Saccopteryx_bilineata"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9999999996712843,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 1.0523401123547898e-09,
+          "shared_branches": 2.0,
+          "site_i": 824,
+          "site_j": 1129,
+          "top_co_mutating_branches": "Node16,Pteronotus_mesoamericanus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9999755598990118,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 1.0777013435226132e-09,
+          "shared_branches": 2.0,
+          "site_i": 704,
+          "site_j": 1149,
+          "top_co_mutating_branches": "Canis_lupus,Octodon_degus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9999995304854182,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 1.1322770341445896e-09,
+          "shared_branches": 2.0,
+          "site_i": 327,
+          "site_j": 484,
+          "top_co_mutating_branches": "Pteronotus_mesoamericanus,Octodon_degus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9999992751446363,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 1.1926756083217427e-09,
+          "shared_branches": 2.0,
+          "site_i": 303,
+          "site_j": 579,
+          "top_co_mutating_branches": "Rhinolophus_sinicus,Octodon_degus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9999999734007394,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 1.2964074471043377e-09,
+          "shared_branches": 2.0,
+          "site_i": 307,
+          "site_j": 492,
+          "top_co_mutating_branches": "Octodon_degus,Node33"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.999999871778358,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 1.2964074471043377e-09,
+          "shared_branches": 2.0,
+          "site_i": 315,
+          "site_j": 343,
+          "top_co_mutating_branches": "Suncus_etruscus,Octodon_degus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9999999981100856,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 1.2964074471043377e-09,
+          "shared_branches": 2.0,
+          "site_i": 315,
+          "site_j": 342,
+          "top_co_mutating_branches": "Suncus_etruscus,Octodon_degus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9999998973644875,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 1.2964074471043377e-09,
+          "shared_branches": 2.0,
+          "site_i": 315,
+          "site_j": 321,
+          "top_co_mutating_branches": "Suncus_etruscus,Octodon_degus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9999998676197847,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 1.2964074471043377e-09,
+          "shared_branches": 2.0,
+          "site_i": 321,
+          "site_j": 342,
+          "top_co_mutating_branches": "Suncus_etruscus,Octodon_degus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9999999619488579,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 1.2964074471043377e-09,
+          "shared_branches": 2.0,
+          "site_i": 307,
+          "site_j": 522,
+          "top_co_mutating_branches": "Octodon_degus,Node33"
+        }
+      ],
+      "coevolution_pairs_top5": [
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.8891487411852861,
+          "expected_shared": 0.25427972134364357,
+          "p_value": 1.5263173749842947e-10,
+          "shared_branches": 3.0,
+          "site_i": 1126,
+          "site_j": 1154,
+          "top_co_mutating_branches": "Node17,Node22,Myodes_glareolus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.9997558593241492,
+          "expected_shared": 0.0847599071145478,
+          "p_value": 4.4060987365798823e-10,
+          "shared_branches": 2.0,
+          "site_i": 1014,
+          "site_j": 1042,
+          "top_co_mutating_branches": "Node22,Resolved_100"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.8661116160356284,
+          "expected_shared": 0.25427972134364357,
+          "p_value": 4.659486236095959e-10,
+          "shared_branches": 3.0,
+          "site_i": 956,
+          "site_j": 984,
+          "top_co_mutating_branches": "Homo_sapiens,Cavia_porcellus,Macrotis_lagotis"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.8789211124806675,
+          "expected_shared": 0.25427972134364357,
+          "p_value": 5.133270023393475e-10,
+          "shared_branches": 3.0,
+          "site_i": 647,
+          "site_j": 652,
+          "top_co_mutating_branches": "Node24,Node26,Octodon_degus"
+        },
+        {
+          "bh_q_value": 8.328025410016998e-06,
+          "cosine_similarity": 0.8542240561625494,
+          "expected_shared": 0.25427972134364357,
+          "p_value": 6.993396911461757e-10,
+          "shared_branches": 3.0,
+          "site_i": 971,
+          "site_j": 999,
+          "top_co_mutating_branches": "Node24,Cavia_porcellus,Macrotis_lagotis"
+        }
+      ],
+      "lof_flagged_branches": [
+        {
+          "branch": "Canis_aureus",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 8.66635238677665e-95,
+          "relax_k": 1.0,
+          "core_invaded": [
+            599,
+            525,
+            594,
+            1024,
+            639,
+            576,
+            601,
+            528
+          ]
+        },
+        {
+          "branch": "Canis_lupus",
+          "lof_bf": 48018172.59673011,
+          "lof_p": 1.7484518277535317e-19,
+          "relax_k": 5.0,
+          "core_invaded": [
+            1056,
+            591,
+            706,
+            1067,
+            1065,
+            1136,
+            1149,
+            1140
+          ]
+        },
+        {
+          "branch": "Rousettus_aegyptiacus",
+          "lof_bf": 264903.63928053563,
+          "lof_p": 4.94254364456546e-07,
+          "relax_k": 0.7710419945575949,
+          "core_invaded": [
+            555,
+            1131,
+            1019,
+            1159,
+            935,
+            963,
+            1075,
+            619
+          ]
+        },
+        {
+          "branch": "Node26",
+          "lof_bf": 897.5219200391128,
+          "lof_p": 0.0001738141988975533,
+          "relax_k": 1.0,
+          "core_invaded": [
+            584,
+            564,
+            569,
+            465,
+            578,
+            1051,
+            647,
+            652
+          ]
+        },
+        {
+          "branch": "Octodon_degus",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 1.142214165798955e-16,
+          "relax_k": 0.6047881368356088,
+          "core_invaded": [
+            516,
+            318,
+            321,
+            1149,
+            327,
+            647,
+            584,
+            546
+          ]
+        },
+        {
+          "branch": "Resolved_100",
+          "lof_bf": 2029.3033071857503,
+          "lof_p": 1.936554885758482e-06,
+          "relax_k": 1.0,
+          "core_invaded": [
+            1042,
+            986,
+            930,
+            1014,
+            958
+          ]
+        }
+      ],
+      "loop_enrichment": {
+        "loop_cols": 0,
+        "loop_diversifying": 0,
+        "scaffold_cols": 1334,
+        "scaffold_diversifying": 175,
+        "fisher_odds_ratio": null,
+        "fisher_p_value": null
+      },
+      "prime_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 14,
+        "BetaSheet_Propensity_ChouFasman": 9,
+        "Hydrophobicity_KyteDoolittle": 12,
+        "Volume_Angstrom3": 4,
+        "Isoelectric_Point_pI": 40
+      },
+      "prime_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 19,
+        "BetaSheet_Propensity_ChouFasman": 10,
+        "Isoelectric_Point_pI": 15,
+        "Hydrophobicity_KyteDoolittle": 9,
+        "Volume_Angstrom3": 13
+      },
+      "prime_changing_sites_detail": [
+        {
+          "msa_site": 274,
+          "human_pos": 10,
+          "human_coord_float": 10.0,
+          "omnibus_q": 0.950633416762577,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.7754464269375774,
+              "adj_p": 0.025492327093191405
+            }
+          ]
+        },
+        {
+          "msa_site": 289,
+          "human_pos": 21,
+          "human_coord_float": 21.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -2.1759974420020955,
+              "adj_p": 0.03933713740392687
+            }
+          ]
+        },
+        {
+          "msa_site": 291,
+          "human_pos": 23,
+          "human_coord_float": 23.0,
+          "omnibus_q": 0.3676352818956467,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -2.3503691589330935,
+              "adj_p": 0.002049810448769152
+            },
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.0162959719503626,
+              "adj_p": 0.09307862903117005
+            }
+          ]
+        },
+        {
+          "msa_site": 302,
+          "human_pos": 34,
+          "human_coord_float": 34.0,
+          "omnibus_q": 0.7844854239409977,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.9220675391272692,
+              "adj_p": 0.01914936249294405
+            }
+          ]
+        },
+        {
+          "msa_site": 310,
+          "human_pos": 42,
+          "human_coord_float": 42.0,
+          "omnibus_q": 0.3094020486277368,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.3908791795218753,
+              "adj_p": 0.05935215682651602
+            }
+          ]
+        },
+        {
+          "msa_site": 332,
+          "human_pos": 63,
+          "human_coord_float": 63.0,
+          "omnibus_q": 0.9897611490761963,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.5102625946546762,
+              "adj_p": 0.05638348501319599
+            }
+          ]
+        },
+        {
+          "msa_site": 400,
+          "human_pos": 127,
+          "human_coord_float": 127.0,
+          "omnibus_q": 0.809085083711099,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.4133875130450102,
+              "adj_p": 0.055529133897806206
+            }
+          ]
+        },
+        {
+          "msa_site": 406,
+          "human_pos": 132,
+          "human_coord_float": 132.0,
+          "omnibus_q": 0.3094020486277368,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.9113085172372153,
+              "adj_p": 0.019905681486130592
+            }
+          ]
+        },
+        {
+          "msa_site": 434,
+          "human_pos": 157,
+          "human_coord_float": 157.0,
+          "omnibus_q": 0.9897611490761963,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.0981957485042622,
+              "adj_p": 0.07735703776378325
+            }
+          ]
+        },
+        {
+          "msa_site": 453,
+          "human_pos": 171,
+          "human_coord_float": 171.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -0.6500768675727154,
+              "adj_p": 0.08680737171038486
+            }
+          ]
+        },
+        {
+          "msa_site": 474,
+          "human_pos": 192,
+          "human_coord_float": 192.0,
+          "omnibus_q": 0.20550870054060205,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.0182283161655759,
+              "adj_p": 0.01989923238919835
+            }
+          ]
+        },
+        {
+          "msa_site": 500,
+          "human_pos": 218,
+          "human_coord_float": 218.0,
+          "omnibus_q": 0.9897611490761963,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.5744169973345068,
+              "adj_p": 0.06334762649872616
+            }
+          ]
+        },
+        {
+          "msa_site": 517,
+          "human_pos": 235,
+          "human_coord_float": 235.0,
+          "omnibus_q": 0.5623896705695629,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -0.6169727729517656,
+              "adj_p": 0.02367232276023572
+            }
+          ]
+        },
+        {
+          "msa_site": 519,
+          "human_pos": 237,
+          "human_coord_float": 237.0,
+          "omnibus_q": 0.5931007275095836,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.5591859261383494,
+              "adj_p": 0.07663965108549128
+            }
+          ]
+        },
+        {
+          "msa_site": 530,
+          "human_pos": 248,
+          "human_coord_float": 248.0,
+          "omnibus_q": 0.9897611490761963,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.7058662882653515,
+              "adj_p": 0.08028671717085237
+            }
+          ]
+        },
+        {
+          "msa_site": 549,
+          "human_pos": 266,
+          "human_coord_float": 266.0,
+          "omnibus_q": 0.737638005032272,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.2269768641746868,
+              "adj_p": 0.09592792848194863
+            }
+          ]
+        },
+        {
+          "msa_site": 593,
+          "human_pos": 310,
+          "human_coord_float": 310.0,
+          "omnibus_q": 0.5335561459654369,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.1547055315173762,
+              "adj_p": 0.007572021342927835
+            }
+          ]
+        },
+        {
+          "msa_site": 628,
+          "human_pos": 345,
+          "human_coord_float": 345.0,
+          "omnibus_q": 0.3094020486277368,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.6573132305357174,
+              "adj_p": 0.0012817447351245893
+            }
+          ]
+        },
+        {
+          "msa_site": 656,
+          "human_pos": 373,
+          "human_coord_float": 373.0,
+          "omnibus_q": 0.18833066605041748,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.3633352568106716,
+              "adj_p": 0.06249477436480934
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.8987759667304502,
+              "adj_p": 0.067594494060057
+            }
+          ]
+        },
+        {
+          "msa_site": 744,
+          "human_pos": 433,
+          "human_coord_float": 433.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.1440401251375358,
+              "adj_p": 0.0495191676736251
+            }
+          ]
+        },
+        {
+          "msa_site": 753,
+          "human_pos": 441,
+          "human_coord_float": 441.0,
+          "omnibus_q": 0.6435169054097487,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.123717406647061,
+              "adj_p": 0.02499658072982973
+            }
+          ]
+        },
+        {
+          "msa_site": 782,
+          "human_pos": 464,
+          "human_coord_float": 464.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -0.954388689684621,
+              "adj_p": 0.08865793480641869
+            }
+          ]
+        },
+        {
+          "msa_site": 835,
+          "human_pos": 511,
+          "human_coord_float": 511.0,
+          "omnibus_q": 0.6843071633151281,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.6884021295797198,
+              "adj_p": 0.05815147053238607
+            }
+          ]
+        },
+        {
+          "msa_site": 848,
+          "human_pos": 524,
+          "human_coord_float": 524.0,
+          "omnibus_q": 0.2833506536159633,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.5541993805195722,
+              "adj_p": 0.0817005394099006
+            }
+          ]
+        },
+        {
+          "msa_site": 851,
+          "human_pos": 525,
+          "human_coord_float": 525.0,
+          "omnibus_q": 0.7582854229974436,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.9485760085956536,
+              "adj_p": 0.049269867172269236
+            }
+          ]
+        },
+        {
+          "msa_site": 855,
+          "human_pos": 529,
+          "human_coord_float": 529.0,
+          "omnibus_q": 0.19889238874301296,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.7890012511848871,
+              "adj_p": 0.01406644221722302
+            }
+          ]
+        },
+        {
+          "msa_site": 860,
+          "human_pos": 534,
+          "human_coord_float": 534.0,
+          "omnibus_q": 0.737638005032272,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.51848745000243,
+              "adj_p": 0.07582891975685578
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.7607185214802918,
+              "adj_p": 0.07336531137351118
+            }
+          ]
+        },
+        {
+          "msa_site": 886,
+          "human_pos": 559,
+          "human_coord_float": 559.0,
+          "omnibus_q": 0.3729632544688176,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.0212760255506081,
+              "adj_p": 0.00012115780556906539
+            }
+          ]
+        },
+        {
+          "msa_site": 896,
+          "human_pos": 569,
+          "human_coord_float": 569.0,
+          "omnibus_q": 0.18833066605041748,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.9982165731110424,
+              "adj_p": 0.027156685942084174
+            }
+          ]
+        },
+        {
+          "msa_site": 917,
+          "human_pos": 590,
+          "human_coord_float": 590.0,
+          "omnibus_q": 0.3676352818956467,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.7961278361733641,
+              "adj_p": 0.008138299244850343
+            }
+          ]
+        },
+        {
+          "msa_site": 918,
+          "human_pos": 591,
+          "human_coord_float": 591.0,
+          "omnibus_q": 0.6332031898742388,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.435927087729593,
+              "adj_p": 0.00757171440715338
+            }
+          ]
+        },
+        {
+          "msa_site": 921,
+          "human_pos": 594,
+          "human_coord_float": 594.0,
+          "omnibus_q": 0.007335749981030477,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.0575318504316038,
+              "adj_p": 0.007278484684402383
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.1980618911199938,
+              "adj_p": 0.007278484684402383
+            }
+          ]
+        },
+        {
+          "msa_site": 924,
+          "human_pos": 597,
+          "human_coord_float": 597.0,
+          "omnibus_q": 0.04155701766989744,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.241379863802645,
+              "adj_p": 0.05761210819661018
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.8350442669662606,
+              "adj_p": 0.010038110682693644
+            }
+          ]
+        },
+        {
+          "msa_site": 942,
+          "human_pos": 615,
+          "human_coord_float": 615.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.736406846143773,
+              "adj_p": 0.07967613728275441
+            }
+          ]
+        },
+        {
+          "msa_site": 944,
+          "human_pos": 617,
+          "human_coord_float": 617.0,
+          "omnibus_q": 0.4982213988586227,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -2.2244956193247476,
+              "adj_p": 0.06736460750809861
+            }
+          ]
+        },
+        {
+          "msa_site": 949,
+          "human_pos": 622,
+          "human_coord_float": 622.0,
+          "omnibus_q": 0.19889238874301296,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -0.29163103318033395,
+              "adj_p": 0.017114465589930693
+            }
+          ]
+        },
+        {
+          "msa_site": 951,
+          "human_pos": 624,
+          "human_coord_float": 624.0,
+          "omnibus_q": 0.42265174207229955,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.3039798139013032,
+              "adj_p": 0.023309830960429077
+            }
+          ]
+        },
+        {
+          "msa_site": 952,
+          "human_pos": 625,
+          "human_coord_float": 625.0,
+          "omnibus_q": 0.043221513843427095,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -0.842936314858105,
+              "adj_p": 0.020772859248999274
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.6020918526781802,
+              "adj_p": 0.016958600070215872
+            }
+          ]
+        },
+        {
+          "msa_site": 963,
+          "human_pos": 636,
+          "human_coord_float": 636.0,
+          "omnibus_q": 0.9271559313366425,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.190161892009515,
+              "adj_p": 0.06811500569196537
+            }
+          ]
+        },
+        {
+          "msa_site": 977,
+          "human_pos": 650,
+          "human_coord_float": 650.0,
+          "omnibus_q": 0.00049002497992581,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.0472466573650872,
+              "adj_p": 8.988799595542379e-05
+            }
+          ]
+        },
+        {
+          "msa_site": 980,
+          "human_pos": 653,
+          "human_coord_float": 653.0,
+          "omnibus_q": 0.009592267286885316,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.8459948120239125,
+              "adj_p": 0.004759531311903694
+            }
+          ]
+        },
+        {
+          "msa_site": 991,
+          "human_pos": 664,
+          "human_coord_float": 664.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -2.1644306332840317,
+              "adj_p": 0.09737373856406072
+            }
+          ]
+        },
+        {
+          "msa_site": 994,
+          "human_pos": 667,
+          "human_coord_float": 667.0,
+          "omnibus_q": 0.7582854229974436,
+          "changed_properties": [
+            {
+              "prop": "Volume_Angstrom3",
+              "lambda": -1.295762904923031,
+              "adj_p": 0.08616748657215917
+            }
+          ]
+        },
+        {
+          "msa_site": 1008,
+          "human_pos": 681,
+          "human_coord_float": 681.0,
+          "omnibus_q": 0.0017937049225592496,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.174834641103836,
+              "adj_p": 0.02570815590681544
+            },
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.7849164340021413,
+              "adj_p": 0.00705477474872901
+            }
+          ]
+        },
+        {
+          "msa_site": 1029,
+          "human_pos": 702,
+          "human_coord_float": 702.0,
+          "omnibus_q": 0.19889238874301296,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.9009675464099495,
+              "adj_p": 0.01500234087802602
+            }
+          ]
+        },
+        {
+          "msa_site": 1036,
+          "human_pos": 709,
+          "human_coord_float": 709.0,
+          "omnibus_q": 0.0218958194153113,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.2309245451702417,
+              "adj_p": 0.015604164929478293
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.6653965287159384,
+              "adj_p": 0.011533145258889432
+            }
+          ]
+        },
+        {
+          "msa_site": 1038,
+          "human_pos": 711,
+          "human_coord_float": 711.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.5873519388937993,
+              "adj_p": 0.09716744704421489
+            }
+          ]
+        },
+        {
+          "msa_site": 1063,
+          "human_pos": 736,
+          "human_coord_float": 736.0,
+          "omnibus_q": 0.18833066605041748,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.4784166674788621,
+              "adj_p": 0.0005315595549992033
+            }
+          ]
+        },
+        {
+          "msa_site": 1064,
+          "human_pos": 737,
+          "human_coord_float": 737.0,
+          "omnibus_q": 0.010063051536917392,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -2.296224520842185,
+              "adj_p": 0.0016388013230682638
+            }
+          ]
+        },
+        {
+          "msa_site": 1082,
+          "human_pos": 755,
+          "human_coord_float": 755.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.4250563282403632,
+              "adj_p": 0.04139847077093098
+            }
+          ]
+        },
+        {
+          "msa_site": 1085,
+          "human_pos": 758,
+          "human_coord_float": 758.0,
+          "omnibus_q": 0.043221513843427095,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.9074731431585703,
+              "adj_p": 0.02303435968757884
+            }
+          ]
+        },
+        {
+          "msa_site": 1113,
+          "human_pos": 786,
+          "human_coord_float": 786.0,
+          "omnibus_q": 0.565293877799819,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.1534121456903932,
+              "adj_p": 0.011585585416459925
+            }
+          ]
+        },
+        {
+          "msa_site": 1114,
+          "human_pos": 787,
+          "human_coord_float": 787.0,
+          "omnibus_q": 0.809085083711099,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -2.1596450518642247,
+              "adj_p": 0.01704785033271335
+            }
+          ]
+        },
+        {
+          "msa_site": 1116,
+          "human_pos": 789,
+          "human_coord_float": 789.0,
+          "omnibus_q": 0.26104613824564016,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.8776883788210896,
+              "adj_p": 0.07326450177749534
+            }
+          ]
+        },
+        {
+          "msa_site": 1120,
+          "human_pos": 793,
+          "human_coord_float": 793.0,
+          "omnibus_q": 0.18833066605041748,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.3961816798213345,
+              "adj_p": 0.009841801538412813
+            },
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.7808602623771135,
+              "adj_p": 0.08580289892600745
+            }
+          ]
+        },
+        {
+          "msa_site": 1147,
+          "human_pos": 820,
+          "human_coord_float": 820.0,
+          "omnibus_q": 0.2979199225942599,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.4659544688242294,
+              "adj_p": 0.07540083708668809
+            }
+          ]
+        },
+        {
+          "msa_site": 1148,
+          "human_pos": 821,
+          "human_coord_float": 821.0,
+          "omnibus_q": 0.5499312530640067,
+          "changed_properties": [
+            {
+              "prop": "Hydrophobicity_KyteDoolittle",
+              "lambda": -1.1741569056263916,
+              "adj_p": 0.0069051168450298414
+            }
+          ]
+        },
+        {
+          "msa_site": 1159,
+          "human_pos": 832,
+          "human_coord_float": 832.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.6029349764597136,
+              "adj_p": 0.06649989671753011
+            }
+          ]
+        },
+        {
+          "msa_site": 1175,
+          "human_pos": null,
+          "human_coord_float": 845.33,
+          "omnibus_q": 0.043221513843427095,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.4591421695103777,
+              "adj_p": 0.0006539247992178156
+            }
+          ]
+        },
+        {
+          "msa_site": 1193,
+          "human_pos": null,
+          "human_coord_float": 846.57,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.260754757636131,
+              "adj_p": 0.067691641841804
+            }
+          ]
+        },
+        {
+          "msa_site": 1197,
+          "human_pos": null,
+          "human_coord_float": 846.76,
+          "omnibus_q": 0.010964454949599342,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.5385289371047213,
+              "adj_p": 3.5103608544918754e-05
+            }
+          ]
+        },
+        {
+          "msa_site": 1200,
+          "human_pos": null,
+          "human_coord_float": 846.9,
+          "omnibus_q": 0.48138859677226953,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -2.1182416455320254,
+              "adj_p": 0.001668899268744391
+            }
+          ]
+        },
+        {
+          "msa_site": 1204,
+          "human_pos": 849,
+          "human_coord_float": 849.0,
+          "omnibus_q": 0.14792356464385184,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.9923250552029435,
+              "adj_p": 0.05481190791121996
+            }
+          ]
+        },
+        {
+          "msa_site": 1220,
+          "human_pos": 864,
+          "human_coord_float": 864.0,
+          "omnibus_q": 0.6630649503588082,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -0.9776807952086872,
+              "adj_p": 0.0038223343461848648
+            }
+          ]
+        },
+        {
+          "msa_site": 1221,
+          "human_pos": 865,
+          "human_coord_float": 865.0,
+          "omnibus_q": 0.7854829192439038,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.79468813051054,
+              "adj_p": 0.013099201342382443
+            }
+          ]
+        },
+        {
+          "msa_site": 1222,
+          "human_pos": 866,
+          "human_coord_float": 866.0,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.1470294227820845,
+              "adj_p": 0.07075034651883023
+            }
+          ]
+        },
+        {
+          "msa_site": 1227,
+          "human_pos": 871,
+          "human_coord_float": 871.0,
+          "omnibus_q": 0.7748637709890827,
+          "changed_properties": [
+            {
+              "prop": "BetaSheet_Propensity_ChouFasman",
+              "lambda": -1.3245339318270113,
+              "adj_p": 0.00569007768559654
+            }
+          ]
+        },
+        {
+          "msa_site": 1289,
+          "human_pos": null,
+          "human_coord_float": 875.13,
+          "omnibus_q": 0.7582854229974436,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.6589250533399773,
+              "adj_p": 0.07116633869414174
+            }
+          ]
+        },
+        {
+          "msa_site": 1307,
+          "human_pos": null,
+          "human_coord_float": 877.15,
+          "omnibus_q": 1.0,
+          "changed_properties": [
+            {
+              "prop": "Isoelectric_Point_pI",
+              "lambda": -1.640877864763923,
+              "adj_p": 0.019271116357932404
+            }
+          ]
+        },
+        {
+          "msa_site": 1308,
+          "human_pos": null,
+          "human_coord_float": 877.23,
+          "omnibus_q": 0.9416248954499284,
+          "changed_properties": [
+            {
+              "prop": "AlphaHelix_Propensity_ChouFasman",
+              "lambda": -1.552788070373375,
+              "adj_p": 0.03679233557326091
+            }
+          ]
+        }
+      ],
+      "prdm9_znf_specificity_walrus": {
+        "dna_contact_diversifying": "36/48 (75.0%)",
+        "c2h2_coordinating_false_positives": "1/48 (2.1%)",
+        "framework_diversifying": "44/249 (17.7%)",
+        "fisher_odds_dna_vs_scaffold": 16.8,
+        "fisher_p_dna_vs_scaffold": 1.5058921746590195e-16
+      },
+      "legacy_mafft_foil": {
+        "mafft_admitted_taxa": 48,
+        "dropped_pseudogene_taxa": 2,
+        "mafft_codons": 1467,
+        "mafft_meme_p05": 111,
+        "mafft_meme_q10": 32,
+        "mafft_fel_div_p05": 46,
+        "mafft_znf_register_corrupted_cols": 16,
+        "mafft_znf_register_slippage_false_positives": 11,
+        "walrus_znf_register_corrupted_cols": 23,
+        "walrus_znf_register_slippage_false_positives": 11
+      }
+    }
+  },
+  "tier2_toga2_vip_preview": {
+    "n_total": 6916,
+    "groups": {
+      "Hijacked_Host_Hubs": {
+        "n": 178,
+        "median_taxa": 839,
+        "median_codons": 267,
+        "busted_pct": 39.33,
+        "mean_episodic_site_pct": 6.12,
+        "mean_toggle_conv_site_pct": 28.34,
+        "mean_gap_codons_per_site": 6.76,
+        "mean_indel_events_per_100_codons": 118.57
+      },
+      "Proteome_Background": {
+        "n": 6691,
+        "median_taxa": 819,
+        "median_codons": 257,
+        "busted_pct": 57.23,
+        "mean_episodic_site_pct": 7.6,
+        "mean_toggle_conv_site_pct": 37.7,
+        "mean_gap_codons_per_site": 9.76,
+        "mean_indel_events_per_100_codons": 164.78
+      },
+      "Antiviral_Sensors_Effectors": {
+        "n": 47,
+        "median_taxa": 349,
+        "median_codons": 212,
+        "busted_pct": 68.09,
+        "mean_episodic_site_pct": 12.49,
+        "mean_toggle_conv_site_pct": 35.78,
+        "mean_gap_codons_per_site": 15.04,
+        "mean_indel_events_per_100_codons": 184.55
+      }
+    },
+    "p_antiviral_vs_hijacked": {
+      "busted_fisher_p": 0.0003803020225542372,
+      "episodic_density_mwu_p": 2.6567351018062334e-08,
+      "toggle_convergent_mwu_p": 0.00449411296488936,
+      "gap_plasticity_mwu_p": 5.298144570824211e-11
+    },
+    "antiviral_genes_in_sample": [
+      "APOBEC3A",
+      "APOBEC3C",
+      "APOBEC3F",
+      "APOBEC3H",
+      "BECN1",
+      "BST2",
+      "CRCP",
+      "DDIT4",
+      "ELMOD2",
+      "GBP1",
+      "GBP3",
+      "GBP7",
+      "IFI27",
+      "IFI6",
+      "IFITM1",
+      "IFITM2",
+      "IFITM3",
+      "IFNA1",
+      "IFNA13",
+      "IFNA2",
+      "IFNA21",
+      "IFNA4",
+      "IFNA8",
+      "IFNB1",
+      "IFNE",
+      "IFNG",
+      "IFNK",
+      "IFNL1",
+      "IFNL2",
+      "IFNL3",
+      "IFNW1",
+      "IL23A",
+      "IRF1",
+      "ISG15",
+      "ISG20",
+      "OAS1",
+      "PCBP2",
+      "PLSCR1",
+      "POLR3K",
+      "SKP2",
+      "TRIM22",
+      "TRIM31",
+      "TRIM34",
+      "TRIM5",
+      "TRIM52",
+      "VAMP8",
+      "ZNF175"
+    ]
+  }
+}

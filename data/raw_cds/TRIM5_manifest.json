@@ -1,0 +1,615 @@
+{
+  "gene": "TRIM5",
+  "total_taxa": 67,
+  "intact_taxa": 66,
+  "pseudogene_or_frameshift_taxa": [
+    "Felis_catus"
+  ],
+  "min_nt": 1252,
+  "max_nt": 1644,
+  "records": [
+    {
+      "taxon": "Homo_sapiens",
+      "species": "Homo sapiens",
+      "accession": "NM_033034.3",
+      "nt_len": 1482,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Ateles_geoffroyi",
+      "species": "Ateles geoffroyi",
+      "accession": "AY843516.1",
+      "nt_len": 1644,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Ateles geoffroyi TRIM5alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Bos_taurus",
+      "species": "Bos taurus",
+      "accession": "NM_001205305.2",
+      "nt_len": 1536,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Bos taurus tripartite motif containing 5 (TRIM5), mRNA"
+    },
+    {
+      "taxon": "Callospermophilus_lateralis",
+      "species": "Callospermophilus lateralis",
+      "accession": "XM_076846760.2",
+      "nt_len": 1503,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Capra_hircus",
+      "species": "Capra hircus",
+      "accession": "JX649920.1",
+      "nt_len": 1530,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Capra hircus TRIM5 alpha (TRIM5) mRNA, TRIM5-Ca.6 allele, complete cds"
+    },
+    {
+      "taxon": "Cebuella_pygmaea",
+      "species": "Cebuella pygmaea",
+      "accession": "AY843512.1",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Cebuella pygmaea TRIM5alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Cebus_imitator",
+      "species": "Cebus imitator",
+      "accession": "XM_017507271.2",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Cebus imitator tripartite motif containing 5 (TRIM5), transcript variant X1, mRNA"
+    },
+    {
+      "taxon": "Cercocebus_atys",
+      "species": "Cercocebus atys",
+      "accession": "NM_001305964.1",
+      "nt_len": 1494,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Cercocebus_torquatus",
+      "species": "Cercocebus torquatus",
+      "accession": "KP743974.1",
+      "nt_len": 1494,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Cercocebus torquatus tripartite motif-containing 5 transcript variant alpha (TRIM5) mRNA, complete c"
+    },
+    {
+      "taxon": "Cercopithecus_cephus",
+      "species": "Cercopithecus cephus",
+      "accession": "KP743975.1",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Cercopithecus cephus tripartite motif-containing 5 transcript variant alpha (TRIM5) mRNA, complete c"
+    },
+    {
+      "taxon": "Cercopithecus_neglectus",
+      "species": "Cercopithecus neglectus",
+      "accession": "KP743978.1",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Cercopithecus neglectus tripartite motif-containing 5 transcript variant alpha (TRIM5) mRNA, complet"
+    },
+    {
+      "taxon": "Cercopithecus_wolfi",
+      "species": "Cercopithecus wolfi",
+      "accession": "KP743973.1",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Cercopithecus wolfi tripartite motif-containing 5 transcript variant alpha (TRIM5) mRNA, complete cd"
+    },
+    {
+      "taxon": "Chlorocebus_aethiops",
+      "species": "Chlorocebus aethiops",
+      "accession": "AY843504.1",
+      "nt_len": 1548,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Chlorocebus aethiops TRIM5alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Chlorocebus_pygerythrus",
+      "species": "Chlorocebus pygerythrus pygerythrus",
+      "accession": "AY740612.1",
+      "nt_len": 1548,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Chlorocebus pygerythrus pygerythrus TRIM5 alpha (TRIM5) mRNA, complete cds"
+    },
+    {
+      "taxon": "Chlorocebus_sabaeus",
+      "species": "Chlorocebus sabaeus",
+      "accession": "XM_008019878.3",
+      "nt_len": 1548,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Chlorocebus sabaeus tripartite motif containing 5 (TRIM5), transcript variant X2, mRNA"
+    },
+    {
+      "taxon": "Chlorocebus_tantalus",
+      "species": "Chlorocebus tantalus",
+      "accession": "AY740613.1",
+      "nt_len": 1548,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Chlorocebus tantalus TRIM5 alpha (TRIM5) mRNA, complete cds"
+    },
+    {
+      "taxon": "Colobus_angolensis",
+      "species": "Colobus angolensis palliatus",
+      "accession": "XM_011963593.1",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Colobus angolensis palliatus tripartite motif containing 5 (TRIM5), transcript variant X1"
+    },
+    {
+      "taxon": "Colobus_guereza",
+      "species": "Colobus guereza",
+      "accession": "AY843507.1",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Colobus guereza TRIM5alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Eptesicus_fuscus",
+      "species": "Eptesicus fuscus",
+      "accession": "OP272518.1",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Eptesicus fuscus tripartite motif containing 5 alpha (TRIM5) mRNA, complete cds"
+    },
+    {
+      "taxon": "Erythrocebus_patas",
+      "species": "Erythrocebus patas",
+      "accession": "AY740619.1",
+      "nt_len": 1548,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Erythrocebus patas TRIM5 alpha (TRIM5) mRNA, complete cds"
+    },
+    {
+      "taxon": "Felis_catus",
+      "species": "Felis catus",
+      "accession": "GQ183880.1",
+      "nt_len": 1252,
+      "internal_stops": 4,
+      "source": "GenBank_LoF_McEwan2009",
+      "note": "Felis catus inactivated TRIM5 mRNA with premature stop before PRYSPRY"
+    },
+    {
+      "taxon": "Gorilla_gorilla",
+      "species": "Gorilla gorilla gorilla",
+      "accession": "NM_001279549.1",
+      "nt_len": 1482,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Hoolock_hoolock",
+      "species": "Hoolock hoolock",
+      "accession": "AH014836.2",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Hoolock hoolock tripartite motif-containing 5 transcript variant alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Hylobates_lar",
+      "species": "Hylobates lar",
+      "accession": "AY923180.1",
+      "nt_len": 1482,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Hylobates lar common white-handed gibbon tripartite motif 5 alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Hylobates_moloch",
+      "species": "Hylobates moloch",
+      "accession": "XM_032166802.3",
+      "nt_len": 1482,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Hylobates moloch tripartite motif containing 5 (TRIM5), transcript variant X8, mRNA"
+    },
+    {
+      "taxon": "Lagothrix_lagotricha",
+      "species": "Lagothrix lagotricha",
+      "accession": "AY843520.1",
+      "nt_len": 1644,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Lagothrix lagotricha TRIM5alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Lemur_catta",
+      "species": "Lemur catta",
+      "accession": "XM_045557336.1",
+      "nt_len": 1563,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Lemur catta tripartite motif containing 5 (TRIM5), mRNA"
+    },
+    {
+      "taxon": "Macaca_arctoides",
+      "species": "Macaca arctoides",
+      "accession": "KY350135.1",
+      "nt_len": 1494,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Macaca arctoides tripartite motif-containing protein 5 (TRIM5) mRNA, complete cds"
+    },
+    {
+      "taxon": "Macaca_assamensis",
+      "species": "Macaca assamensis",
+      "accession": "AH014832.2",
+      "nt_len": 1494,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Macaca assamensis tripartite motif-containing 5 transcript variant alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Macaca_fascicularis",
+      "species": "Macaca fascicularis",
+      "accession": "JX865256.1",
+      "nt_len": 1494,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Macaca fascicularis clone IMFT5 tripartite motif-containing 5 alpha isoform (TRIM5) mRNA, complete c"
+    },
+    {
+      "taxon": "Macaca_mulatta",
+      "species": "Macaca mulatta",
+      "accession": "NM_001032910.1",
+      "nt_len": 1494,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Macaca_nemestrina",
+      "species": "Macaca nemestrina",
+      "accession": "AH014834.2",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Macaca nemestrina tripartite motif-containing 5 transcript variant alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Macaca_sylvanus",
+      "species": "Macaca sylvanus",
+      "accession": "HM468432.1",
+      "nt_len": 1494,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Macaca sylvanus genotype 4 TRIM5alpha (TRIM5) mRNA, complete cds"
+    },
+    {
+      "taxon": "Macaca_thibetana",
+      "species": "Macaca thibetana thibetana",
+      "accession": "XM_050756211.1",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Macaca thibetana thibetana tripartite motif containing 5 (TRIM5), transcript variant X2, "
+    },
+    {
+      "taxon": "Mandrillus_leucophaeus",
+      "species": "Mandrillus leucophaeus",
+      "accession": "XM_011971974.1",
+      "nt_len": 1494,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Mandrillus leucophaeus tripartite motif containing 5 (TRIM5), mRNA"
+    },
+    {
+      "taxon": "Microcebus_murinus",
+      "species": "Microcebus murinus",
+      "accession": "HQ413346.1",
+      "nt_len": 1464,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Microcebus murinus tripartite motif-containing 5 (TRIM5) mRNA, TRIM5-2 allele, complete cds"
+    },
+    {
+      "taxon": "Miniopterus_fuliginosus",
+      "species": "Miniopterus fuliginosus",
+      "accession": "OP272525.1",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Miniopterus fuliginosus tripartite motif containing 5 alpha (TRIM5) mRNA, complete cds"
+    },
+    {
+      "taxon": "Mus_pahari",
+      "species": "Mus pahari",
+      "accession": "XM_021196470.2",
+      "nt_len": 1497,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Nomascus_leucogenys",
+      "species": "Nomascus leucogenys",
+      "accession": "NM_001280113.1",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Ovis_aries",
+      "species": "Ovis aries",
+      "accession": "JN835311.1",
+      "nt_len": 1530,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Ovis aries isolate 191-15 TRIM5 alpha (TRIM5) mRNA, TRIM5-Ov12 allele, complete cds"
+    },
+    {
+      "taxon": "Pan_paniscus",
+      "species": "Pan paniscus",
+      "accession": "XM_008972434.5",
+      "nt_len": 1482,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Pan paniscus tripartite motif containing 5 (TRIM5), transcript variant X4, mRNA"
+    },
+    {
+      "taxon": "Pan_troglodytes",
+      "species": "Pan troglodytes",
+      "accession": "NM_001012650.1",
+      "nt_len": 1482,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Papio_anubis",
+      "species": "Papio anubis",
+      "accession": "NM_001112632.1",
+      "nt_len": 1494,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Piliocolobus_tephrosceles",
+      "species": "Piliocolobus tephrosceles",
+      "accession": "XM_023209625.2",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Piliocolobus tephrosceles tripartite motif containing 5 (TRIM5), transcript variant X1, m"
+    },
+    {
+      "taxon": "Pithecia_pithecia",
+      "species": "Pithecia pithecia",
+      "accession": "AY843515.1",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Pithecia pithecia TRIM5alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Plecturocebus_donacophilus",
+      "species": "Plecturocebus donacophilus",
+      "accession": "AY843519.1",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Plecturocebus donacophilus TRIM5alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Plecturocebus_moloch",
+      "species": "Plecturocebus moloch",
+      "accession": "EU124690.1",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Callicebus moloch TRIM5alpha (TRIM5) mRNA, complete cds"
+    },
+    {
+      "taxon": "Pongo_abelii",
+      "species": "Pongo abelii",
+      "accession": "NM_001131070.1",
+      "nt_len": 1482,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Pongo_pygmaeus",
+      "species": "Pongo pygmaeus",
+      "accession": "XM_054441294.2",
+      "nt_len": 1482,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Pongo pygmaeus tripartite motif containing 5 (TRIM5), transcript variant X2, mRNA"
+    },
+    {
+      "taxon": "Propithecus_coquereli",
+      "species": "Propithecus coquereli",
+      "accession": "XM_012654429.1",
+      "nt_len": 1449,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Propithecus coquereli tripartite motif containing 5 (TRIM5), mRNA"
+    },
+    {
+      "taxon": "Pteropus_dasymallus",
+      "species": "Pteropus dasymallus",
+      "accession": "OP272519.1",
+      "nt_len": 1479,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Pteropus dasymallus tripartite motif containing 5 alpha (TRIM5) mRNA, complete cds"
+    },
+    {
+      "taxon": "Pygathrix_nemaeus",
+      "species": "Pygathrix nemaeus",
+      "accession": "AY843508.1",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Pygathrix nemaeus TRIM5alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Rattus_norvegicus",
+      "species": "Rattus norvegicus",
+      "accession": "NM_001014023.2",
+      "nt_len": 1536,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Rhinopithecus_roxellana",
+      "species": "Rhinopithecus roxellana",
+      "accession": "XM_010364549.2",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Rhinopithecus roxellana tripartite motif containing 5 (TRIM5), transcript variant X2, mRN"
+    },
+    {
+      "taxon": "Rousettus_aegyptiacus",
+      "species": "Rousettus aegyptiacus",
+      "accession": "OP272520.1",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Rousettus aegyptiacus tripartite motif containing 5 alpha transcript variant 1 (TRIM5) mRNA, complet"
+    },
+    {
+      "taxon": "Rousettus_leschenaultii",
+      "species": "Rousettus leschenaultii",
+      "accession": "OP272517.1",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Rousettus leschenaultii tripartite motif containing 5 alpha (TRIM5) mRNA, complete cds"
+    },
+    {
+      "taxon": "Saguinus_labiatus",
+      "species": "Saguinus labiatus",
+      "accession": "AY843518.1",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Saguinus labiatus TRIM5alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Saguinus_oedipus",
+      "species": "Saguinus oedipus",
+      "accession": "DQ229285.1",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Saguinus oedipus tripartite motif 5 alpha (Trim5) gene, complete cds"
+    },
+    {
+      "taxon": "Saimiri_boliviensis",
+      "species": "Saimiri boliviensis",
+      "accession": "XM_074401023.1",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Saimiri boliviensis tripartite motif containing 5 (TRIM5), transcript variant X2, mRNA"
+    },
+    {
+      "taxon": "Saimiri_sciureus",
+      "species": "Saimiri sciureus",
+      "accession": "AY843517.1",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Saimiri sciureus TRIM5alpha (TRIM5) gene, complete cds"
+    },
+    {
+      "taxon": "Sapajus_apella",
+      "species": "Sapajus apella",
+      "accession": "XM_032240537.1",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Sapajus apella tripartite motif containing 5 (TRIM5), transcript variant X2, mRNA"
+    },
+    {
+      "taxon": "Sciurus_carolinensis",
+      "species": "Sciurus carolinensis",
+      "accession": "XM_047515877.1",
+      "nt_len": 1431,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Spermophilus_citellus",
+      "species": "Spermophilus citellus",
+      "accession": "XM_081280614.1",
+      "nt_len": 1506,
+      "internal_stops": 0,
+      "source": "NCBI_Datasets_85363",
+      "note": ""
+    },
+    {
+      "taxon": "Symphalangus_syndactylus",
+      "species": "Symphalangus syndactylus",
+      "accession": "XM_055282672.2",
+      "nt_len": 1485,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Symphalangus syndactylus tripartite motif containing 5 (TRIM5), transcript variant X22, m"
+    },
+    {
+      "taxon": "Tadarida_brasiliensis",
+      "species": "Tadarida brasiliensis",
+      "accession": "PX890925.1",
+      "nt_len": 1515,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "Tadarida brasiliensis tripartite motif containing 5 alpha-like protein 1 (TRIM5) mRNA, complete cds"
+    },
+    {
+      "taxon": "Theropithecus_gelada",
+      "species": "Theropithecus gelada",
+      "accession": "XM_025355630.2",
+      "nt_len": 1494,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Theropithecus gelada tripartite motif containing 5 (TRIM5), transcript variant X2, mRNA"
+    },
+    {
+      "taxon": "Trachypithecus_francoisi",
+      "species": "Trachypithecus francoisi",
+      "accession": "XM_033207968.1",
+      "nt_len": 1488,
+      "internal_stops": 0,
+      "source": "GenBank_curated",
+      "note": "PREDICTED: Trachypithecus francoisi tripartite motif containing 5 (TRIM5), transcript variant X2, mR"
+    }
+  ]
+}

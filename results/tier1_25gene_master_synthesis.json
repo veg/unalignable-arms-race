@@ -1,0 +1,3664 @@
+{
+  "tier1_count": 25,
+  "tier1_genes": [
+    {
+      "gene": "TRIM5",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 67,
+      "admitted_taxa": 67,
+      "rescued_frame_or_strand": 1,
+      "admitted_pseudogenes": [
+        {
+          "name": "Felis_catus",
+          "status": "Rescued",
+          "reason": "Admitted pseudogene (fwd frame +0; repaired 5 frameshifts, masked 2 internal stops to NNN)",
+          "stops_f0": 4
+        }
+      ],
+      "human_aa": 493,
+      "msa_codons": 595,
+      "non_human_inserted_cols": 92,
+      "branch_indel_events": 150,
+      "mean_gap_pct": 16.37,
+      "mean_column_posterior": 0.9552,
+      "wheatstone_bridges": 12,
+      "spr_routed_bridges": 1,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": false,
+      "gc3_cp3_p": 0.9999999998865498,
+      "directional_drift_active": false,
+      "busted_e_lrt": 0.0,
+      "busted_e_p": 1.0,
+      "busted_e_sig": false,
+      "innov_sites": 130,
+      "innov_site_pct": 21.85,
+      "meme_q10_sites": 0,
+      "toggle_conv_sites": 37,
+      "poa_artifacts_eliminated": 6,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Miniopterus_fuliginosus",
+          "lof_bf": 1692584.4656997647,
+          "lof_p": 5.77445943158501e-09,
+          "relax_k": 0.07761839719341693
+        }
+      ],
+      "prime_strict_changing_sites": 0,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 32,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 8,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 2,
+        "Isoelectric_Point_pI": 16,
+        "Volume_Angstrom3": 8
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 7,
+        "BetaSheet_Propensity_ChouFasman": 7,
+        "Hydrophobicity_KyteDoolittle": 5,
+        "Isoelectric_Point_pI": 1,
+        "Volume_Angstrom3": 5
+      },
+      "pdb_atomic_audit": null,
+      "functional_loop_audit": {
+        "loop_cols": 82,
+        "loop_innov": 28,
+        "loop_innov_pct": 34.15,
+        "loop_mean_gap": 0.3527,
+        "other_cols": 513,
+        "other_innov": 102,
+        "other_innov_pct": 19.88,
+        "fisher_or": 2.089,
+        "fisher_p": 0.003924213856601473
+      }
+    },
+    {
+      "gene": "MX1",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 80,
+      "admitted_taxa": 80,
+      "rescued_frame_or_strand": 4,
+      "admitted_pseudogenes": [
+        {
+          "name": "Delphinus_delphis",
+          "status": "Rescued",
+          "reason": "Admitted pseudogene (fwd frame +0; repaired 2 frameshifts)",
+          "stops_f0": 1
+        },
+        {
+          "name": "Globicephala_melas",
+          "status": "Rescued",
+          "reason": "Admitted pseudogene (fwd frame +0; repaired 7 frameshifts)",
+          "stops_f0": 5
+        },
+        {
+          "name": "Orcinus_orca",
+          "status": "Rescued",
+          "reason": "Admitted pseudogene (fwd frame +0; repaired 7 frameshifts)",
+          "stops_f0": 5
+        },
+        {
+          "name": "Pseudorca_crassidens",
+          "status": "Rescued",
+          "reason": "Admitted pseudogene (fwd frame +0; repaired 7 frameshifts)",
+          "stops_f0": 5
+        }
+      ],
+      "human_aa": 662,
+      "msa_codons": 955,
+      "non_human_inserted_cols": 121,
+      "branch_indel_events": 306,
+      "mean_gap_pct": 31.14,
+      "mean_column_posterior": 0.9149,
+      "wheatstone_bridges": 18,
+      "spr_routed_bridges": 2,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 2.2305954107785872e-09,
+      "directional_drift_active": true,
+      "busted_e_lrt": 53.626955745233545,
+      "busted_e_p": 1.2536695369058339e-12,
+      "busted_e_sig": true,
+      "innov_sites": 144,
+      "innov_site_pct": 15.08,
+      "meme_q10_sites": 13,
+      "toggle_conv_sites": 63,
+      "poa_artifacts_eliminated": 7,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Sapajus_apella",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 5.218420194579878e-29,
+          "relax_k": 5.0
+        },
+        {
+          "branch": "Equus_caballus",
+          "lof_bf": 10809.516177281077,
+          "lof_p": 1.6323191214234147e-05,
+          "relax_k": 0.4306183272519419
+        },
+        {
+          "branch": "Mus_musculus",
+          "lof_bf": 48754811.93440826,
+          "lof_p": 2.6784956254820573e-09,
+          "relax_k": 0.5317648087753578
+        },
+        {
+          "branch": "Mustela_putorius",
+          "lof_bf": 3556.10649067249,
+          "lof_p": 4.6148857083346345e-05,
+          "relax_k": 5.0
+        },
+        {
+          "branch": "Mesoplodon_mirus",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 6.267797252359155e-11,
+          "relax_k": 1.0
+        },
+        {
+          "branch": "Node43",
+          "lof_bf": 6066.706543386278,
+          "lof_p": 2.563182512776829e-06,
+          "relax_k": 0.12700246560137599
+        },
+        {
+          "branch": "Delphinus_delphis",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 2.8883548795178093e-74,
+          "relax_k": 0.06145724983060296
+        },
+        {
+          "branch": "Node44",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 6.817189531098003e-94,
+          "relax_k": 5.0
+        },
+        {
+          "branch": "Orcinus_orca",
+          "lof_bf": 277844779.1859099,
+          "lof_p": 1.9668922399510597e-15,
+          "relax_k": 1.0
+        },
+        {
+          "branch": "Pteropus_vampyrus",
+          "lof_bf": 105559.45351766692,
+          "lof_p": 1.9714897648467006e-13,
+          "relax_k": 5.0
+        }
+      ],
+      "prime_strict_changing_sites": 3,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 2,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 1
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 2,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 8,
+        "Volume_Angstrom3": 1
+      },
+      "prime_marginal_changing_sites": 61,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 12,
+        "BetaSheet_Propensity_ChouFasman": 14,
+        "Hydrophobicity_KyteDoolittle": 11,
+        "Isoelectric_Point_pI": 18,
+        "Volume_Angstrom3": 15
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 3,
+        "BetaSheet_Propensity_ChouFasman": 10,
+        "Hydrophobicity_KyteDoolittle": 22,
+        "Isoelectric_Point_pI": 26,
+        "Volume_Angstrom3": 14
+      },
+      "pdb_atomic_audit": null,
+      "functional_loop_audit": {
+        "loop_cols": 179,
+        "loop_innov": 23,
+        "loop_innov_pct": 12.85,
+        "loop_mean_gap": 0.5618,
+        "other_cols": 776,
+        "other_innov": 121,
+        "other_innov_pct": 15.59,
+        "fisher_or": 0.798,
+        "fisher_p": 0.8513974908781956
+      }
+    },
+    {
+      "gene": "APOBEC3G",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 22,
+      "admitted_taxa": 22,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 384,
+      "msa_codons": 411,
+      "non_human_inserted_cols": 20,
+      "branch_indel_events": 39,
+      "mean_gap_pct": 7.0,
+      "mean_column_posterior": 0.9874,
+      "wheatstone_bridges": 5,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": false,
+      "gc3_cp3_p": 1.0,
+      "directional_drift_active": false,
+      "busted_e_lrt": 219.89149970812775,
+      "busted_e_p": 9.39288387197978e-49,
+      "busted_e_sig": true,
+      "innov_sites": 138,
+      "innov_site_pct": 33.58,
+      "meme_q10_sites": 0,
+      "toggle_conv_sites": 99,
+      "poa_artifacts_eliminated": 0,
+      "coev_pairs_q10": 15,
+      "lof_flagged_branches": [
+        {
+          "branch": "Symphalangus_syndactylus",
+          "lof_bf": 274.733654729253,
+          "lof_p": 0.00021424471837261052,
+          "relax_k": 0.85
+        }
+      ],
+      "prime_strict_changing_sites": 0,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 6,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 4,
+        "Volume_Angstrom3": 1
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 1,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "8CX0"
+        ],
+        "contact_4p5A": {
+          "n": 13,
+          "n_innov": 6,
+          "innov_pct": 46.15,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0,
+          "local_ins_3aa": 1
+        },
+        "proximal_4p5_8p0A": {
+          "n": 23,
+          "n_innov": 11,
+          "innov_pct": 47.83,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 8.7,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0237,
+          "local_ins_3aa": 4
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 340,
+          "n_innov": 117,
+          "innov_pct": 34.41,
+          "n_prime_marg_chg": 4,
+          "prime_marg_pct": 1.18,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0041,
+          "local_ins_3aa": 6
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 363,
+          "n_innov": 128,
+          "innov_pct": 35.26,
+          "n_prime_marg_chg": 6,
+          "prime_marg_pct": 1.65,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0054,
+          "local_ins_3aa": 6
+        },
+        "unmodeled_disordered": {
+          "n": 8,
+          "n_innov": 3,
+          "innov_pct": 37.5,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.3011,
+          "local_ins_3aa": 14
+        },
+        "fisher_or_contact_vs_scaffold": 1.634,
+        "fisher_p_contact_vs_scaffold": 0.27684500012142604
+      },
+      "functional_loop_audit": {
+        "loop_cols": 29,
+        "loop_innov": 13,
+        "loop_innov_pct": 44.83,
+        "loop_mean_gap": 0.0,
+        "other_cols": 382,
+        "other_innov": 125,
+        "other_innov_pct": 32.72,
+        "fisher_or": 1.671,
+        "fisher_p": 0.13068058552089604
+      }
+    },
+    {
+      "gene": "APOBEC3H",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 69,
+      "admitted_taxa": 69,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 200,
+      "msa_codons": 368,
+      "non_human_inserted_cols": 136,
+      "branch_indel_events": 212,
+      "mean_gap_pct": 45.42,
+      "mean_column_posterior": 0.7049,
+      "wheatstone_bridges": 18,
+      "spr_routed_bridges": 1,
+      "coupled_spr_moves": 1,
+      "gc3_heterogeneous": false,
+      "gc3_cp3_p": 1.0,
+      "directional_drift_active": false,
+      "busted_e_lrt": 185.24579257444174,
+      "busted_e_p": 3.1475356537129977e-41,
+      "busted_e_sig": true,
+      "innov_sites": 59,
+      "innov_site_pct": 16.03,
+      "meme_q10_sites": 13,
+      "toggle_conv_sites": 9,
+      "poa_artifacts_eliminated": 11,
+      "coev_pairs_q10": 7,
+      "lof_flagged_branches": [
+        {
+          "branch": "Elephantulus_edwardii",
+          "lof_bf": 5006.888549766296,
+          "lof_p": 3.6655781224676164e-05,
+          "relax_k": 1.0
+        },
+        {
+          "branch": "Tupaia_belangeri",
+          "lof_bf": 717.4191473059769,
+          "lof_p": 0.0002873166859903464,
+          "relax_k": 1.0
+        },
+        {
+          "branch": "Mus_musculus",
+          "lof_bf": 1935.2080453894673,
+          "lof_p": 0.00010004052721584521,
+          "relax_k": 0.5586036705842146
+        },
+        {
+          "branch": "Pteropus_vampyrus",
+          "lof_bf": 10627.367001962164,
+          "lof_p": 1.6107468975757995e-05,
+          "relax_k": 0.11757094756209556
+        },
+        {
+          "branch": "Equus_quagga",
+          "lof_bf": 40.24711355718315,
+          "lof_p": 0.0002164553387961512,
+          "relax_k": 7.6763825027454
+        }
+      ],
+      "prime_strict_changing_sites": 1,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 1
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 33,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 5,
+        "BetaSheet_Propensity_ChouFasman": 2,
+        "Hydrophobicity_KyteDoolittle": 3,
+        "Isoelectric_Point_pI": 17,
+        "Volume_Angstrom3": 8
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 4,
+        "BetaSheet_Propensity_ChouFasman": 3,
+        "Hydrophobicity_KyteDoolittle": 3,
+        "Isoelectric_Point_pI": 5,
+        "Volume_Angstrom3": 5
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "8FVI"
+        ],
+        "contact_4p5A": {
+          "n": 13,
+          "n_innov": 7,
+          "innov_pct": 53.85,
+          "n_prime_marg_chg": 7,
+          "prime_marg_pct": 53.85,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.01,
+          "local_ins_3aa": 0
+        },
+        "proximal_4p5_8p0A": {
+          "n": 22,
+          "n_innov": 7,
+          "innov_pct": 31.82,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 9.09,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0086,
+          "local_ins_3aa": 0
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 144,
+          "n_innov": 32,
+          "innov_pct": 22.22,
+          "n_prime_marg_chg": 15,
+          "prime_marg_pct": 10.42,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.05,
+          "local_ins_3aa": 100
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 166,
+          "n_innov": 39,
+          "innov_pct": 23.49,
+          "n_prime_marg_chg": 17,
+          "prime_marg_pct": 10.24,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0445,
+          "local_ins_3aa": 100
+        },
+        "unmodeled_disordered": {
+          "n": 21,
+          "n_innov": 1,
+          "innov_pct": 4.76,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 9.52,
+          "n_prime_strict_chg": 1,
+          "prime_strict_pct": 4.76,
+          "mean_gap_frac": 0.6963,
+          "local_ins_3aa": 125
+        },
+        "fisher_or_contact_vs_scaffold": 4.083,
+        "fisher_p_contact_vs_scaffold": 0.018638347413580204
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "ISG15",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 165,
+      "msa_codons": 241,
+      "non_human_inserted_cols": 74,
+      "branch_indel_events": 189,
+      "mean_gap_pct": 30.49,
+      "mean_column_posterior": 0.8094,
+      "wheatstone_bridges": 17,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 4,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 1.1282279591232134e-26,
+      "directional_drift_active": true,
+      "busted_e_lrt": 8.37561776083669,
+      "busted_e_p": 0.00949119564556053,
+      "busted_e_sig": true,
+      "innov_sites": 51,
+      "innov_site_pct": 21.16,
+      "meme_q10_sites": 0,
+      "toggle_conv_sites": 39,
+      "poa_artifacts_eliminated": 12,
+      "coev_pairs_q10": 2,
+      "lof_flagged_branches": [],
+      "prime_strict_changing_sites": 8,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 1,
+        "Isoelectric_Point_pI": 6,
+        "Volume_Angstrom3": 1
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 3,
+        "Isoelectric_Point_pI": 1,
+        "Volume_Angstrom3": 4
+      },
+      "prime_marginal_changing_sites": 24,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 3,
+        "BetaSheet_Propensity_ChouFasman": 7,
+        "Hydrophobicity_KyteDoolittle": 2,
+        "Isoelectric_Point_pI": 11,
+        "Volume_Angstrom3": 4
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 4,
+        "BetaSheet_Propensity_ChouFasman": 3,
+        "Hydrophobicity_KyteDoolittle": 7,
+        "Isoelectric_Point_pI": 8,
+        "Volume_Angstrom3": 10
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "3SDL",
+          "5TL6"
+        ],
+        "contact_4p5A": {
+          "n": 42,
+          "n_innov": 11,
+          "innov_pct": 26.19,
+          "n_prime_marg_chg": 4,
+          "prime_marg_pct": 9.52,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0347,
+          "local_ins_3aa": 3
+        },
+        "proximal_4p5_8p0A": {
+          "n": 43,
+          "n_innov": 13,
+          "innov_pct": 30.23,
+          "n_prime_marg_chg": 5,
+          "prime_marg_pct": 11.63,
+          "n_prime_strict_chg": 3,
+          "prime_strict_pct": 6.98,
+          "mean_gap_frac": 0.0084,
+          "local_ins_3aa": 3
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 68,
+          "n_innov": 23,
+          "innov_pct": 33.82,
+          "n_prime_marg_chg": 10,
+          "prime_marg_pct": 14.71,
+          "n_prime_strict_chg": 5,
+          "prime_strict_pct": 7.35,
+          "mean_gap_frac": 0.0053,
+          "local_ins_3aa": 20
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 111,
+          "n_innov": 36,
+          "innov_pct": 32.43,
+          "n_prime_marg_chg": 15,
+          "prime_marg_pct": 13.51,
+          "n_prime_strict_chg": 8,
+          "prime_strict_pct": 7.21,
+          "mean_gap_frac": 0.0065,
+          "local_ins_3aa": 22
+        },
+        "unmodeled_disordered": {
+          "n": 12,
+          "n_innov": 2,
+          "innov_pct": 16.67,
+          "n_prime_marg_chg": 1,
+          "prime_marg_pct": 8.33,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.2963,
+          "local_ins_3aa": 71
+        },
+        "fisher_or_contact_vs_scaffold": 0.694,
+        "fisher_p_contact_vs_scaffold": 0.8542270246440509
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "SAMHD1",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 626,
+      "msa_codons": 731,
+      "non_human_inserted_cols": 93,
+      "branch_indel_events": 252,
+      "mean_gap_pct": 15.0,
+      "mean_column_posterior": 0.9842,
+      "wheatstone_bridges": 17,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 1.340532694505885e-44,
+      "directional_drift_active": true,
+      "busted_e_lrt": 74.93899046003389,
+      "busted_e_p": 2.910676859378819e-17,
+      "busted_e_sig": true,
+      "innov_sites": 173,
+      "innov_site_pct": 23.67,
+      "meme_q10_sites": 9,
+      "toggle_conv_sites": 105,
+      "poa_artifacts_eliminated": 4,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Tenrec_ecaudatus",
+          "lof_bf": 11125.669319099361,
+          "lof_p": 1.583690738928239e-05,
+          "relax_k": 0.42265917990711865
+        },
+        {
+          "branch": "Rhinolophus_hipposideros",
+          "lof_bf": 674193.9305044806,
+          "lof_p": 2.2072402857719227e-07,
+          "relax_k": 0.40182185795455333
+        },
+        {
+          "branch": "Artibeus_jamaicensis",
+          "lof_bf": 18121.19861619502,
+          "lof_p": 9.498695785396615e-06,
+          "relax_k": 0.4416176010634049
+        },
+        {
+          "branch": "Suncus_etruscus",
+          "lof_bf": 4891.897302800355,
+          "lof_p": 3.75639338262194e-05,
+          "relax_k": 1.6
+        },
+        {
+          "branch": "Macrotis_lagotis",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 5.676325137817706e-11,
+          "relax_k": 1.2989078476203386
+        },
+        {
+          "branch": "Node47",
+          "lof_bf": 13222.894078435247,
+          "lof_p": 4.48434856321475e-06,
+          "relax_k": 5.0
+        }
+      ],
+      "prime_strict_changing_sites": 3,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 1,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 1,
+        "Isoelectric_Point_pI": 1,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 1,
+        "Isoelectric_Point_pI": 1,
+        "Volume_Angstrom3": 1
+      },
+      "prime_marginal_changing_sites": 50,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 11,
+        "BetaSheet_Propensity_ChouFasman": 14,
+        "Hydrophobicity_KyteDoolittle": 4,
+        "Isoelectric_Point_pI": 20,
+        "Volume_Angstrom3": 5
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 4,
+        "BetaSheet_Propensity_ChouFasman": 4,
+        "Hydrophobicity_KyteDoolittle": 8,
+        "Isoelectric_Point_pI": 12,
+        "Volume_Angstrom3": 10
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "4CC9"
+        ],
+        "contact_4p5A": {
+          "n": 13,
+          "n_innov": 6,
+          "innov_pct": 46.15,
+          "n_prime_marg_chg": 1,
+          "prime_marg_pct": 7.69,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0812,
+          "local_ins_3aa": 6
+        },
+        "proximal_4p5_8p0A": {
+          "n": 6,
+          "n_innov": 5,
+          "innov_pct": 83.33,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 33.33,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0648,
+          "local_ins_3aa": 3
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 0,
+          "n_innov": 0,
+          "innov_pct": null,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": null,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": null,
+          "mean_gap_frac": null,
+          "local_ins_3aa": 0
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 6,
+          "n_innov": 5,
+          "innov_pct": 83.33,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 33.33,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0648,
+          "local_ins_3aa": 3
+        },
+        "unmodeled_disordered": {
+          "n": 607,
+          "n_innov": 150,
+          "innov_pct": 24.71,
+          "n_prime_marg_chg": 47,
+          "prime_marg_pct": 7.74,
+          "n_prime_strict_chg": 3,
+          "prime_strict_pct": 0.49,
+          "mean_gap_frac": 0.021,
+          "local_ins_3aa": 91
+        },
+        "fisher_or_contact_vs_scaffold": 0.171,
+        "fisher_p_contact_vs_scaffold": 0.9829721362229102
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "STAT2",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 851,
+      "msa_codons": 1187,
+      "non_human_inserted_cols": 229,
+      "branch_indel_events": 713,
+      "mean_gap_pct": 28.13,
+      "mean_column_posterior": 0.9062,
+      "wheatstone_bridges": 14,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 5.1219822929056295e-25,
+      "directional_drift_active": true,
+      "busted_e_lrt": 4.616492970858417,
+      "busted_e_p": 0.06555068935371637,
+      "busted_e_sig": true,
+      "innov_sites": 262,
+      "innov_site_pct": 22.07,
+      "meme_q10_sites": 2,
+      "toggle_conv_sites": 186,
+      "poa_artifacts_eliminated": 24,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Phocoena_phocoena",
+          "lof_bf": 175.054627839057,
+          "lof_p": 0.0003326490677460599,
+          "relax_k": 0.34539014151380565
+        },
+        {
+          "branch": "Tupaia_tana",
+          "lof_bf": 1063.2190563507568,
+          "lof_p": 5.278159833233946e-05,
+          "relax_k": 0.65
+        },
+        {
+          "branch": "Node49",
+          "lof_bf": 562752.8177852025,
+          "lof_p": 2.661165672734831e-07,
+          "relax_k": 0.4802521188258594
+        },
+        {
+          "branch": "Node59",
+          "lof_bf": 5241452.578741511,
+          "lof_p": 2.655519694192646e-08,
+          "relax_k": 0.4882112662944256
+        },
+        {
+          "branch": "Macrotis_lagotis",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 4.164705369167207e-11,
+          "relax_k": 0.6254424554473469
+        },
+        {
+          "branch": "Node60",
+          "lof_bf": 851.107329656243,
+          "lof_p": 0.00023944529389505938,
+          "relax_k": 0.5379493541734529
+        },
+        {
+          "branch": "Talpa_occidentalis",
+          "lof_bf": 779.754090199057,
+          "lof_p": 0.0002628764110033786,
+          "relax_k": 0.85
+        }
+      ],
+      "prime_strict_changing_sites": 1,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 1,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 50,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 10,
+        "BetaSheet_Propensity_ChouFasman": 13,
+        "Hydrophobicity_KyteDoolittle": 8,
+        "Isoelectric_Point_pI": 13,
+        "Volume_Angstrom3": 8
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 3,
+        "BetaSheet_Propensity_ChouFasman": 7,
+        "Hydrophobicity_KyteDoolittle": 8,
+        "Isoelectric_Point_pI": 19,
+        "Volume_Angstrom3": 13
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "8T12"
+        ],
+        "contact_4p5A": {
+          "n": 36,
+          "n_innov": 15,
+          "innov_pct": 41.67,
+          "n_prime_marg_chg": 3,
+          "prime_marg_pct": 8.33,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0363,
+          "local_ins_3aa": 23
+        },
+        "proximal_4p5_8p0A": {
+          "n": 41,
+          "n_innov": 14,
+          "innov_pct": 34.15,
+          "n_prime_marg_chg": 1,
+          "prime_marg_pct": 2.44,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0423,
+          "local_ins_3aa": 23
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 390,
+          "n_innov": 99,
+          "innov_pct": 25.38,
+          "n_prime_marg_chg": 17,
+          "prime_marg_pct": 4.36,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0173,
+          "local_ins_3aa": 33
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 431,
+          "n_innov": 113,
+          "innov_pct": 26.22,
+          "n_prime_marg_chg": 18,
+          "prime_marg_pct": 4.18,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0197,
+          "local_ins_3aa": 33
+        },
+        "unmodeled_disordered": {
+          "n": 384,
+          "n_innov": 111,
+          "innov_pct": 28.91,
+          "n_prime_marg_chg": 21,
+          "prime_marg_pct": 5.47,
+          "n_prime_strict_chg": 1,
+          "prime_strict_pct": 0.26,
+          "mean_gap_frac": 0.0662,
+          "local_ins_3aa": 201
+        },
+        "fisher_or_contact_vs_scaffold": 2.1,
+        "fisher_p_contact_vs_scaffold": 0.031167945869433524
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "IRF3",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 427,
+      "msa_codons": 604,
+      "non_human_inserted_cols": 107,
+      "branch_indel_events": 205,
+      "mean_gap_pct": 29.5,
+      "mean_column_posterior": 0.8035,
+      "wheatstone_bridges": 16,
+      "spr_routed_bridges": 1,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 5.189198879121098e-12,
+      "directional_drift_active": true,
+      "busted_e_lrt": 17.33762740105027,
+      "busted_e_p": 0.00010157787882681352,
+      "busted_e_sig": true,
+      "innov_sites": 110,
+      "innov_site_pct": 18.21,
+      "meme_q10_sites": 2,
+      "toggle_conv_sites": 80,
+      "poa_artifacts_eliminated": 21,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Tupaia_belangeri",
+          "lof_bf": 809721.7029306933,
+          "lof_p": 2.8984073736525905e-18,
+          "relax_k": 5.0
+        },
+        {
+          "branch": "Manis_javanica",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 2.9912856595387177e-27,
+          "relax_k": 5.0
+        },
+        {
+          "branch": "Myotis_lucifugus",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 1.6582102091068996e-92,
+          "relax_k": 0.65
+        }
+      ],
+      "prime_strict_changing_sites": 3,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 1,
+        "Isoelectric_Point_pI": 2,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 1,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 2,
+        "Isoelectric_Point_pI": 3,
+        "Volume_Angstrom3": 3
+      },
+      "prime_marginal_changing_sites": 34,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 4,
+        "BetaSheet_Propensity_ChouFasman": 4,
+        "Hydrophobicity_KyteDoolittle": 6,
+        "Isoelectric_Point_pI": 14,
+        "Volume_Angstrom3": 10
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 2,
+        "BetaSheet_Propensity_ChouFasman": 13,
+        "Hydrophobicity_KyteDoolittle": 20,
+        "Isoelectric_Point_pI": 10,
+        "Volume_Angstrom3": 12
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "5JER"
+        ],
+        "contact_4p5A": {
+          "n": 18,
+          "n_innov": 9,
+          "innov_pct": 50.0,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 11.11,
+          "n_prime_strict_chg": 1,
+          "prime_strict_pct": 5.56,
+          "mean_gap_frac": 0.0085,
+          "local_ins_3aa": 1
+        },
+        "proximal_4p5_8p0A": {
+          "n": 24,
+          "n_innov": 5,
+          "innov_pct": 20.83,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 8.33,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0168,
+          "local_ins_3aa": 2
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 192,
+          "n_innov": 42,
+          "innov_pct": 21.88,
+          "n_prime_marg_chg": 12,
+          "prime_marg_pct": 6.25,
+          "n_prime_strict_chg": 2,
+          "prime_strict_pct": 1.04,
+          "mean_gap_frac": 0.014,
+          "local_ins_3aa": 9
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 216,
+          "n_innov": 47,
+          "innov_pct": 21.76,
+          "n_prime_marg_chg": 14,
+          "prime_marg_pct": 6.48,
+          "n_prime_strict_chg": 2,
+          "prime_strict_pct": 0.93,
+          "mean_gap_frac": 0.0143,
+          "local_ins_3aa": 9
+        },
+        "unmodeled_disordered": {
+          "n": 193,
+          "n_innov": 51,
+          "innov_pct": 26.42,
+          "n_prime_marg_chg": 17,
+          "prime_marg_pct": 8.81,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0258,
+          "local_ins_3aa": 98
+        },
+        "fisher_or_contact_vs_scaffold": 3.571,
+        "fisher_p_contact_vs_scaffold": 0.012146080664285576
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "TRIM25",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 630,
+      "msa_codons": 720,
+      "non_human_inserted_cols": 61,
+      "branch_indel_events": 340,
+      "mean_gap_pct": 12.45,
+      "mean_column_posterior": 0.9764,
+      "wheatstone_bridges": 18,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 1.426302720518288e-33,
+      "directional_drift_active": true,
+      "busted_e_lrt": 29.702232323842395,
+      "busted_e_p": 2.0269404765197445e-07,
+      "busted_e_sig": true,
+      "innov_sites": 246,
+      "innov_site_pct": 34.17,
+      "meme_q10_sites": 0,
+      "toggle_conv_sites": 185,
+      "poa_artifacts_eliminated": 8,
+      "coev_pairs_q10": 24,
+      "lof_flagged_branches": [
+        {
+          "branch": "Node15",
+          "lof_bf": 2011.918664747229,
+          "lof_p": 9.600500503211027e-05,
+          "relax_k": 0.5856405274413372
+        },
+        {
+          "branch": "Node42",
+          "lof_bf": 19185.83675932648,
+          "lof_p": 7.883571136707749e-06,
+          "relax_k": 0.6691890015524459
+        },
+        {
+          "branch": "Ochotona_princeps",
+          "lof_bf": 1442.1717059869504,
+          "lof_p": 5.9014744052789326e-05,
+          "relax_k": 1.2950822998279101
+        },
+        {
+          "branch": "Dipodomys_spectabilis",
+          "lof_bf": 11059.391360919115,
+          "lof_p": 1.434134234676525e-05,
+          "relax_k": 0.656423931083698
+        },
+        {
+          "branch": "Node56",
+          "lof_bf": 75152.93403203525,
+          "lof_p": 1.7660650908483938e-06,
+          "relax_k": 0.6962258579892193
+        }
+      ],
+      "prime_strict_changing_sites": 12,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 7,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 1,
+        "Isoelectric_Point_pI": 2,
+        "Volume_Angstrom3": 1
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 4,
+        "Hydrophobicity_KyteDoolittle": 4,
+        "Isoelectric_Point_pI": 6,
+        "Volume_Angstrom3": 3
+      },
+      "prime_marginal_changing_sites": 43,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 20,
+        "BetaSheet_Propensity_ChouFasman": 7,
+        "Hydrophobicity_KyteDoolittle": 8,
+        "Isoelectric_Point_pI": 4,
+        "Volume_Angstrom3": 8
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 3,
+        "BetaSheet_Propensity_ChouFasman": 16,
+        "Hydrophobicity_KyteDoolittle": 18,
+        "Isoelectric_Point_pI": 31,
+        "Volume_Angstrom3": 11
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "5NT1"
+        ],
+        "contact_4p5A": {
+          "n": 20,
+          "n_innov": 11,
+          "innov_pct": 55.0,
+          "n_prime_marg_chg": 1,
+          "prime_marg_pct": 5.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0,
+          "local_ins_3aa": 0
+        },
+        "proximal_4p5_8p0A": {
+          "n": 28,
+          "n_innov": 15,
+          "innov_pct": 53.57,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 7.14,
+          "n_prime_strict_chg": 2,
+          "prime_strict_pct": 7.14,
+          "mean_gap_frac": 0.0005,
+          "local_ins_3aa": 0
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 125,
+          "n_innov": 56,
+          "innov_pct": 44.8,
+          "n_prime_marg_chg": 9,
+          "prime_marg_pct": 7.2,
+          "n_prime_strict_chg": 1,
+          "prime_strict_pct": 0.8,
+          "mean_gap_frac": 0.0069,
+          "local_ins_3aa": 4
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 153,
+          "n_innov": 71,
+          "innov_pct": 46.41,
+          "n_prime_marg_chg": 11,
+          "prime_marg_pct": 7.19,
+          "n_prime_strict_chg": 3,
+          "prime_strict_pct": 1.96,
+          "mean_gap_frac": 0.0057,
+          "local_ins_3aa": 4
+        },
+        "unmodeled_disordered": {
+          "n": 457,
+          "n_innov": 149,
+          "innov_pct": 32.6,
+          "n_prime_marg_chg": 27,
+          "prime_marg_pct": 5.91,
+          "n_prime_strict_chg": 9,
+          "prime_strict_pct": 1.97,
+          "mean_gap_frac": 0.0317,
+          "local_ins_3aa": 57
+        },
+        "fisher_or_contact_vs_scaffold": 1.506,
+        "fisher_p_contact_vs_scaffold": 0.2710885056355007
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "BST2",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 180,
+      "msa_codons": 289,
+      "non_human_inserted_cols": 89,
+      "branch_indel_events": 464,
+      "mean_gap_pct": 37.86,
+      "mean_column_posterior": 0.9018,
+      "wheatstone_bridges": 21,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 0.0048036810683460725,
+      "directional_drift_active": true,
+      "busted_e_lrt": 82.95265244400446,
+      "busted_e_p": 5.2734372007915885e-19,
+      "busted_e_sig": true,
+      "innov_sites": 52,
+      "innov_site_pct": 17.99,
+      "meme_q10_sites": 1,
+      "toggle_conv_sites": 12,
+      "poa_artifacts_eliminated": 11,
+      "coev_pairs_q10": 0,
+      "lof_flagged_branches": [
+        {
+          "branch": "Macrotis_lagotis",
+          "lof_bf": 773.2117611089739,
+          "lof_p": 0.00026524961550964825,
+          "relax_k": 0.3552281903028347
+        },
+        {
+          "branch": "Arvicanthis_niloticus",
+          "lof_bf": 265.16263331976506,
+          "lof_p": 0.0003094881966447236,
+          "relax_k": 5.0
+        }
+      ],
+      "prime_strict_changing_sites": 3,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 1,
+        "Volume_Angstrom3": 1
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 1,
+        "BetaSheet_Propensity_ChouFasman": 2,
+        "Hydrophobicity_KyteDoolittle": 5,
+        "Isoelectric_Point_pI": 4,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 30,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 5,
+        "BetaSheet_Propensity_ChouFasman": 5,
+        "Hydrophobicity_KyteDoolittle": 4,
+        "Isoelectric_Point_pI": 11,
+        "Volume_Angstrom3": 9
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 4,
+        "BetaSheet_Propensity_ChouFasman": 6,
+        "Hydrophobicity_KyteDoolittle": 23,
+        "Isoelectric_Point_pI": 5,
+        "Volume_Angstrom3": 2
+      },
+      "pdb_atomic_audit": null,
+      "functional_loop_audit": {
+        "loop_cols": 76,
+        "loop_innov": 21,
+        "loop_innov_pct": 27.63,
+        "loop_mean_gap": 0.3904,
+        "other_cols": 213,
+        "other_innov": 31,
+        "other_innov_pct": 14.55,
+        "fisher_or": 2.242,
+        "fisher_p": 0.010367854356139619
+      }
+    },
+    {
+      "gene": "EIF2AK2",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 551,
+      "msa_codons": 765,
+      "non_human_inserted_cols": 171,
+      "branch_indel_events": 349,
+      "mean_gap_pct": 28.51,
+      "mean_column_posterior": 0.9178,
+      "wheatstone_bridges": 18,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 2.7695179125972144e-81,
+      "directional_drift_active": true,
+      "busted_e_lrt": 264.54973792400557,
+      "busted_e_p": 1.8769245109739303e-58,
+      "busted_e_sig": true,
+      "innov_sites": 204,
+      "innov_site_pct": 26.67,
+      "meme_q10_sites": 8,
+      "toggle_conv_sites": 101,
+      "poa_artifacts_eliminated": 7,
+      "coev_pairs_q10": 9,
+      "lof_flagged_branches": [
+        {
+          "branch": "Saccopteryx_leptura",
+          "lof_bf": 11876217.239321107,
+          "lof_p": 3.4161723516285285e-09,
+          "relax_k": 1.2776511123674925
+        },
+        {
+          "branch": "Phyllostomus_discolor",
+          "lof_bf": 711.7974397347227,
+          "lof_p": 0.0002505102086296988,
+          "relax_k": 1.0
+        },
+        {
+          "branch": "Spermophilus_citellus",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 2.303935432708135e-15,
+          "relax_k": 6.2521306216727535
+        }
+      ],
+      "prime_strict_changing_sites": 16,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 6,
+        "BetaSheet_Propensity_ChouFasman": 3,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 6,
+        "Volume_Angstrom3": 1
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 4,
+        "BetaSheet_Propensity_ChouFasman": 2,
+        "Hydrophobicity_KyteDoolittle": 2,
+        "Isoelectric_Point_pI": 5,
+        "Volume_Angstrom3": 3
+      },
+      "prime_marginal_changing_sites": 69,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 16,
+        "BetaSheet_Propensity_ChouFasman": 13,
+        "Hydrophobicity_KyteDoolittle": 9,
+        "Isoelectric_Point_pI": 22,
+        "Volume_Angstrom3": 12
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 14,
+        "BetaSheet_Propensity_ChouFasman": 15,
+        "Hydrophobicity_KyteDoolittle": 20,
+        "Isoelectric_Point_pI": 23,
+        "Volume_Angstrom3": 21
+      },
+      "pdb_atomic_audit": null,
+      "functional_loop_audit": {
+        "loop_cols": 90,
+        "loop_innov": 34,
+        "loop_innov_pct": 37.78,
+        "loop_mean_gap": 0.2573,
+        "other_cols": 675,
+        "other_innov": 170,
+        "other_innov_pct": 25.19,
+        "fisher_or": 1.804,
+        "fisher_p": 0.00932503754312384
+      }
+    },
+    {
+      "gene": "OAS1",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 400,
+      "msa_codons": 613,
+      "non_human_inserted_cols": 179,
+      "branch_indel_events": 658,
+      "mean_gap_pct": 38.56,
+      "mean_column_posterior": 0.8118,
+      "wheatstone_bridges": 18,
+      "spr_routed_bridges": 1,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 2.384107753779466e-14,
+      "directional_drift_active": true,
+      "busted_e_lrt": 191.67376546340574,
+      "busted_e_p": 1.2640183656336104e-42,
+      "busted_e_sig": true,
+      "innov_sites": 145,
+      "innov_site_pct": 23.65,
+      "meme_q10_sites": 5,
+      "toggle_conv_sites": 71,
+      "poa_artifacts_eliminated": 20,
+      "coev_pairs_q10": 12,
+      "lof_flagged_branches": [
+        {
+          "branch": "Dromiciops_gliroides",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 1.2298166221846808e-11,
+          "relax_k": 0.7129355545202642
+        },
+        {
+          "branch": "Leucopleurus_acutus",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 4.321541925229984e-15,
+          "relax_k": 0.602350223552033
+        },
+        {
+          "branch": "Aethalodelphis_obliquidens",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 1.3869723148027625e-17,
+          "relax_k": 1.5566080539467682
+        }
+      ],
+      "prime_strict_changing_sites": 20,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 3,
+        "BetaSheet_Propensity_ChouFasman": 2,
+        "Hydrophobicity_KyteDoolittle": 1,
+        "Isoelectric_Point_pI": 12,
+        "Volume_Angstrom3": 3
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 1,
+        "BetaSheet_Propensity_ChouFasman": 2,
+        "Hydrophobicity_KyteDoolittle": 5,
+        "Isoelectric_Point_pI": 2,
+        "Volume_Angstrom3": 4
+      },
+      "prime_marginal_changing_sites": 68,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 13,
+        "BetaSheet_Propensity_ChouFasman": 11,
+        "Hydrophobicity_KyteDoolittle": 8,
+        "Isoelectric_Point_pI": 34,
+        "Volume_Angstrom3": 19
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 6,
+        "BetaSheet_Propensity_ChouFasman": 6,
+        "Hydrophobicity_KyteDoolittle": 15,
+        "Isoelectric_Point_pI": 13,
+        "Volume_Angstrom3": 10
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "4IG8"
+        ],
+        "contact_4p5A": {
+          "n": 37,
+          "n_innov": 14,
+          "innov_pct": 37.84,
+          "n_prime_marg_chg": 9,
+          "prime_marg_pct": 24.32,
+          "n_prime_strict_chg": 5,
+          "prime_strict_pct": 13.51,
+          "mean_gap_frac": 0.0379,
+          "local_ins_3aa": 14
+        },
+        "proximal_4p5_8p0A": {
+          "n": 48,
+          "n_innov": 17,
+          "innov_pct": 35.42,
+          "n_prime_marg_chg": 6,
+          "prime_marg_pct": 12.5,
+          "n_prime_strict_chg": 3,
+          "prime_strict_pct": 6.25,
+          "mean_gap_frac": 0.0388,
+          "local_ins_3aa": 15
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 253,
+          "n_innov": 89,
+          "innov_pct": 35.18,
+          "n_prime_marg_chg": 41,
+          "prime_marg_pct": 16.21,
+          "n_prime_strict_chg": 10,
+          "prime_strict_pct": 3.95,
+          "mean_gap_frac": 0.0361,
+          "local_ins_3aa": 169
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 301,
+          "n_innov": 106,
+          "innov_pct": 35.22,
+          "n_prime_marg_chg": 47,
+          "prime_marg_pct": 15.61,
+          "n_prime_strict_chg": 13,
+          "prime_strict_pct": 4.32,
+          "mean_gap_frac": 0.0365,
+          "local_ins_3aa": 169
+        },
+        "unmodeled_disordered": {
+          "n": 62,
+          "n_innov": 13,
+          "innov_pct": 20.97,
+          "n_prime_marg_chg": 6,
+          "prime_marg_pct": 9.68,
+          "n_prime_strict_chg": 1,
+          "prime_strict_pct": 1.61,
+          "mean_gap_frac": 0.6281,
+          "local_ins_3aa": 144
+        },
+        "fisher_or_contact_vs_scaffold": 1.122,
+        "fisher_p_contact_vs_scaffold": 0.4424304971765417
+      },
+      "functional_loop_audit": {
+        "loop_cols": 54,
+        "loop_innov": 7,
+        "loop_innov_pct": 12.96,
+        "loop_mean_gap": 0.6664,
+        "other_cols": 559,
+        "other_innov": 138,
+        "other_innov_pct": 24.69,
+        "fisher_or": 0.454,
+        "fisher_p": 0.9867488106673223
+      }
+    },
+    {
+      "gene": "MAVS",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 540,
+      "msa_codons": 893,
+      "non_human_inserted_cols": 235,
+      "branch_indel_events": 763,
+      "mean_gap_pct": 40.6,
+      "mean_column_posterior": 0.8977,
+      "wheatstone_bridges": 20,
+      "spr_routed_bridges": 1,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 3.0729899018320557e-16,
+      "directional_drift_active": true,
+      "busted_e_lrt": 104.85908620711427,
+      "busted_e_p": 9.149621192786189e-24,
+      "busted_e_sig": true,
+      "innov_sites": 150,
+      "innov_site_pct": 16.8,
+      "meme_q10_sites": 2,
+      "toggle_conv_sites": 73,
+      "poa_artifacts_eliminated": 16,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Orycteropus_afer",
+          "lof_bf": 508.278757972139,
+          "lof_p": 0.000321279336651069,
+          "relax_k": 0.85
+        },
+        {
+          "branch": "Loxodonta_africana",
+          "lof_bf": 6142.271278712769,
+          "lof_p": 6.350204756788795e-11,
+          "relax_k": 1.2989078476203386
+        },
+        {
+          "branch": "Dromiciops_gliroides",
+          "lof_bf": 18763656.74934696,
+          "lof_p": 4.417394437191889e-12,
+          "relax_k": 1.2989078476203386
+        },
+        {
+          "branch": "Macrotis_lagotis",
+          "lof_bf": 9499612.413408611,
+          "lof_p": 1.0291691435791549e-09,
+          "relax_k": 5.0
+        },
+        {
+          "branch": "Meles_meles",
+          "lof_bf": 224.97623557930172,
+          "lof_p": 7.685290464749098e-05,
+          "relax_k": 0.85
+        },
+        {
+          "branch": "Bos_indicus",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 1.7592324225854268e-16,
+          "relax_k": 7.376246544170826
+        }
+      ],
+      "prime_strict_changing_sites": 7,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 2,
+        "BetaSheet_Propensity_ChouFasman": 2,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 3
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 2,
+        "BetaSheet_Propensity_ChouFasman": 2,
+        "Hydrophobicity_KyteDoolittle": 6,
+        "Isoelectric_Point_pI": 2,
+        "Volume_Angstrom3": 1
+      },
+      "prime_marginal_changing_sites": 73,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 25,
+        "BetaSheet_Propensity_ChouFasman": 18,
+        "Hydrophobicity_KyteDoolittle": 6,
+        "Isoelectric_Point_pI": 19,
+        "Volume_Angstrom3": 13
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 8,
+        "BetaSheet_Propensity_ChouFasman": 9,
+        "Hydrophobicity_KyteDoolittle": 24,
+        "Isoelectric_Point_pI": 14,
+        "Volume_Angstrom3": 8
+      },
+      "pdb_atomic_audit": null,
+      "functional_loop_audit": {
+        "loop_cols": 48,
+        "loop_innov": 9,
+        "loop_innov_pct": 18.75,
+        "loop_mean_gap": 0.2931,
+        "other_cols": 845,
+        "other_innov": 141,
+        "other_innov_pct": 16.69,
+        "fisher_or": 1.152,
+        "fisher_p": 0.4161812191659956
+      }
+    },
+    {
+      "gene": "NLRP1",
+      "arm": "Antiviral_Effector_Sensor",
+      "input_taxa": 55,
+      "admitted_taxa": 55,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 1473,
+      "msa_codons": 2231,
+      "non_human_inserted_cols": 534,
+      "branch_indel_events": 1082,
+      "mean_gap_pct": 35.95,
+      "mean_column_posterior": 0.8537,
+      "wheatstone_bridges": 13,
+      "spr_routed_bridges": 2,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 1.9897555207835937e-161,
+      "directional_drift_active": true,
+      "busted_e_lrt": 153.16865277006718,
+      "busted_e_p": 2.922701255693392e-34,
+      "busted_e_sig": true,
+      "innov_sites": 382,
+      "innov_site_pct": 17.12,
+      "meme_q10_sites": 9,
+      "toggle_conv_sites": 184,
+      "poa_artifacts_eliminated": 51,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Echinops_telfairi",
+          "lof_bf": 496.712949053881,
+          "lof_p": 0.0004256654085968463,
+          "relax_k": 0.65
+        },
+        {
+          "branch": "Ursus_arctos",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 7.61755727550877e-23,
+          "relax_k": 1.4601207771544134
+        },
+        {
+          "branch": "Mustela_erminea",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 1.4162171494141496e-13,
+          "relax_k": 0.85
+        }
+      ],
+      "prime_strict_changing_sites": 0,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 1,
+        "Isoelectric_Point_pI": 1,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 140,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 29,
+        "BetaSheet_Propensity_ChouFasman": 18,
+        "Hydrophobicity_KyteDoolittle": 18,
+        "Isoelectric_Point_pI": 70,
+        "Volume_Angstrom3": 14
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 17,
+        "BetaSheet_Propensity_ChouFasman": 15,
+        "Hydrophobicity_KyteDoolittle": 44,
+        "Isoelectric_Point_pI": 20,
+        "Volume_Angstrom3": 29
+      },
+      "pdb_atomic_audit": null,
+      "functional_loop_audit": {
+        "loop_cols": 126,
+        "loop_innov": 27,
+        "loop_innov_pct": 21.43,
+        "loop_mean_gap": 0.286,
+        "other_cols": 2105,
+        "other_innov": 355,
+        "other_innov_pct": 16.86,
+        "fisher_or": 1.344,
+        "fisher_p": 0.11685681316011627
+      }
+    },
+    {
+      "gene": "ACE2",
+      "arm": "Viral_Entry_Receptor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 805,
+      "msa_codons": 843,
+      "non_human_inserted_cols": 35,
+      "branch_indel_events": 51,
+      "mean_gap_pct": 4.93,
+      "mean_column_posterior": 0.984,
+      "wheatstone_bridges": 15,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 1,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 1.88895440878004e-05,
+      "directional_drift_active": true,
+      "busted_e_lrt": 177.23405760201058,
+      "busted_e_p": 1.7307149178392697e-39,
+      "busted_e_sig": true,
+      "innov_sites": 266,
+      "innov_site_pct": 31.55,
+      "meme_q10_sites": 23,
+      "toggle_conv_sites": 179,
+      "poa_artifacts_eliminated": 3,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Rousettus_aegyptiacus",
+          "lof_bf": 193719.22174813726,
+          "lof_p": 3.6243889925614005e-07,
+          "relax_k": 1.3017404247634474
+        }
+      ],
+      "prime_strict_changing_sites": 19,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 7,
+        "BetaSheet_Propensity_ChouFasman": 4,
+        "Hydrophobicity_KyteDoolittle": 3,
+        "Isoelectric_Point_pI": 3,
+        "Volume_Angstrom3": 2
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 2,
+        "BetaSheet_Propensity_ChouFasman": 3,
+        "Hydrophobicity_KyteDoolittle": 8,
+        "Isoelectric_Point_pI": 4,
+        "Volume_Angstrom3": 7
+      },
+      "prime_marginal_changing_sites": 78,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 29,
+        "BetaSheet_Propensity_ChouFasman": 13,
+        "Hydrophobicity_KyteDoolittle": 8,
+        "Isoelectric_Point_pI": 18,
+        "Volume_Angstrom3": 16
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 7,
+        "BetaSheet_Propensity_ChouFasman": 12,
+        "Hydrophobicity_KyteDoolittle": 22,
+        "Isoelectric_Point_pI": 18,
+        "Volume_Angstrom3": 20
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "6M0J"
+        ],
+        "contact_4p5A": {
+          "n": 21,
+          "n_innov": 10,
+          "innov_pct": 47.62,
+          "n_prime_marg_chg": 7,
+          "prime_marg_pct": 33.33,
+          "n_prime_strict_chg": 4,
+          "prime_strict_pct": 19.05,
+          "mean_gap_frac": 0.0139,
+          "local_ins_3aa": 0
+        },
+        "proximal_4p5_8p0A": {
+          "n": 31,
+          "n_innov": 12,
+          "innov_pct": 38.71,
+          "n_prime_marg_chg": 5,
+          "prime_marg_pct": 16.13,
+          "n_prime_strict_chg": 1,
+          "prime_strict_pct": 3.23,
+          "mean_gap_frac": 0.0125,
+          "local_ins_3aa": 0
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 545,
+          "n_innov": 159,
+          "innov_pct": 29.17,
+          "n_prime_marg_chg": 41,
+          "prime_marg_pct": 7.52,
+          "n_prime_strict_chg": 9,
+          "prime_strict_pct": 1.65,
+          "mean_gap_frac": 0.007,
+          "local_ins_3aa": 5
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 576,
+          "n_innov": 171,
+          "innov_pct": 29.69,
+          "n_prime_marg_chg": 46,
+          "prime_marg_pct": 7.99,
+          "n_prime_strict_chg": 10,
+          "prime_strict_pct": 1.74,
+          "mean_gap_frac": 0.0073,
+          "local_ins_3aa": 5
+        },
+        "unmodeled_disordered": {
+          "n": 208,
+          "n_innov": 83,
+          "innov_pct": 39.9,
+          "n_prime_marg_chg": 25,
+          "prime_marg_pct": 12.02,
+          "n_prime_strict_chg": 5,
+          "prime_strict_pct": 2.4,
+          "mean_gap_frac": 0.0022,
+          "local_ins_3aa": 31
+        },
+        "fisher_or_contact_vs_scaffold": 2.207,
+        "fisher_p_contact_vs_scaffold": 0.06201811997628322
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "DPP4",
+      "arm": "Viral_Entry_Receptor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 766,
+      "msa_codons": 775,
+      "non_human_inserted_cols": 8,
+      "branch_indel_events": 58,
+      "mean_gap_pct": 1.25,
+      "mean_column_posterior": 0.9969,
+      "wheatstone_bridges": 15,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": false,
+      "gc3_cp3_p": 0.9996440090824142,
+      "directional_drift_active": false,
+      "busted_e_lrt": 66.61449227241474,
+      "busted_e_p": 1.878309433442687e-15,
+      "busted_e_sig": true,
+      "innov_sites": 229,
+      "innov_site_pct": 29.55,
+      "meme_q10_sites": 3,
+      "toggle_conv_sites": 175,
+      "poa_artifacts_eliminated": 0,
+      "coev_pairs_q10": 23,
+      "lof_flagged_branches": [
+        {
+          "branch": "Macrotis_lagotis",
+          "lof_bf": 896017.9757819539,
+          "lof_p": 1.6445620738046376e-07,
+          "relax_k": 0.608732758916302
+        }
+      ],
+      "prime_strict_changing_sites": 4,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 4,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 2,
+        "Hydrophobicity_KyteDoolittle": 2,
+        "Isoelectric_Point_pI": 2,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 43,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 21,
+        "BetaSheet_Propensity_ChouFasman": 4,
+        "Hydrophobicity_KyteDoolittle": 6,
+        "Isoelectric_Point_pI": 9,
+        "Volume_Angstrom3": 6
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 3,
+        "BetaSheet_Propensity_ChouFasman": 8,
+        "Hydrophobicity_KyteDoolittle": 16,
+        "Isoelectric_Point_pI": 19,
+        "Volume_Angstrom3": 7
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "4L72"
+        ],
+        "contact_4p5A": {
+          "n": 23,
+          "n_innov": 13,
+          "innov_pct": 56.52,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 8.7,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0048,
+          "local_ins_3aa": 5
+        },
+        "proximal_4p5_8p0A": {
+          "n": 31,
+          "n_innov": 11,
+          "innov_pct": 35.48,
+          "n_prime_marg_chg": 4,
+          "prime_marg_pct": 12.9,
+          "n_prime_strict_chg": 1,
+          "prime_strict_pct": 3.23,
+          "mean_gap_frac": 0.013,
+          "local_ins_3aa": 5
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 674,
+          "n_innov": 185,
+          "innov_pct": 27.45,
+          "n_prime_marg_chg": 37,
+          "prime_marg_pct": 5.49,
+          "n_prime_strict_chg": 3,
+          "prime_strict_pct": 0.45,
+          "mean_gap_frac": 0.0008,
+          "local_ins_3aa": 8
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 705,
+          "n_innov": 196,
+          "innov_pct": 27.8,
+          "n_prime_marg_chg": 41,
+          "prime_marg_pct": 5.82,
+          "n_prime_strict_chg": 4,
+          "prime_strict_pct": 0.57,
+          "mean_gap_frac": 0.0013,
+          "local_ins_3aa": 8
+        },
+        "unmodeled_disordered": {
+          "n": 38,
+          "n_innov": 18,
+          "innov_pct": 47.37,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0157,
+          "local_ins_3aa": 1
+        },
+        "fisher_or_contact_vs_scaffold": 3.436,
+        "fisher_p_contact_vs_scaffold": 0.003759643098853485
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "CD4",
+      "arm": "Viral_Entry_Receptor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 458,
+      "msa_codons": 608,
+      "non_human_inserted_cols": 106,
+      "branch_indel_events": 368,
+      "mean_gap_pct": 24.73,
+      "mean_column_posterior": 0.9036,
+      "wheatstone_bridges": 16,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 6.419047860469641e-14,
+      "directional_drift_active": true,
+      "busted_e_lrt": 152.66507954346002,
+      "busted_e_p": 3.7599017698479586e-34,
+      "busted_e_sig": true,
+      "innov_sites": 167,
+      "innov_site_pct": 27.47,
+      "meme_q10_sites": 6,
+      "toggle_conv_sites": 96,
+      "poa_artifacts_eliminated": 6,
+      "coev_pairs_q10": 0,
+      "lof_flagged_branches": [
+        {
+          "branch": "Dasypus_novemcinctus",
+          "lof_bf": 734.392451167699,
+          "lof_p": 0.00028023500232953055,
+          "relax_k": 1.2989078476203386
+        },
+        {
+          "branch": "Talpa_occidentalis",
+          "lof_bf": 523677.65153632936,
+          "lof_p": 1.8038279968338845e-07,
+          "relax_k": 0.27746884530588845
+        }
+      ],
+      "prime_strict_changing_sites": 8,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 4,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 1,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 2
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 6,
+        "Isoelectric_Point_pI": 7,
+        "Volume_Angstrom3": 1
+      },
+      "prime_marginal_changing_sites": 70,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 18,
+        "BetaSheet_Propensity_ChouFasman": 18,
+        "Hydrophobicity_KyteDoolittle": 5,
+        "Isoelectric_Point_pI": 24,
+        "Volume_Angstrom3": 16
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 8,
+        "BetaSheet_Propensity_ChouFasman": 9,
+        "Hydrophobicity_KyteDoolittle": 29,
+        "Isoelectric_Point_pI": 22,
+        "Volume_Angstrom3": 15
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "1GC1"
+        ],
+        "contact_4p5A": {
+          "n": 24,
+          "n_innov": 11,
+          "innov_pct": 45.83,
+          "n_prime_marg_chg": 5,
+          "prime_marg_pct": 20.83,
+          "n_prime_strict_chg": 3,
+          "prime_strict_pct": 12.5,
+          "mean_gap_frac": 0.0787,
+          "local_ins_3aa": 17
+        },
+        "proximal_4p5_8p0A": {
+          "n": 19,
+          "n_innov": 11,
+          "innov_pct": 57.89,
+          "n_prime_marg_chg": 3,
+          "prime_marg_pct": 15.79,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0168,
+          "local_ins_3aa": 18
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 138,
+          "n_innov": 54,
+          "innov_pct": 39.13,
+          "n_prime_marg_chg": 26,
+          "prime_marg_pct": 18.84,
+          "n_prime_strict_chg": 2,
+          "prime_strict_pct": 1.45,
+          "mean_gap_frac": 0.0237,
+          "local_ins_3aa": 29
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 157,
+          "n_innov": 65,
+          "innov_pct": 41.4,
+          "n_prime_marg_chg": 29,
+          "prime_marg_pct": 18.47,
+          "n_prime_strict_chg": 2,
+          "prime_strict_pct": 1.27,
+          "mean_gap_frac": 0.0228,
+          "local_ins_3aa": 36
+        },
+        "unmodeled_disordered": {
+          "n": 277,
+          "n_innov": 82,
+          "innov_pct": 29.6,
+          "n_prime_marg_chg": 31,
+          "prime_marg_pct": 11.19,
+          "n_prime_strict_chg": 3,
+          "prime_strict_pct": 1.08,
+          "mean_gap_frac": 0.0359,
+          "local_ins_3aa": 70
+        },
+        "fisher_or_contact_vs_scaffold": 1.316,
+        "fisher_p_contact_vs_scaffold": 0.34427437739571354
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "TFRC",
+      "arm": "Viral_Entry_Receptor",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 760,
+      "msa_codons": 803,
+      "non_human_inserted_cols": 25,
+      "branch_indel_events": 170,
+      "mean_gap_pct": 4.86,
+      "mean_column_posterior": 0.9835,
+      "wheatstone_bridges": 15,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 6.024683539163308e-32,
+      "directional_drift_active": true,
+      "busted_e_lrt": 25.138331332146663,
+      "busted_e_p": 2.0056121230653426e-06,
+      "busted_e_sig": true,
+      "innov_sites": 244,
+      "innov_site_pct": 30.39,
+      "meme_q10_sites": 0,
+      "toggle_conv_sites": 182,
+      "poa_artifacts_eliminated": 0,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Node26",
+          "lof_bf": 721.0833674242787,
+          "lof_p": 0.0001755835990377295,
+          "relax_k": 1.25
+        },
+        {
+          "branch": "Node37",
+          "lof_bf": 827.1049440387064,
+          "lof_p": 0.0002468593751040906,
+          "relax_k": 0.7168801772810964
+        },
+        {
+          "branch": "Node38",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 3.2676628866039007e-12,
+          "relax_k": 0.5379493510325474
+        },
+        {
+          "branch": "Dromiciops_gliroides",
+          "lof_bf": 41139758.61778184,
+          "lof_p": 2.878040516277577e-09,
+          "relax_k": 1.5432738367600491
+        },
+        {
+          "branch": "Macrotis_lagotis",
+          "lof_bf": 968.0445343086144,
+          "lof_p": 0.00020875899828438408,
+          "relax_k": 1.6480021255109079
+        }
+      ],
+      "prime_strict_changing_sites": 11,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 2,
+        "BetaSheet_Propensity_ChouFasman": 4,
+        "Hydrophobicity_KyteDoolittle": 3,
+        "Isoelectric_Point_pI": 2,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 3,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 5,
+        "Isoelectric_Point_pI": 8,
+        "Volume_Angstrom3": 2
+      },
+      "prime_marginal_changing_sites": 54,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 16,
+        "BetaSheet_Propensity_ChouFasman": 11,
+        "Hydrophobicity_KyteDoolittle": 11,
+        "Isoelectric_Point_pI": 14,
+        "Volume_Angstrom3": 9
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 4,
+        "BetaSheet_Propensity_ChouFasman": 19,
+        "Hydrophobicity_KyteDoolittle": 20,
+        "Isoelectric_Point_pI": 26,
+        "Volume_Angstrom3": 7
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "3KAS"
+        ],
+        "contact_4p5A": {
+          "n": 24,
+          "n_innov": 8,
+          "innov_pct": 33.33,
+          "n_prime_marg_chg": 1,
+          "prime_marg_pct": 4.17,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0168,
+          "local_ins_3aa": 8
+        },
+        "proximal_4p5_8p0A": {
+          "n": 26,
+          "n_innov": 8,
+          "innov_pct": 30.77,
+          "n_prime_marg_chg": 4,
+          "prime_marg_pct": 15.38,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0785,
+          "local_ins_3aa": 7
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 583,
+          "n_innov": 181,
+          "innov_pct": 31.05,
+          "n_prime_marg_chg": 35,
+          "prime_marg_pct": 6.0,
+          "n_prime_strict_chg": 10,
+          "prime_strict_pct": 1.72,
+          "mean_gap_frac": 0.0018,
+          "local_ins_3aa": 9
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 609,
+          "n_innov": 189,
+          "innov_pct": 31.03,
+          "n_prime_marg_chg": 39,
+          "prime_marg_pct": 6.4,
+          "n_prime_strict_chg": 10,
+          "prime_strict_pct": 1.64,
+          "mean_gap_frac": 0.0051,
+          "local_ins_3aa": 11
+        },
+        "unmodeled_disordered": {
+          "n": 127,
+          "n_innov": 36,
+          "innov_pct": 28.35,
+          "n_prime_marg_chg": 11,
+          "prime_marg_pct": 8.66,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0195,
+          "local_ins_3aa": 14
+        },
+        "fisher_or_contact_vs_scaffold": 1.11,
+        "fisher_p_contact_vs_scaffold": 0.4845303588916622
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "NPC1",
+      "arm": "Viral_Entry_Receptor",
+      "input_taxa": 55,
+      "admitted_taxa": 55,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 1278,
+      "msa_codons": 1474,
+      "non_human_inserted_cols": 35,
+      "branch_indel_events": 118,
+      "mean_gap_pct": 13.49,
+      "mean_column_posterior": 0.9938,
+      "wheatstone_bridges": 12,
+      "spr_routed_bridges": 1,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 2.865223128211927e-111,
+      "directional_drift_active": true,
+      "busted_e_lrt": 16.289198572257646,
+      "busted_e_p": 0.00017233598329405428,
+      "busted_e_sig": true,
+      "innov_sites": 266,
+      "innov_site_pct": 18.05,
+      "meme_q10_sites": 0,
+      "toggle_conv_sites": 208,
+      "poa_artifacts_eliminated": 2,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Loxodonta_africana",
+          "lof_bf": 1517.7876943395524,
+          "lof_p": 3.9309452404593536e-05,
+          "relax_k": 0.45
+        },
+        {
+          "branch": "Echinops_telfairi",
+          "lof_bf": 524.5816357466663,
+          "lof_p": 0.00040149946372057007,
+          "relax_k": 0.5418939748938679
+        },
+        {
+          "branch": "Tenrec_ecaudatus",
+          "lof_bf": 20744251.821993854,
+          "lof_p": 5.9044071179236094e-09,
+          "relax_k": 0.5792579919165093
+        },
+        {
+          "branch": "Sturnira_hondurensis",
+          "lof_bf": 3480.9407939684606,
+          "lof_p": 5.3776112558099277e-05,
+          "relax_k": 1.0
+        },
+        {
+          "branch": "Node38",
+          "lof_bf": 591503.5994016154,
+          "lof_p": 2.398454721151418e-07,
+          "relax_k": 2.124006664219718
+        },
+        {
+          "branch": "Saimiri_boliviensis",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 1.1303629578694535e-53,
+          "relax_k": 2.0489234271479306
+        }
+      ],
+      "prime_strict_changing_sites": 6,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 2,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 2,
+        "Volume_Angstrom3": 1
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 2,
+        "Hydrophobicity_KyteDoolittle": 2,
+        "Isoelectric_Point_pI": 2,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 35,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 8,
+        "BetaSheet_Propensity_ChouFasman": 4,
+        "Hydrophobicity_KyteDoolittle": 5,
+        "Isoelectric_Point_pI": 11,
+        "Volume_Angstrom3": 9
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 4,
+        "BetaSheet_Propensity_ChouFasman": 12,
+        "Hydrophobicity_KyteDoolittle": 13,
+        "Isoelectric_Point_pI": 15,
+        "Volume_Angstrom3": 8
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "5F1B"
+        ],
+        "contact_4p5A": {
+          "n": 15,
+          "n_innov": 6,
+          "innov_pct": 40.0,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 13.33,
+          "n_prime_strict_chg": 1,
+          "prime_strict_pct": 6.67,
+          "mean_gap_frac": 0.0,
+          "local_ins_3aa": 0
+        },
+        "proximal_4p5_8p0A": {
+          "n": 9,
+          "n_innov": 3,
+          "innov_pct": 33.33,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0,
+          "local_ins_3aa": 0
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 191,
+          "n_innov": 26,
+          "innov_pct": 13.61,
+          "n_prime_marg_chg": 5,
+          "prime_marg_pct": 2.62,
+          "n_prime_strict_chg": 1,
+          "prime_strict_pct": 0.52,
+          "mean_gap_frac": 0.0013,
+          "local_ins_3aa": 1
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 200,
+          "n_innov": 29,
+          "innov_pct": 14.5,
+          "n_prime_marg_chg": 5,
+          "prime_marg_pct": 2.5,
+          "n_prime_strict_chg": 1,
+          "prime_strict_pct": 0.5,
+          "mean_gap_frac": 0.0013,
+          "local_ins_3aa": 1
+        },
+        "unmodeled_disordered": {
+          "n": 1063,
+          "n_innov": 228,
+          "innov_pct": 21.45,
+          "n_prime_marg_chg": 27,
+          "prime_marg_pct": 2.54,
+          "n_prime_strict_chg": 4,
+          "prime_strict_pct": 0.38,
+          "mean_gap_frac": 0.0086,
+          "local_ins_3aa": 34
+        },
+        "fisher_or_contact_vs_scaffold": 4.231,
+        "fisher_p_contact_vs_scaffold": 0.015776487447417338
+      },
+      "functional_loop_audit": {
+        "loop_cols": 30,
+        "loop_innov": 5,
+        "loop_innov_pct": 16.67,
+        "loop_mean_gap": 0.3927,
+        "other_cols": 1444,
+        "other_innov": 261,
+        "other_innov_pct": 18.07,
+        "fisher_or": 0.907,
+        "fisher_p": 0.6537593582894952
+      }
+    },
+    {
+      "gene": "PRDM9",
+      "arm": "Tandem_Repeat_Control",
+      "input_taxa": 50,
+      "admitted_taxa": 50,
+      "rescued_frame_or_strand": 2,
+      "admitted_pseudogenes": [
+        {
+          "name": "Canis_aureus",
+          "status": "Rescued",
+          "reason": "Admitted pseudogene (fwd frame +2; repaired 12 frameshifts, masked 3 internal stops to NNN)",
+          "stops_f0": 17
+        },
+        {
+          "name": "Canis_lupus",
+          "status": "Rescued",
+          "reason": "Admitted pseudogene (fwd frame +2; repaired 8 frameshifts, masked 4 internal stops to NNN)",
+          "stops_f0": 7
+        }
+      ],
+      "human_aa": 894,
+      "msa_codons": 1334,
+      "non_human_inserted_cols": 319,
+      "branch_indel_events": 633,
+      "mean_gap_pct": 37.15,
+      "mean_column_posterior": 0.7536,
+      "wheatstone_bridges": 14,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 0,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 1.7833994230460453e-41,
+      "directional_drift_active": true,
+      "busted_e_lrt": 157.02986116834768,
+      "busted_e_p": 4.23656758550724e-35,
+      "busted_e_sig": true,
+      "innov_sites": 175,
+      "innov_site_pct": 13.12,
+      "meme_q10_sites": 35,
+      "toggle_conv_sites": 36,
+      "poa_artifacts_eliminated": 48,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Canis_aureus",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 8.66635238677665e-95,
+          "relax_k": 1.0
+        },
+        {
+          "branch": "Canis_lupus",
+          "lof_bf": 48018172.59673011,
+          "lof_p": 1.7484518277535317e-19,
+          "relax_k": 5.0
+        },
+        {
+          "branch": "Rousettus_aegyptiacus",
+          "lof_bf": 264903.63928053563,
+          "lof_p": 4.94254364456546e-07,
+          "relax_k": 0.7710419945575949
+        },
+        {
+          "branch": "Node26",
+          "lof_bf": 897.5219200391128,
+          "lof_p": 0.0001738141988975533,
+          "relax_k": 1.0
+        },
+        {
+          "branch": "Octodon_degus",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 1.142214165798955e-16,
+          "relax_k": 0.6047881368356088
+        },
+        {
+          "branch": "Resolved_100",
+          "lof_bf": 2029.3033071857503,
+          "lof_p": 1.936554885758482e-06,
+          "relax_k": 1.0
+        }
+      ],
+      "prime_strict_changing_sites": 3,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 3,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 2,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 1,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 70,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 14,
+        "BetaSheet_Propensity_ChouFasman": 9,
+        "Hydrophobicity_KyteDoolittle": 12,
+        "Isoelectric_Point_pI": 40,
+        "Volume_Angstrom3": 4
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 19,
+        "BetaSheet_Propensity_ChouFasman": 10,
+        "Hydrophobicity_KyteDoolittle": 9,
+        "Isoelectric_Point_pI": 15,
+        "Volume_Angstrom3": 13
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "5EGB"
+        ],
+        "contact_4p5A": {
+          "n": 50,
+          "n_innov": 20,
+          "innov_pct": 40.0,
+          "n_prime_marg_chg": 8,
+          "prime_marg_pct": 16.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.1708,
+          "local_ins_3aa": 0
+        },
+        "proximal_4p5_8p0A": {
+          "n": 37,
+          "n_innov": 4,
+          "innov_pct": 10.81,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 5.41,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.1427,
+          "local_ins_3aa": 0
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 24,
+          "n_innov": 2,
+          "innov_pct": 8.33,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.1875,
+          "local_ins_3aa": 0
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 61,
+          "n_innov": 6,
+          "innov_pct": 9.84,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 3.28,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.1603,
+          "local_ins_3aa": 0
+        },
+        "unmodeled_disordered": {
+          "n": 783,
+          "n_innov": 133,
+          "innov_pct": 16.99,
+          "n_prime_marg_chg": 53,
+          "prime_marg_pct": 6.77,
+          "n_prime_strict_chg": 1,
+          "prime_strict_pct": 0.13,
+          "mean_gap_frac": 0.1136,
+          "local_ins_3aa": 319
+        },
+        "fisher_or_contact_vs_scaffold": 7.333,
+        "fisher_p_contact_vs_scaffold": 0.004032220218227884
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "PPIA",
+      "arm": "Hijacked_Cellular_Hub",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 165,
+      "msa_codons": 224,
+      "non_human_inserted_cols": 24,
+      "branch_indel_events": 26,
+      "mean_gap_pct": 26.6,
+      "mean_column_posterior": 0.804,
+      "wheatstone_bridges": 16,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 2,
+      "gc3_heterogeneous": false,
+      "gc3_cp3_p": 0.9990548787495913,
+      "directional_drift_active": false,
+      "busted_e_lrt": 3.542689671371406,
+      "busted_e_p": 0.11495623797331653,
+      "busted_e_sig": false,
+      "innov_sites": 15,
+      "innov_site_pct": 6.7,
+      "meme_q10_sites": 0,
+      "toggle_conv_sites": 10,
+      "poa_artifacts_eliminated": 6,
+      "coev_pairs_q10": 0,
+      "lof_flagged_branches": [
+        {
+          "branch": "Node2",
+          "lof_bf": 83503.31403869994,
+          "lof_p": 1.928203869422761e-06,
+          "relax_k": 1.25
+        },
+        {
+          "branch": "Erinaceus_europaeus",
+          "lof_bf": 854.2722337808066,
+          "lof_p": 0.00023849991734889786,
+          "relax_k": 0.6564239304035588
+        },
+        {
+          "branch": "Sturnira_hondurensis",
+          "lof_bf": 700.9064052016886,
+          "lof_p": 0.0002945481807596926,
+          "relax_k": 0.4783732175053965
+        },
+        {
+          "branch": "Node48",
+          "lof_bf": 135399.46689685446,
+          "lof_p": 7.961207022371153e-07,
+          "relax_k": 0.36810636426265014
+        },
+        {
+          "branch": "Saccopteryx_leptura",
+          "lof_bf": 3762225.402271904,
+          "lof_p": 3.7376118996229365e-08,
+          "relax_k": 0.5689308315904315
+        },
+        {
+          "branch": "Nesogale_talazaci",
+          "lof_bf": 35890.71051257145,
+          "lof_p": 2.772735432437947e-06,
+          "relax_k": 0.446536624285809
+        }
+      ],
+      "prime_strict_changing_sites": 0,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 2,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 1,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 1,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 2,
+        "Volume_Angstrom3": 3
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "1AK4"
+        ],
+        "contact_4p5A": {
+          "n": 20,
+          "n_innov": 1,
+          "innov_pct": 5.0,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0021,
+          "local_ins_3aa": 0
+        },
+        "proximal_4p5_8p0A": {
+          "n": 26,
+          "n_innov": 0,
+          "innov_pct": 0.0,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0016,
+          "local_ins_3aa": 0
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 119,
+          "n_innov": 14,
+          "innov_pct": 11.76,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 1.68,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0146,
+          "local_ins_3aa": 24
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 145,
+          "n_innov": 14,
+          "innov_pct": 9.66,
+          "n_prime_marg_chg": 2,
+          "prime_marg_pct": 1.38,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0123,
+          "local_ins_3aa": 24
+        },
+        "unmodeled_disordered": {
+          "n": 0,
+          "n_innov": 0,
+          "innov_pct": null,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": null,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": null,
+          "mean_gap_frac": null,
+          "local_ins_3aa": 0
+        },
+        "fisher_or_contact_vs_scaffold": 0.395,
+        "fisher_p_contact_vs_scaffold": 0.915218571716789
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "ELOB",
+      "arm": "Hijacked_Cellular_Hub",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 118,
+      "msa_codons": 199,
+      "non_human_inserted_cols": 67,
+      "branch_indel_events": 128,
+      "mean_gap_pct": 37.51,
+      "mean_column_posterior": 0.7485,
+      "wheatstone_bridges": 19,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 4,
+      "gc3_heterogeneous": false,
+      "gc3_cp3_p": 0.29523150979811447,
+      "directional_drift_active": false,
+      "busted_e_lrt": 0.0,
+      "busted_e_p": 1.0,
+      "busted_e_sig": false,
+      "innov_sites": 6,
+      "innov_site_pct": 3.02,
+      "meme_q10_sites": 0,
+      "toggle_conv_sites": 4,
+      "poa_artifacts_eliminated": 14,
+      "coev_pairs_q10": 25,
+      "lof_flagged_branches": [
+        {
+          "branch": "Otolemur_garnettii",
+          "lof_bf": 20846121.593110103,
+          "lof_p": 1.6171270460933433e-23,
+          "relax_k": 0.06145724983060296
+        },
+        {
+          "branch": "Condylura_cristata",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 2.23189791407785e-40,
+          "relax_k": 0.4446577251858239
+        },
+        {
+          "branch": "Papio_anubis",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 1.3473043112692059e-20,
+          "relax_k": 0.11757094756209556
+        }
+      ],
+      "prime_strict_changing_sites": 0,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 0,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "2MA9",
+          "4N9F"
+        ],
+        "contact_4p5A": {
+          "n": 5,
+          "n_innov": 1,
+          "innov_pct": 20.0,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0167,
+          "local_ins_3aa": 0
+        },
+        "proximal_4p5_8p0A": {
+          "n": 6,
+          "n_innov": 0,
+          "innov_pct": 0.0,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0162,
+          "local_ins_3aa": 1
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 107,
+          "n_innov": 4,
+          "innov_pct": 3.74,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0171,
+          "local_ins_3aa": 67
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 113,
+          "n_innov": 4,
+          "innov_pct": 3.54,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0171,
+          "local_ins_3aa": 67
+        },
+        "unmodeled_disordered": {
+          "n": 0,
+          "n_innov": 0,
+          "innov_pct": null,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": null,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": null,
+          "mean_gap_frac": null,
+          "local_ins_3aa": 0
+        },
+        "fisher_or_contact_vs_scaffold": 6.438,
+        "fisher_p_contact_vs_scaffold": 0.20756150228627296
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "ANP32A",
+      "arm": "Hijacked_Cellular_Hub",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 249,
+      "msa_codons": 268,
+      "non_human_inserted_cols": 15,
+      "branch_indel_events": 149,
+      "mean_gap_pct": 7.27,
+      "mean_column_posterior": 0.9795,
+      "wheatstone_bridges": 15,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 1,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 5.840625223322908e-11,
+      "directional_drift_active": true,
+      "busted_e_lrt": 0.0,
+      "busted_e_p": 1.0,
+      "busted_e_sig": false,
+      "innov_sites": 33,
+      "innov_site_pct": 12.31,
+      "meme_q10_sites": 0,
+      "toggle_conv_sites": 25,
+      "poa_artifacts_eliminated": 2,
+      "coev_pairs_q10": 2,
+      "lof_flagged_branches": [
+        {
+          "branch": "Chrysochloris_asiatica",
+          "lof_bf": 449876.26576701354,
+          "lof_p": 2.7781964081437903e-07,
+          "relax_k": 0.5482765127189035
+        },
+        {
+          "branch": "Perognathus_longimembris",
+          "lof_bf": 24163537.895720214,
+          "lof_p": 3.737594083153193e-09,
+          "relax_k": 0.6087327595964411
+        },
+        {
+          "branch": "Erinaceus_europaeus",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 1.3809617656495007e-11,
+          "relax_k": 0.7065530172148088
+        },
+        {
+          "branch": "Condylura_cristata",
+          "lof_bf": 485165195.4097903,
+          "lof_p": 6.910448083311801e-14,
+          "relax_k": 0.46925284481417606
+        },
+        {
+          "branch": "Macrotis_lagotis",
+          "lof_bf": 147025.68162140873,
+          "lof_p": 7.477693252051186e-07,
+          "relax_k": 0.598405598169875
+        },
+        {
+          "branch": "Node49",
+          "lof_bf": 744.9932366507039,
+          "lof_p": 0.0002753012816964977,
+          "relax_k": 0.6357696106913325
+        }
+      ],
+      "prime_strict_changing_sites": 0,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 0,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "8RN0"
+        ],
+        "contact_4p5A": {
+          "n": 36,
+          "n_innov": 3,
+          "innov_pct": 8.33,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0019,
+          "local_ins_3aa": 0
+        },
+        "proximal_4p5_8p0A": {
+          "n": 40,
+          "n_innov": 3,
+          "innov_pct": 7.5,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0003,
+          "local_ins_3aa": 0
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 81,
+          "n_innov": 8,
+          "innov_pct": 9.88,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0003,
+          "local_ins_3aa": 0
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 121,
+          "n_innov": 11,
+          "innov_pct": 9.09,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0003,
+          "local_ins_3aa": 0
+        },
+        "unmodeled_disordered": {
+          "n": 92,
+          "n_innov": 16,
+          "innov_pct": 17.39,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0584,
+          "local_ins_3aa": 15
+        },
+        "fisher_or_contact_vs_scaffold": 0.83,
+        "fisher_p_contact_vs_scaffold": 0.7186539560841188
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "RAE1",
+      "arm": "Hijacked_Cellular_Hub",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 368,
+      "msa_codons": 461,
+      "non_human_inserted_cols": 0,
+      "branch_indel_events": 2,
+      "mean_gap_pct": 19.91,
+      "mean_column_posterior": 1.0,
+      "wheatstone_bridges": 17,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 2,
+      "gc3_heterogeneous": true,
+      "gc3_cp3_p": 1.8326045288008792e-168,
+      "directional_drift_active": true,
+      "busted_e_lrt": 0.0,
+      "busted_e_p": 1.0,
+      "busted_e_sig": false,
+      "innov_sites": 3,
+      "innov_site_pct": 0.65,
+      "meme_q10_sites": 0,
+      "toggle_conv_sites": 3,
+      "poa_artifacts_eliminated": 0,
+      "coev_pairs_q10": 0,
+      "lof_flagged_branches": [
+        {
+          "branch": "Node15",
+          "lof_bf": 322312.5543193491,
+          "lof_p": 4.740666016385203e-07,
+          "relax_k": 0.85
+        },
+        {
+          "branch": "Node24",
+          "lof_bf": 914629.1162691343,
+          "lof_p": 1.6099662849735715e-07,
+          "relax_k": 0.5792579919165093
+        },
+        {
+          "branch": "Rousettus_aegyptiacus",
+          "lof_bf": 23083084.572995916,
+          "lof_p": 5.774436607539216e-09,
+          "relax_k": 0.85
+        },
+        {
+          "branch": "Lepus_europaeus",
+          "lof_bf": 801.6698384293045,
+          "lof_p": 0.00024505446261851866,
+          "relax_k": 0.5689308315904315
+        }
+      ],
+      "prime_strict_changing_sites": 0,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 1,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 1,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 1,
+        "Hydrophobicity_KyteDoolittle": 1,
+        "Isoelectric_Point_pI": 1,
+        "Volume_Angstrom3": 1
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "7VPG"
+        ],
+        "contact_4p5A": {
+          "n": 23,
+          "n_innov": 0,
+          "innov_pct": 0.0,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0,
+          "local_ins_3aa": 0
+        },
+        "proximal_4p5_8p0A": {
+          "n": 46,
+          "n_innov": 1,
+          "innov_pct": 2.17,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0,
+          "local_ins_3aa": 0
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 273,
+          "n_innov": 1,
+          "innov_pct": 0.37,
+          "n_prime_marg_chg": 1,
+          "prime_marg_pct": 0.37,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0,
+          "local_ins_3aa": 0
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 319,
+          "n_innov": 2,
+          "innov_pct": 0.63,
+          "n_prime_marg_chg": 1,
+          "prime_marg_pct": 0.31,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0,
+          "local_ins_3aa": 0
+        },
+        "unmodeled_disordered": {
+          "n": 26,
+          "n_innov": 1,
+          "innov_pct": 3.85,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0021,
+          "local_ins_3aa": 0
+        },
+        "fisher_or_contact_vs_scaffold": 0.0,
+        "fisher_p_contact_vs_scaffold": 1.0
+      },
+      "functional_loop_audit": null
+    },
+    {
+      "gene": "YWHAZ",
+      "arm": "Hijacked_Cellular_Hub",
+      "input_taxa": 72,
+      "admitted_taxa": 72,
+      "rescued_frame_or_strand": 0,
+      "admitted_pseudogenes": [],
+      "human_aa": 245,
+      "msa_codons": 245,
+      "non_human_inserted_cols": 0,
+      "branch_indel_events": 2,
+      "mean_gap_pct": 0.49,
+      "mean_column_posterior": 1.0,
+      "wheatstone_bridges": 14,
+      "spr_routed_bridges": 0,
+      "coupled_spr_moves": 5,
+      "gc3_heterogeneous": false,
+      "gc3_cp3_p": 1.0,
+      "directional_drift_active": false,
+      "busted_e_lrt": 0.0,
+      "busted_e_p": 1.0,
+      "busted_e_sig": false,
+      "innov_sites": 0,
+      "innov_site_pct": 0.0,
+      "meme_q10_sites": 0,
+      "toggle_conv_sites": 0,
+      "poa_artifacts_eliminated": 0,
+      "coev_pairs_q10": 0,
+      "lof_flagged_branches": [
+        {
+          "branch": "Chrysochloris_asiatica",
+          "lof_bf": 392.3113748842366,
+          "lof_p": 0.00024675759346432516,
+          "relax_k": 0.4851711413238595
+        }
+      ],
+      "prime_strict_changing_sites": 0,
+      "prime_strict_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_strict_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_changing_sites": 0,
+      "prime_marginal_changing_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "prime_marginal_conserved_by_prop": {
+        "AlphaHelix_Propensity_ChouFasman": 0,
+        "BetaSheet_Propensity_ChouFasman": 0,
+        "Hydrophobicity_KyteDoolittle": 0,
+        "Isoelectric_Point_pI": 0,
+        "Volume_Angstrom3": 0
+      },
+      "pdb_atomic_audit": {
+        "pdbs": [
+          "7ZIT"
+        ],
+        "contact_4p5A": {
+          "n": 18,
+          "n_innov": 0,
+          "innov_pct": 0.0,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0077,
+          "local_ins_3aa": 0
+        },
+        "proximal_4p5_8p0A": {
+          "n": 33,
+          "n_innov": 0,
+          "innov_pct": 0.0,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0072,
+          "local_ins_3aa": 0
+        },
+        "resolved_scaffold_gt8A": {
+          "n": 179,
+          "n_innov": 0,
+          "innov_pct": 0.0,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0034,
+          "local_ins_3aa": 0
+        },
+        "resolved_noncontact_gt4p5A": {
+          "n": 212,
+          "n_innov": 0,
+          "innov_pct": 0.0,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.004,
+          "local_ins_3aa": 0
+        },
+        "unmodeled_disordered": {
+          "n": 15,
+          "n_innov": 0,
+          "innov_pct": 0.0,
+          "n_prime_marg_chg": 0,
+          "prime_marg_pct": 0.0,
+          "n_prime_strict_chg": 0,
+          "prime_strict_pct": 0.0,
+          "mean_gap_frac": 0.0139,
+          "local_ins_3aa": 0
+        },
+        "fisher_or_contact_vs_scaffold": null,
+        "fisher_p_contact_vs_scaffold": 1.0
+      },
+      "functional_loop_audit": null
+    }
+  ],
+  "atomic_pdb_aggregate": {
+    "conflict_pdb_pooled": {
+      "n_genes": 13,
+      "genes": [
+        "APOBEC3G",
+        "APOBEC3H",
+        "ISG15",
+        "SAMHD1",
+        "STAT2",
+        "IRF3",
+        "TRIM25",
+        "OAS1",
+        "ACE2",
+        "DPP4",
+        "CD4",
+        "TFRC",
+        "NPC1"
+      ],
+      "contact_4p5A_total": 299,
+      "contact_4p5A_innov": 127,
+      "contact_4p5A_innov_pct": 42.47,
+      "contact_4p5A_prime_marg_pct": 14.72,
+      "contact_4p5A_prime_strict_pct": 4.68,
+      "scaffold_gt8A_total": 3643,
+      "scaffold_gt8A_innov": 1063,
+      "scaffold_gt8A_innov_pct": 29.18,
+      "scaffold_gt8A_prime_marg_pct": 6.92,
+      "scaffold_gt8A_prime_strict_pct": 1.18,
+      "unmodeled_disordered_total": 3457,
+      "unmodeled_disordered_innov": 927,
+      "unmodeled_disordered_innov_pct": 26.82,
+      "pooled_fisher_or_innov": 1.792,
+      "pooled_fisher_p_innov": 1.8770702782429277e-06,
+      "pooled_fisher_or_prime_marg": 2.322,
+      "pooled_fisher_p_prime_marg": 6.250038413419425e-06,
+      "pooled_fisher_or_prime_strict": 4.113,
+      "pooled_fisher_p_prime_strict": 5.9653590781105805e-05,
+      "per_gene_contact_innov_pct_mean": 44.63,
+      "per_gene_scaffold_innov_pct_mean": 29.84,
+      "per_gene_contact_gap_pct_mean": 2.48,
+      "per_gene_scaffold_gap_pct_mean": 1.4,
+      "per_gene_unmodeled_gap_pct_mean": 16.53
+    },
+    "hijacked_hub_pdb_pooled": {
+      "n_genes": 5,
+      "genes": [
+        "PPIA",
+        "ELOB",
+        "ANP32A",
+        "RAE1",
+        "YWHAZ"
+      ],
+      "contact_4p5A_total": 102,
+      "contact_4p5A_innov": 5,
+      "contact_4p5A_innov_pct": 4.9,
+      "contact_4p5A_prime_marg_pct": 0.0,
+      "contact_4p5A_prime_strict_pct": 0.0,
+      "scaffold_gt8A_total": 759,
+      "scaffold_gt8A_innov": 27,
+      "scaffold_gt8A_innov_pct": 3.56,
+      "scaffold_gt8A_prime_marg_pct": 0.4,
+      "scaffold_gt8A_prime_strict_pct": 0.0,
+      "unmodeled_disordered_total": 133,
+      "unmodeled_disordered_innov": 17,
+      "unmodeled_disordered_innov_pct": 12.78,
+      "pooled_fisher_or_innov": 1.397,
+      "pooled_fisher_p_innov": 0.3261716714885353,
+      "pooled_fisher_or_prime_marg": 0.0,
+      "pooled_fisher_p_prime_marg": 1.0,
+      "pooled_fisher_or_prime_strict": NaN,
+      "pooled_fisher_p_prime_strict": 1.0,
+      "per_gene_contact_innov_pct_mean": 6.67,
+      "per_gene_scaffold_innov_pct_mean": 5.15,
+      "per_gene_contact_gap_pct_mean": 0.57,
+      "per_gene_scaffold_gap_pct_mean": 0.71,
+      "per_gene_unmodeled_gap_pct_mean": 2.48
+    },
+    "paired_wilcoxon_conflict_contact_vs_scaffold_p": 0.001708984375,
+    "paired_wilcoxon_conflict_contact_vs_noncontact_all13_p": 0.02392578125,
+    "mwu_gene_level_conflict_vs_hub_contact_p": 0.0007953948989038677,
+    "pooled_fisher_or_conflict_vs_hub_contacts": 14.324,
+    "pooled_fisher_p_conflict_vs_hub_contacts": 1.5226597430037522e-14
+  },
+  "prime_totals_strict_omnibus_q10": {
+    "AlphaHelix_Propensity_ChouFasman": {
+      "changing": 40,
+      "conserved": 16
+    },
+    "BetaSheet_Propensity_ChouFasman": {
+      "changing": 20,
+      "conserved": 25
+    },
+    "Hydrophobicity_KyteDoolittle": {
+      "changing": 12,
+      "conserved": 52
+    },
+    "Isoelectric_Point_pI": {
+      "changing": 41,
+      "conserved": 57
+    },
+    "Volume_Angstrom3": {
+      "changing": 17,
+      "conserved": 30
+    }
+  },
+  "prime_totals_marginal_adjp10": {
+    "AlphaHelix_Propensity_ChouFasman": {
+      "changing": 267,
+      "conserved": 126
+    },
+    "BetaSheet_Propensity_ChouFasman": {
+      "changing": 188,
+      "conserved": 185
+    },
+    "Hydrophobicity_KyteDoolittle": {
+      "changing": 137,
+      "conserved": 327
+    },
+    "Isoelectric_Point_pI": {
+      "changing": 390,
+      "conserved": 305
+    },
+    "Volume_Angstrom3": {
+      "changing": 194,
+      "conserved": 224
+    }
+  },
+  "tier1_aggregate_counts": {
+    "total_non_human_inserted_cols": 2775,
+    "total_branch_indel_events": 7427,
+    "total_poa_artifacts_eliminated": 279,
+    "total_wheatstone_bridges": 393,
+    "total_spr_routed_bridges": 10,
+    "total_admitted_pseudogenes": 7,
+    "total_lof_flagged_branches": 96,
+    "total_coev_pairs_q10": 394
+  },
+  "tier2_toga2": {
+    "n_total": 7045,
+    "groups": {
+      "Hijacked_Host_Hubs": {
+        "n": 179,
+        "median_taxa": 839,
+        "median_codons": 268,
+        "busted_pct": 39.11,
+        "mean_episodic_site_pct": 6.09,
+        "mean_toggle_conv_site_pct": 28.34,
+        "mean_gap_codons_per_site": 6.73,
+        "mean_indel_events_per_100_codons": 118.28
+      },
+      "Proteome_Background": {
+        "n": 6817,
+        "median_taxa": 819,
+        "median_codons": 260,
+        "busted_pct": 57.28,
+        "mean_episodic_site_pct": 7.59,
+        "mean_toggle_conv_site_pct": 37.72,
+        "mean_gap_codons_per_site": 9.73,
+        "mean_indel_events_per_100_codons": 164.83
+      },
+      "Antiviral_Sensors_Effectors": {
+        "n": 49,
+        "median_taxa": 441,
+        "median_codons": 215,
+        "busted_pct": 69.39,
+        "mean_episodic_site_pct": 12.55,
+        "mean_toggle_conv_site_pct": 36.2,
+        "mean_gap_codons_per_site": 15.02,
+        "mean_indel_events_per_100_codons": 185.86
+      }
+    },
+    "p_antiviral_vs_hijacked": {
+      "busted_fisher_p": 0.00014516587650952744,
+      "episodic_density_mwu_p": 8.673755710585222e-09,
+      "toggle_convergent_mwu_p": 0.0026743866920157884,
+      "gap_plasticity_mwu_p": 1.5314689095024136e-11,
+      "hijacked_higher_taxa_retention_mwu_p": 1.853762036792667e-07
+    },
+    "covariate_adjusted_av_vs_hijacked": {
+      "episodic_site_pct": {
+        "beta_antiviral_adj": 4.8165,
+        "se": 1.2351,
+        "t": 3.9,
+        "p_two_sided": 0.00012733468018597772
+      },
+      "gap_density_pct": {
+        "beta_antiviral_adj": 3.6931,
+        "se": 1.1425,
+        "t": 3.233,
+        "p_two_sided": 0.0014114821400025093
+      },
+      "toggle_conv_pct": {
+        "beta_antiviral_adj": 10.287,
+        "se": 3.0082,
+        "t": 3.42,
+        "p_two_sided": 0.0007448724768857447
+      }
+    },
+    "covariate_adjusted_av_vs_background": {
+      "episodic_site_pct": {
+        "beta_antiviral_adj": 4.5048,
+        "se": 0.9113,
+        "t": 4.943,
+        "p_two_sided": 7.871655514515383e-07
+      },
+      "gap_density_pct": {
+        "beta_antiviral_adj": 2.1867,
+        "se": 1.1712,
+        "t": 1.867,
+        "p_two_sided": 0.06194670051593139
+      }
+    }
+  }
+}

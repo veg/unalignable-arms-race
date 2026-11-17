@@ -1,0 +1,23 @@
+# OS & editor files
+.DS_Store
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# LaTeX build intermediates
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+
+# Raw intermediate download caches (curated *_unaligned.fa and *_manifest.json remain tracked)
+data/raw_cds/ncbi_*_pkg/
+data/raw_cds/toga2_raw/
+data/raw_cds/ENST*.codonified.fa

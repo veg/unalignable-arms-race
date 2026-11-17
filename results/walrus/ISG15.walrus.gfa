@@ -1,0 +1,635 @@
+H	VN:Z:1.0	bn:Z:HyPhy3_Ohmic_Codon_POA
+S	C1	ATG	RC:i:5	pp:f:0.0689	oc:f:0.0694	om:f:1.0000	aa:Z:M	sel:Z:Neutral
+S	C2	AAA	RC:i:3	pp:f:0.0635	oc:f:0.0417	om:f:24731.6429	aa:Z:K/P/R	sel:Z:Neutral
+S	C3	ACC	RC:i:2	pp:f:0.0644	oc:f:0.0278	om:f:5103.5156	aa:Z:S/T	sel:Z:Neutral
+S	C4	AAG	RC:i:1	pp:f:0.0587	oc:f:0.0139	om:f:2.4795	aa:Z:K	sel:Z:Neutral
+S	C5	GGC	RC:i:3	pp:f:0.0603	oc:f:0.0417	om:f:0.0141	aa:Z:G	sel:Z:Neutral
+S	C6	TTC	RC:i:3	pp:f:0.0627	oc:f:0.0417	om:f:24641.8119	aa:Z:C/F	sel:Z:Neutral
+S	C7	AGG	RC:i:2	pp:f:0.0630	oc:f:0.0278	om:f:3.8645	aa:Z:P/R	sel:Z:Neutral
+S	C8	GAG	RC:i:2	pp:f:0.0663	oc:f:0.0278	om:f:129831.0848	aa:Z:E	sel:Z:Neutral
+S	C9	GGG	RC:i:3	pp:f:0.0644	oc:f:0.0417	om:f:2.0282	aa:Z:E/G	sel:Z:Neutral
+S	C10	GGC	RC:i:3	pp:f:0.0953	oc:f:0.0417	om:f:101.4194	aa:Z:G/P	sel:Z:Neutral
+S	C11	ACC	RC:i:3	pp:f:0.0953	oc:f:0.0417	om:f:0.3463	aa:Z:C/S/T	sel:Z:Neutral
+S	C12	CCA	RC:i:3	pp:f:0.0917	oc:f:0.0417	om:f:0.2747	aa:Z:L/P/V	sel:Z:Neutral
+S	C13	AGA	RC:i:3	pp:f:0.0927	oc:f:0.0417	om:f:10.1515	aa:Z:G/R/S	sel:Z:Neutral
+S	C14	AGC	RC:i:3	pp:f:0.0939	oc:f:0.0417	om:f:2.8335	aa:Z:G/P/S	sel:Z:Neutral
+S	C15	CCT	RC:i:3	pp:f:0.0934	oc:f:0.0417	om:f:13326.3049	aa:Z:A/G/P	sel:Z:Neutral
+S	C16	GAG	RC:i:3	pp:f:0.0939	oc:f:0.0417	om:f:268.5671	aa:Z:A/E/S	sel:Z:Neutral
+S	C17	ACC	RC:i:3	pp:f:0.0927	oc:f:0.0417	om:f:108057.2510	aa:Z:P/S/T	sel:Z:Neutral
+S	C18	CAG	RC:i:3	pp:f:0.0945	oc:f:0.0417	om:f:17.4504	aa:Z:E/Q/S	sel:Z:Neutral
+S	C19	ATG	RC:i:5	pp:f:0.0970	oc:f:0.0694	om:f:0.0020	aa:Z:A/E/M/P	sel:Z:Neutral
+S	C20	CCA	RC:i:4	pp:f:0.0971	oc:f:0.0556	om:f:29695.6503	aa:Z:A/P/R	sel:Z:Neutral
+S	C21	GCA	RC:i:4	pp:f:0.0971	oc:f:0.0556	om:f:0.0239	aa:Z:A/G	sel:Z:Neutral
+S	C22	AAC	RC:i:6	pp:f:0.0945	oc:f:0.0833	om:f:0.0026	aa:Z:G/N/S	sel:Z:Neutral
+S	C23	TCA	RC:i:4	pp:f:0.0958	oc:f:0.0556	om:f:0.0068	aa:Z:P/S	sel:Z:Neutral
+S	C24	TCT	RC:i:4	pp:f:0.0952	oc:f:0.0556	om:f:0.0260	aa:Z:S/W	sel:Z:Neutral
+S	C25	GTG	RC:i:3	pp:f:0.0881	oc:f:0.0417	om:f:4147.9029	aa:Z:L/V	sel:Z:Neutral
+S	C26	CCC	RC:i:3	pp:f:0.0867	oc:f:0.0417	om:f:0.0018	aa:Z:A/L/P	sel:Z:Neutral
+S	C27	ACA	RC:i:4	pp:f:0.0944	oc:f:0.0556	om:f:0.0006	aa:Z:A/P/T	sel:Z:Neutral
+S	C28	GAG	RC:i:4	pp:f:0.8953	oc:f:0.0556	om:f:5276.3366	aa:Z:A/E/Q	sel:Z:Neutral
+S	C29	CAC	RC:i:4	pp:f:0.9627	oc:f:0.0556	om:f:4379.5643	aa:Z:D/H/R	sel:Z:Neutral
+S	C30	CAG	RC:i:4	pp:f:0.9632	oc:f:0.0556	om:f:0.3444	aa:Z:L/P/Q	sel:Z:Neutral
+S	C31	GCA	RC:i:4	pp:f:0.9783	oc:f:0.0556	om:f:1.7474	aa:Z:A/E/P	sel:Z:Neutral
+S	C32	CCA	RC:i:4	pp:f:0.9779	oc:f:0.0556	om:f:197333.5758	aa:Z:D/G/L/P	sel:Z:Neutral
+S	C33	CAA	RC:i:4	pp:f:0.9790	oc:f:0.0556	om:f:65588.3789	aa:Z:E/Q/V	sel:Z:Neutral
+S	C34	CCC	RC:i:4	pp:f:0.9833	oc:f:0.0556	om:f:0.0002	aa:Z:P/S	sel:Z:Purifying
+S	C35	ACA	RC:i:3	pp:f:0.9719	oc:f:0.0417	om:f:2266.7724	aa:Z:P/T	sel:Z:Neutral
+S	C36	GCC	RC:i:3	pp:f:0.9783	oc:f:0.0417	om:f:182.9996	aa:Z:A/G	sel:Z:Neutral
+S	C37	CAG	RC:i:1	pp:f:0.8838	oc:f:0.0139	om:f:1.0000	aa:Z:Q	sel:Z:Neutral
+S	C38	ATG	RC:i:67	pp:f:0.7906	oc:f:0.9306	om:f:240.8722	aa:Z:K/M	sel:Z:Neutral
+S	C39	GCG	RC:i:5	pp:f:0.8125	oc:f:0.0694	om:f:0.2659	aa:Z:A/G/K/T	sel:Z:Neutral
+S	C40	GGC	RC:i:64	pp:f:0.9025	oc:f:0.8889	om:f:0.4735	aa:Z:A/D/E/G/N/S/T	sel:Z:Neutral
+S	C41	TGG	RC:i:65	pp:f:0.9720	oc:f:0.9028	om:f:1.0531	aa:Z:E/G/I/K/L/Q/R/W	sel:Z:Neutral
+S	C42	GAC	RC:i:67	pp:f:0.9871	oc:f:0.9306	om:f:8085.8713	aa:Z:D/E/H/I/K/N/Q/S/T/Y	sel:Z:Diversifying
+S	C43	CTG	RC:i:69	pp:f:0.9970	oc:f:0.9583	om:f:0.3825	aa:Z:L/Q/V	sel:Z:Neutral
+S	C44	AAG	RC:i:69	pp:f:0.9984	oc:f:0.9583	om:f:0.0675	aa:Z:I/K/R/T	sel:Z:Purifying
+S	C45	GTG	RC:i:69	pp:f:0.9990	oc:f:0.9583	om:f:0.0005	aa:Z:V	sel:Z:Purifying
+S	C46	AAG	RC:i:69	pp:f:0.9987	oc:f:0.9583	om:f:0.0580	aa:Z:K/R	sel:Z:Purifying
+S	C47	ATG	RC:i:70	pp:f:0.9733	oc:f:0.9722	om:f:0.0582	aa:Z:G/K/L/M/R/T	sel:Z:Purifying
+S	C48	CTG	RC:i:72	pp:f:0.9983	oc:f:1.0000	om:f:0.1079	aa:Z:L/M	sel:Z:Purifying
+S	C49	GGG	RC:i:69	pp:f:0.9800	oc:f:0.9583	om:f:0.3017	aa:Z:A/D/E/G/N/S/T	sel:Z:Purifying
+S	C50	GGC	RC:i:70	pp:f:0.9775	oc:f:0.9722	om:f:0.1776	aa:Z:G/S	sel:Z:Purifying
+S	C51	GAG	RC:i:68	pp:f:0.9832	oc:f:0.9444	om:f:0.1641	aa:Z:D/E/H/K/N/Q/R/T/V	sel:Z:Purifying
+S	C52	GAG	RC:i:72	pp:f:0.9839	oc:f:1.0000	om:f:0.0126	aa:Z:E/Q/S/V/Y	sel:Z:Purifying
+S	C53	TTC	RC:i:72	pp:f:0.9989	oc:f:1.0000	om:f:0.3916	aa:Z:F/H/I/L/V/Y	sel:Z:Neutral
+S	C54	CTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:1.6060	aa:Z:A/E/F/K/L/M/Q/R/S/T/V	sel:Z:Neutral
+S	C55	GTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1110	aa:Z:L/M/V	sel:Z:Purifying
+S	C56	CCC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:1.2504	aa:Z:H/K/P/R/S/T	sel:Z:Neutral
+S	C57	CTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.9372	aa:Z:A/F/I/L/M/V	sel:Z:Neutral
+S	C58	AGG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3903	aa:Z:D/K/N/P/Q/R/S/T/V	sel:Z:Purifying
+S	C59	GAC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.6874	aa:Z:A/D/E/G/H/K/N/S	sel:Z:Neutral
+S	C60	TCC	RC:i:72	pp:f:0.9991	oc:f:1.0000	om:f:0.9646	aa:Z:A/C/D/K/P/S/T	sel:Z:Neutral
+S	C61	ATG	RC:i:70	pp:f:0.9908	oc:f:0.9722	om:f:0.0026	aa:Z:A/I/L/M/T	sel:Z:Purifying
+S	C62	CTG	RC:i:70	pp:f:0.9912	oc:f:0.9722	om:f:68.7008	aa:Z:L/M/P/Q/S/T/V	sel:Z:Diversifying
+S	C63	GTG	RC:i:72	pp:f:0.9886	oc:f:1.0000	om:f:0.9662	aa:Z:A/G/L/P/S/T/V	sel:Z:Neutral
+S	C64	TCA	RC:i:72	pp:f:0.9943	oc:f:1.0000	om:f:0.4173	aa:Z:A/E/K/L/M/Q/S/V	sel:Z:Purifying
+S	C65	GAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1802	aa:Z:D/E/G	sel:Z:Purifying
+S	C66	CTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0005	aa:Z:L	sel:Z:Purifying
+S	C67	AAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.2036	aa:Z:K/Q/R	sel:Z:Neutral
+S	C68	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.2922	aa:Z:A/H/K/Q/R/W	sel:Z:Purifying
+S	C69	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3811	aa:Z:F/H/K/L/Q/R	sel:Z:Neutral
+S	C70	ATC	RC:i:72	pp:f:0.9997	oc:f:1.0000	om:f:0.0669	aa:Z:I/L/V	sel:Z:Purifying
+S	C71	GCC	RC:i:72	pp:f:0.9935	oc:f:1.0000	om:f:1.1352	aa:Z:A/F/S/T	sel:Z:Neutral
+S	C72	CAG	RC:i:62	pp:f:0.9476	oc:f:0.8611	om:f:2917.8696	aa:Z:E/H/K/L/Q/R	sel:Z:Neutral
+S	C73	AAG	RC:i:71	pp:f:0.9137	oc:f:0.9861	om:f:0.2296	aa:Z:E/K/Q/R	sel:Z:Purifying
+S	C74	CAG	RC:i:12	pp:f:0.8469	oc:f:0.1667	om:f:0.0069	aa:Z:E/K/L/M/Q/S	sel:Z:Neutral
+S	C75	ATC	RC:i:72	pp:f:0.9579	oc:f:1.0000	om:f:0.2489	aa:Z:A/I/L/M/S/T/W	sel:Z:Purifying
+S	C76	GGC	RC:i:72	pp:f:0.9958	oc:f:1.0000	om:f:0.3958	aa:Z:A/D/E/G/H/K/N/Q/R/S	sel:Z:Purifying
+S	C77	GTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0496	aa:Z:I/V	sel:Z:Purifying
+S	C78	CCC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0716	aa:Z:H/P/Q	sel:Z:Purifying
+S	C79	GCC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.8862	aa:Z:A/C/G/P/T/V	sel:Z:Neutral
+S	C80	TTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0636	aa:Z:F/Y	sel:Z:Purifying
+S	C81	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1450	aa:Z:L/Q/R/S	sel:Z:Purifying
+S	C82	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0671	aa:Z:H/L/Q	sel:Z:Purifying
+S	C83	CGC	RC:i:72	pp:f:0.9999	oc:f:1.0000	om:f:0.5685	aa:Z:H/K/L/R	sel:Z:Neutral
+S	C84	CTG	RC:i:72	pp:f:0.9987	oc:f:1.0000	om:f:0.0002	aa:Z:L	sel:Z:Purifying
+S	C85	GCT	RC:i:62	pp:f:0.9098	oc:f:0.8611	om:f:0.3710	aa:Z:A/F/G/I/L/S/V	sel:Z:Purifying
+S	C86	GTC	RC:i:58	pp:f:0.8927	oc:f:0.8056	om:f:0.4590	aa:Z:A/I/L/S/T/V	sel:Z:Neutral
+S	C87	CAC	RC:i:71	pp:f:0.9803	oc:f:0.9861	om:f:0.1249	aa:Z:C/E/H/K/L/N/Q/Y	sel:Z:Purifying
+S	C88	CCA	RC:i:71	pp:f:0.9799	oc:f:0.9861	om:f:0.3265	aa:Z:A/E/L/P/Q/S	sel:Z:Purifying
+S	C89	AGC	RC:i:40	pp:f:0.9206	oc:f:0.5556	om:f:0.2320	aa:Z:D/E/G/K/N/S/T	sel:Z:Purifying
+S	C90	GGC	RC:i:30	pp:f:0.8154	oc:f:0.4167	om:f:0.3598	aa:Z:D/E/G/N/S	sel:Z:Neutral
+S	C91	GCC	RC:i:53	pp:f:0.8459	oc:f:0.7361	om:f:0.6553	aa:Z:A/D/E/G/K/N/R/S/T/W	sel:Z:Neutral
+S	C92	GGC	RC:i:52	pp:f:0.8198	oc:f:0.7222	om:f:0.3967	aa:Z:G/H/N/Q/R/S	sel:Z:Neutral
+S	C93	ACA	RC:i:52	pp:f:0.8487	oc:f:0.7222	om:f:0.7106	aa:Z:A/E/G/K/L/M/N/Q/R/T/V	sel:Z:Neutral
+S	C94	GTG	RC:i:72	pp:f:0.9662	oc:f:1.0000	om:f:1.3837	aa:Z:A/E/L/M/T/V	sel:Z:Neutral
+S	C95	CTG	RC:i:72	pp:f:0.9932	oc:f:1.0000	om:f:0.0766	aa:Z:L/P	sel:Z:Purifying
+S	C96	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3390	aa:Z:E/K/L/Q/R	sel:Z:Neutral
+S	C97	GAC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0432	aa:Z:D/E/N	sel:Z:Purifying
+S	C98	GGG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.4557	aa:Z:C/D/E/G/K/N/R/S	sel:Z:Neutral
+S	C99	GTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.4113	aa:Z:A/E/G/I/K/L/P/Q/V	sel:Z:Purifying
+S	C100	CCC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:1.6059	aa:Z:A/D/P/R/S/T	sel:Z:Neutral
+S	C101	CTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0001	aa:Z:L	sel:Z:Purifying
+S	C102	GTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:2.6735	aa:Z:A/C/D/G/I/M/S/V	sel:Z:Diversifying
+S	C103	AGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:1.7328	aa:Z:A/C/D/G/H/K/N/Q/R/S/T	sel:Z:Neutral
+S	C104	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0717	aa:Z:H/Q	sel:Z:Neutral
+S	C105	GGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3955	aa:Z:G/N/R/S	sel:Z:Neutral
+S	C106	CTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.2842	aa:Z:L/V	sel:Z:Neutral
+S	C107	GGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.8326	aa:Z:C/D/G/I/K/Q/R/S/V/W/Y	sel:Z:Neutral
+S	C108	CCC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1197	aa:Z:A/P/S/T	sel:Z:Purifying
+S	C109	GGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.4843	aa:Z:D/E/G/N/S	sel:Z:Neutral
+S	C110	AGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3166	aa:Z:A/C/D/G/N/S	sel:Z:Neutral
+S	C111	ACG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1810	aa:Z:E/I/M/T/V	sel:Z:Purifying
+S	C112	GTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0774	aa:Z:I/L/V	sel:Z:Purifying
+S	C113	CTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:1.1935	aa:Z:A/G/L/M/V	sel:Z:Neutral
+S	C114	CTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0001	aa:Z:L	sel:Z:Purifying
+S	C115	GTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3622	aa:Z:A/I/L/M/V	sel:Z:Purifying
+S	C116	GTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0002	aa:Z:V	sel:Z:Purifying
+S	C117	CAG	RC:i:72	pp:f:0.9992	oc:f:1.0000	om:f:0.2015	aa:Z:D/E/H/K/L/Q	sel:Z:Purifying
+S	C118	AGC	RC:i:71	pp:f:0.9878	oc:f:0.9861	om:f:0.3777	aa:Z:D/E/K/L/M/N/P/Q/S	sel:Z:Neutral
+S	C119	TGC	RC:i:69	pp:f:0.9857	oc:f:0.9583	om:f:0.0787	aa:Z:A/C/F/R/S/Y	sel:Z:Purifying
+S	C120	GAC	RC:i:72	pp:f:0.9933	oc:f:1.0000	om:f:0.3078	aa:Z:A/D/E/K/N/R/S	sel:Z:Purifying
+S	C121	GAC	RC:i:65	pp:f:0.9834	oc:f:0.9028	om:f:1.2076	aa:Z:A/D/E/G/K/N/R/S/T/V	sel:Z:Neutral
+S	C122	CCC	RC:i:72	pp:f:0.9894	oc:f:1.0000	om:f:0.1809	aa:Z:G/L/P/S/T	sel:Z:Purifying
+S	C123	CTG	RC:i:72	pp:f:0.9998	oc:f:1.0000	om:f:0.3577	aa:Z:L/M/V	sel:Z:Neutral
+S	C124	AGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.9501	aa:Z:D/N/S/T	sel:Z:Neutral
+S	C125	ATC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:231.0844	aa:Z:I/V	sel:Z:Neutral
+S	C126	CTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0007	aa:Z:L	sel:Z:Purifying
+S	C127	GTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0983	aa:Z:L/V	sel:Z:Purifying
+S	C128	AGG	RC:i:72	pp:f:0.9980	oc:f:1.0000	om:f:0.1313	aa:Z:C/H/K/R/S	sel:Z:Purifying
+S	C129	AAC	RC:i:72	pp:f:0.9990	oc:f:1.0000	om:f:0.0192	aa:Z:D/N/T	sel:Z:Purifying
+S	C130	GAC	RC:i:71	pp:f:0.9913	oc:f:0.9861	om:f:0.1490	aa:Z:D/E/G/H/N/S/T	sel:Z:Purifying
+S	C131	AAG	RC:i:72	pp:f:0.9924	oc:f:1.0000	om:f:0.3764	aa:Z:A/G/K/N/Q/R/S/T	sel:Z:Neutral
+S	C132	GGC	RC:i:71	pp:f:0.9935	oc:f:0.9861	om:f:0.1675	aa:Z:G/S	sel:Z:Purifying
+S	C133	CGC	RC:i:72	pp:f:0.9972	oc:f:1.0000	om:f:0.3367	aa:Z:C/H/Q/R/V	sel:Z:Purifying
+S	C134	AGC	RC:i:72	pp:f:0.9993	oc:f:1.0000	om:f:0.3463	aa:Z:C/N/S/T/V	sel:Z:Neutral
+S	C135	AGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.2129	aa:Z:I/K/N/R/S/T/V	sel:Z:Purifying
+S	C136	GCC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:3.2757	aa:Z:A/I/L/P/S/T	sel:Z:Diversifying
+S	C137	TAC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0000	aa:Z:Y	sel:Z:Purifying
+S	C138	GAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1302	aa:Z:D/E/N/R/S/T/V	sel:Z:Purifying
+S	C139	GTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.2009	aa:Z:I/V	sel:Z:Purifying
+S	C140	CGG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:3.9300	aa:Z:H/L/Q/R/V/W	sel:Z:Diversifying
+S	C141	CTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1325	aa:Z:L/P	sel:Z:Purifying
+S	C142	ACG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0725	aa:Z:G/M/S/T	sel:Z:Purifying
+S	C143	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:1452.1484	aa:Z:D/E/Q	sel:Z:Neutral
+S	C144	ACG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0623	aa:Z:K/M/R/S/T	sel:Z:Purifying
+S	C145	GTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0758	aa:Z:A/V	sel:Z:Purifying
+S	C146	GCC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1081	aa:Z:A/G/S/V	sel:Z:Purifying
+S	C147	GAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3873	aa:Z:D/E/H/Q/S	sel:Z:Neutral
+S	C148	CTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0001	aa:Z:L	sel:Z:Purifying
+S	C149	AAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:718.7500	aa:Z:K/M/Q	sel:Z:Neutral
+S	C150	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.8406	aa:Z:E/K/L/Q/R	sel:Z:Neutral
+S	C151	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1249	aa:Z:E/K/L/M/Q/R	sel:Z:Purifying
+S	C152	GTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0777	aa:Z:I/V	sel:Z:Purifying
+S	C153	TGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.5606	aa:Z:A/C/H/Q/S	sel:Z:Neutral
+S	C154	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.6273	aa:Z:C/D/E/G/I/K/L/Q/R/S/V/W	sel:Z:Neutral
+S	C155	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3024	aa:Z:H/K/L/Q/R	sel:Z:Purifying
+S	C156	GAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:260.6373	aa:Z:E/Q	sel:Z:Neutral
+S	C157	GGT	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.5449	aa:Z:G/H/K/L/N/Q/R/S	sel:Z:Neutral
+S	C158	GTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.5822	aa:Z:A/I/L/M/T/V	sel:Z:Neutral
+S	C159	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.2650	aa:Z:H/K/P/Q/R/S	sel:Z:Purifying
+S	C160	GCC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3156	aa:Z:A/D/E/L/N/P/Q/T/V	sel:Z:Purifying
+S	C161	GAC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0645	aa:Z:D/N/S	sel:Z:Purifying
+S	C162	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.2206	aa:Z:H/L/M/Q	sel:Z:Purifying
+S	C163	TTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1667	aa:Z:C/F/I/V	sel:Z:Neutral
+S	C164	TGG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0003	aa:Z:N/R/S/W/Y	sel:Z:Purifying
+S	C165	CTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0007	aa:Z:L	sel:Z:Purifying
+S	C166	AGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3486	aa:Z:I/K/N/S/T	sel:Z:Purifying
+S	C167	TTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0055	aa:Z:F/Y	sel:Z:Purifying
+S	C168	GAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.2105	aa:Z:D/E/K/Q	sel:Z:Purifying
+S	C169	GGG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3788	aa:Z:D/E/G	sel:Z:Neutral
+S	C170	AAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1768	aa:Z:K/M/Q/R/T	sel:Z:Purifying
+S	C171	CCC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:1.1716	aa:Z:D/H/L/P/R/S/T/V	sel:Z:Neutral
+S	C172	ATG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1150	aa:Z:L/M	sel:Z:Purifying
+S	C173	GAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0623	aa:Z:D/E/Q	sel:Z:Purifying
+S	C174	GAC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0373	aa:Z:D/E/N	sel:Z:Purifying
+S	C175	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.7904	aa:Z:A/E/H/K/N/P/Q/R/S/T/W	sel:Z:Neutral
+S	C176	CTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:1.7780	aa:Z:A/C/D/E/H/K/L/Q/R/V	sel:Z:Neutral
+S	C177	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3791	aa:Z:H/K/L/M/P/Q/R/W	sel:Z:Purifying
+S	C178	CTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0003	aa:Z:L	sel:Z:Purifying
+S	C179	GGG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1134	aa:Z:G/K	sel:Z:Purifying
+S	C180	GAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0632	aa:Z:D/E/K/N	sel:Z:Purifying
+S	C181	TAC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0339	aa:Z:L/Y	sel:Z:Purifying
+S	C182	GGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:2.3542	aa:Z:D/E/G/K/N/R/S	sel:Z:Neutral
+S	C183	CTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1093	aa:Z:I/L/V	sel:Z:Purifying
+S	C184	AAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.2336	aa:Z:E/I/K/M/Q/R/S/T	sel:Z:Purifying
+S	C185	CCC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.4751	aa:Z:A/N/P/S/T	sel:Z:Purifying
+S	C186	CAG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:1.4527	aa:Z:D/E/G/H/L/M/N/Q/R/S/W	sel:Z:Neutral
+S	C187	TGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.5000	aa:Z:C/G/S	sel:Z:Neutral
+S	C188	ACC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0135	aa:Z:I/T	sel:Z:Purifying
+S	C189	GTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.3779	aa:Z:I/L/V	sel:Z:Neutral
+S	C190	TTC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.6204	aa:Z:D/E/F/H/L/Q/V/Y	sel:Z:Neutral
+S	C191	ATG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0306	aa:Z:L/M	sel:Z:Purifying
+S	C192	AAT	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.1259	aa:Z:H/N/Q/T	sel:Z:Purifying
+S	C193	CTG	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.0001	aa:Z:L	sel:Z:Purifying
+S	C194	CGC	RC:i:72	pp:f:1.0000	oc:f:1.0000	om:f:0.4814	aa:Z:G/H/Q/R/Y	sel:Z:Neutral
+S	C195	CTG	RC:i:72	pp:f:0.9999	oc:f:1.0000	om:f:0.0609	aa:Z:L/M	sel:Z:Purifying
+S	C196	CGG	RC:i:72	pp:f:0.9975	oc:f:1.0000	om:f:0.0001	aa:Z:R	sel:Z:Purifying
+S	C197	GGG	RC:i:69	pp:f:0.9640	oc:f:0.9583	om:f:0.0001	aa:Z:G	sel:Z:Purifying
+S	C198	GGC	RC:i:67	pp:f:0.9565	oc:f:0.9306	om:f:0.0001	aa:Z:G	sel:Z:Purifying
+S	C199	GGG	RC:i:59	pp:f:0.9427	oc:f:0.8194	om:f:0.3643	aa:Z:A/F/G/K/Q/R/S	sel:Z:Purifying
+S	C200	GCA	RC:i:51	pp:f:0.9250	oc:f:0.7083	om:f:0.5794	aa:Z:A/D/E/G/R/T/V	sel:Z:Neutral
+S	C201	GGG	RC:i:52	pp:f:0.8841	oc:f:0.7222	om:f:0.6193	aa:Z:E/G/R/S/V	sel:Z:Neutral
+S	C202	CCA	RC:i:38	pp:f:0.9232	oc:f:0.5278	om:f:0.6782	aa:Z:A/G/H/K/P/Q/R/S/T	sel:Z:Neutral
+S	C203	GGC	RC:i:34	pp:f:0.8838	oc:f:0.4722	om:f:0.7230	aa:Z:A/D/E/G/K/L/R/V	sel:Z:Neutral
+S	C204	GGG	RC:i:38	pp:f:0.6954	oc:f:0.5278	om:f:0.7747	aa:Z:A/G/K/P/R/S/W	sel:Z:Neutral
+S	C205	CGG	RC:i:32	pp:f:0.6879	oc:f:0.4444	om:f:1.6818	aa:Z:A/E/H/N/P/Q/R/W	sel:Z:Neutral
+S	C206	AGC	RC:i:41	pp:f:0.6541	oc:f:0.5694	om:f:0.3215	aa:Z:A/G/I/R/S/T/W	sel:Z:Neutral
+S	C207	GCA	RC:i:25	pp:f:0.6890	oc:f:0.3472	om:f:1.0741	aa:Z:A/C/E/G/I/P/Q/R/T/V	sel:Z:Neutral
+S	C208	GGG	RC:i:26	pp:f:0.6933	oc:f:0.3611	om:f:0.3855	aa:Z:C/G/R/S/W	sel:Z:Neutral
+S	C209	CCA	RC:i:23	pp:f:0.7075	oc:f:0.3194	om:f:0.9010	aa:Z:A/G/H/P/R/T	sel:Z:Neutral
+S	C210	CCC	RC:i:10	pp:f:0.7099	oc:f:0.1389	om:f:0.7789	aa:Z:A/E/G/P	sel:Z:Neutral
+S	C211	ACT	RC:i:6	pp:f:0.7104	oc:f:0.0833	om:f:0.3052	aa:Z:A/I/T	sel:Z:Neutral
+S	C212	GAG	RC:i:9	pp:f:0.7062	oc:f:0.1250	om:f:0.3006	aa:Z:E/G/Q	sel:Z:Neutral
+S	C213	CAC	RC:i:15	pp:f:0.5130	oc:f:0.2083	om:f:4767.6120	aa:Z:H/Q/R	sel:Z:Neutral
+S	C214	CAG	RC:i:4	pp:f:0.5430	oc:f:0.0556	om:f:1589.6263	aa:Z:E/Q	sel:Z:Neutral
+S	C215	GAA	RC:i:3	pp:f:0.5552	oc:f:0.0417	om:f:1.0000	aa:Z:E	sel:Z:Neutral
+S	C216	CAC	RC:i:4	pp:f:0.5458	oc:f:0.0556	om:f:11417.6836	aa:Z:H/Y	sel:Z:Neutral
+S	C217	AGT	RC:i:7	pp:f:0.5376	oc:f:0.0972	om:f:0.3055	aa:Z:G/R/S/V	sel:Z:Neutral
+S	C218	TGT	RC:i:9	pp:f:0.5468	oc:f:0.1250	om:f:0.7205	aa:Z:C/S/Y	sel:Z:Neutral
+S	C219	AGC	RC:i:7	pp:f:0.5545	oc:f:0.0972	om:f:0.9329	aa:Z:A/G/P/S/T	sel:Z:Neutral
+S	C220	ACC	RC:i:5	pp:f:0.5488	oc:f:0.0694	om:f:0.1958	aa:Z:L/T	sel:Z:Neutral
+S	C221	CTC	RC:i:7	pp:f:0.5328	oc:f:0.0972	om:f:18367.0853	aa:Z:L/P/R	sel:Z:Neutral
+S	C222	TGT	RC:i:3	pp:f:0.4761	oc:f:0.0417	om:f:1.0000	aa:Z:C	sel:Z:Neutral
+S	C223	AGC	RC:i:3	pp:f:0.4859	oc:f:0.0417	om:f:1.0000	aa:Z:S	sel:Z:Neutral
+S	C224	ACC	RC:i:6	pp:f:0.4810	oc:f:0.0833	om:f:1.0000	aa:Z:T	sel:Z:Neutral
+S	C225	AGT	RC:i:3	pp:f:0.4828	oc:f:0.0417	om:f:142856.9666	aa:Z:L/S	sel:Z:Neutral
+S	C226	CTG	RC:i:3	pp:f:0.4789	oc:f:0.0417	om:f:1.0000	aa:Z:L	sel:Z:Neutral
+S	C227	CAC	RC:i:6	pp:f:0.4665	oc:f:0.0833	om:f:23040.9282	aa:Z:C/H/L	sel:Z:Neutral
+S	C228	CCA	RC:i:23	pp:f:0.4057	oc:f:0.3194	om:f:0.3043	aa:Z:L/P/Q/R/S	sel:Z:Neutral
+S	C229	CCC	RC:i:12	pp:f:0.4640	oc:f:0.1667	om:f:1.4678	aa:Z:A/H/P/S	sel:Z:Neutral
+S	C230	GGT	RC:i:8	pp:f:0.4629	oc:f:0.1111	om:f:23533.2031	aa:Z:E/G/P/Q/R	sel:Z:Neutral
+S	C231	GAG	RC:i:10	pp:f:0.4374	oc:f:0.1389	om:f:0.1589	aa:Z:D/E/G/H/V	sel:Z:Neutral
+S	C232	CTG	RC:i:8	pp:f:0.4447	oc:f:0.1111	om:f:284.8032	aa:Z:I/L	sel:Z:Neutral
+S	C233	GGG	RC:i:9	pp:f:0.4243	oc:f:0.1250	om:f:6.5087	aa:Z:A/G/H/R/T	sel:Z:Neutral
+S	C234	GGA	RC:i:20	pp:f:0.4269	oc:f:0.2778	om:f:1.4783	aa:Z:E/G/R/S/V	sel:Z:Neutral
+S	C235	GGG	RC:i:18	pp:f:0.4050	oc:f:0.2500	om:f:0.3862	aa:Z:G/I/R/S/T	sel:Z:Neutral
+S	C236	CAG	RC:i:20	pp:f:0.4073	oc:f:0.2778	om:f:1.1609	aa:Z:A/E/G/I/K/Q/R/V/W	sel:Z:Neutral
+S	C237	TGC	RC:i:26	pp:f:0.3976	oc:f:0.3611	om:f:0.5728	aa:Z:C/D/E/H/N/Q/R/S/W	sel:Z:Neutral
+S	C238	CAG	RC:i:11	pp:f:0.4125	oc:f:0.1528	om:f:0.1857	aa:Z:E/H/K/P/Q	sel:Z:Neutral
+S	C239	GGA	RC:i:6	pp:f:0.4125	oc:f:0.0833	om:f:0.6575	aa:Z:G/M	sel:Z:Neutral
+S	C240	GTG	RC:i:10	pp:f:0.4007	oc:f:0.1389	om:f:0.3458	aa:Z:L/P/Q/V/W	sel:Z:Neutral
+S	C241	GTA	RC:i:7	pp:f:0.3944	oc:f:0.0972	om:f:2.0359	aa:Z:F/K/Q/V	sel:Z:Neutral
+L	C1	+	C2	+	0M	ew:f:0.0385	sk:Z:colinear
+L	C1	+	C5	+	0M	ew:f:0.0289	sk:Z:bubble_indel
+L	C2	+	C3	+	0M	ew:f:0.0273	sk:Z:colinear
+L	C2	+	C9	+	0M	ew:f:0.0101	sk:Z:bubble_indel
+L	C3	+	C4	+	0M	ew:f:0.0212	sk:Z:colinear
+L	C4	+	C5	+	0M	ew:f:0.0172	sk:Z:colinear
+L	C5	+	C6	+	0M	ew:f:0.0455	sk:Z:colinear
+L	C6	+	C7	+	0M	ew:f:0.0188	sk:Z:colinear
+L	C6	+	C22	+	0M	ew:f:0.0276	sk:Z:bubble_indel
+L	C7	+	C8	+	0M	ew:f:0.0231	sk:Z:colinear
+L	C8	+	C9	+	0M	ew:f:0.0289	sk:Z:colinear
+L	C9	+	C10	+	0M	ew:f:0.0396	sk:Z:colinear
+L	C10	+	C11	+	0M	ew:f:0.0412	sk:Z:colinear
+L	C11	+	C12	+	0M	ew:f:0.0402	sk:Z:colinear
+L	C12	+	C13	+	0M	ew:f:0.0401	sk:Z:colinear
+L	C13	+	C14	+	0M	ew:f:0.0400	sk:Z:colinear
+L	C14	+	C15	+	0M	ew:f:0.0398	sk:Z:colinear
+L	C15	+	C16	+	0M	ew:f:0.0406	sk:Z:colinear
+L	C16	+	C17	+	0M	ew:f:0.0408	sk:Z:colinear
+L	C17	+	C18	+	0M	ew:f:0.0409	sk:Z:colinear
+L	C18	+	C19	+	0M	ew:f:0.0417	sk:Z:colinear
+L	C19	+	C20	+	0M	ew:f:0.0556	sk:Z:colinear
+L	C19	+	C40	+	0M	ew:f:0.0138	sk:Z:bubble_indel
+L	C20	+	C21	+	0M	ew:f:0.0556	sk:Z:colinear
+L	C21	+	C22	+	0M	ew:f:0.0556	sk:Z:colinear
+L	C22	+	C23	+	0M	ew:f:0.0556	sk:Z:colinear
+L	C22	+	C43	+	0M	ew:f:0.0277	sk:Z:bubble_indel
+L	C23	+	C24	+	0M	ew:f:0.0556	sk:Z:colinear
+L	C24	+	C25	+	0M	ew:f:0.0482	sk:Z:colinear
+L	C25	+	C26	+	0M	ew:f:0.0482	sk:Z:colinear
+L	C26	+	C27	+	0M	ew:f:0.0426	sk:Z:colinear
+L	C27	+	C28	+	0M	ew:f:0.0498	sk:Z:colinear
+L	C28	+	C29	+	0M	ew:f:0.0495	sk:Z:colinear
+L	C29	+	C30	+	0M	ew:f:0.0550	sk:Z:colinear
+L	C30	+	C31	+	0M	ew:f:0.0549	sk:Z:colinear
+L	C31	+	C32	+	0M	ew:f:0.0549	sk:Z:colinear
+L	C32	+	C33	+	0M	ew:f:0.0547	sk:Z:colinear
+L	C33	+	C34	+	0M	ew:f:0.0551	sk:Z:colinear
+L	C34	+	C35	+	0M	ew:f:0.0422	sk:Z:colinear
+L	C34	+	C40	+	0M	ew:f:0.0139	sk:Z:bubble_indel
+L	C35	+	C36	+	0M	ew:f:0.0423	sk:Z:colinear
+L	C36	+	C37	+	0M	ew:f:0.0185	sk:Z:colinear
+L	C36	+	C38	+	0M	ew:f:0.0190	sk:Z:bubble_indel
+L	C37	+	C38	+	0M	ew:f:0.0220	sk:Z:colinear
+L	C37	+	C40	+	0M	ew:f:0.0960	sk:Z:bubble_indel
+L	C38	+	C39	+	0M	ew:f:0.1292	sk:Z:colinear
+L	C38	+	C40	+	0M	ew:f:0.6001	sk:Z:bubble_indel
+L	C39	+	C40	+	0M	ew:f:0.1010	sk:Z:colinear
+L	C39	+	C41	+	0M	ew:f:0.0748	sk:Z:bubble_indel
+L	C39	+	C42	+	0M	ew:f:0.0240	sk:Z:bubble_indel
+L	C40	+	C41	+	0M	ew:f:0.8232	sk:Z:colinear
+L	C41	+	C42	+	0M	ew:f:0.9020	sk:Z:colinear
+L	C42	+	C43	+	0M	ew:f:0.9279	sk:Z:colinear
+L	C43	+	C44	+	0M	ew:f:0.9580	sk:Z:colinear
+L	C44	+	C45	+	0M	ew:f:0.9583	sk:Z:colinear
+L	C45	+	C46	+	0M	ew:f:0.9583	sk:Z:colinear
+L	C46	+	C47	+	0M	ew:f:0.9583	sk:Z:colinear
+L	C47	+	C48	+	0M	ew:f:0.9957	sk:Z:colinear
+L	C48	+	C49	+	0M	ew:f:0.9529	sk:Z:colinear
+L	C48	+	C50	+	0M	ew:f:0.0470	sk:Z:bubble_indel
+L	C49	+	C50	+	0M	ew:f:0.9305	sk:Z:colinear
+L	C49	+	C51	+	0M	ew:f:0.0224	sk:Z:bubble_indel
+L	C50	+	C51	+	0M	ew:f:0.9220	sk:Z:colinear
+L	C50	+	C52	+	0M	ew:f:0.0556	sk:Z:bubble_indel
+L	C51	+	C52	+	0M	ew:f:0.9444	sk:Z:colinear
+L	C52	+	C53	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C53	+	C54	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C54	+	C55	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C55	+	C56	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C56	+	C57	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C57	+	C58	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C58	+	C59	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C59	+	C60	+	0M	ew:f:0.9993	sk:Z:colinear
+L	C60	+	C61	+	0M	ew:f:0.9825	sk:Z:colinear
+L	C60	+	C63	+	0M	ew:f:0.0168	sk:Z:bubble_indel
+L	C61	+	C62	+	0M	ew:f:0.9773	sk:Z:colinear
+L	C62	+	C63	+	0M	ew:f:0.9729	sk:Z:colinear
+L	C63	+	C64	+	0M	ew:f:0.9897	sk:Z:colinear
+L	C64	+	C65	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C65	+	C66	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C66	+	C67	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C67	+	C68	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C68	+	C69	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C69	+	C70	+	0M	ew:f:0.9997	sk:Z:colinear
+L	C70	+	C71	+	0M	ew:f:0.9932	sk:Z:colinear
+L	C71	+	C72	+	0M	ew:f:0.8658	sk:Z:colinear
+L	C71	+	C73	+	0M	ew:f:0.1276	sk:Z:bubble_indel
+L	C72	+	C73	+	0M	ew:f:0.7822	sk:Z:colinear
+L	C72	+	C74	+	0M	ew:f:0.0901	sk:Z:bubble_indel
+L	C73	+	C74	+	0M	ew:f:0.1946	sk:Z:colinear
+L	C73	+	C75	+	0M	ew:f:0.7153	sk:Z:bubble_indel
+L	C74	+	C75	+	0M	ew:f:0.2426	sk:Z:colinear
+L	C74	+	C76	+	0M	ew:f:0.0421	sk:Z:bubble_indel
+L	C75	+	C76	+	0M	ew:f:0.9537	sk:Z:colinear
+L	C76	+	C77	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C77	+	C78	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C78	+	C79	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C79	+	C80	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C80	+	C81	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C81	+	C82	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C82	+	C83	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C83	+	C84	+	0M	ew:f:0.9999	sk:Z:colinear
+L	C84	+	C85	+	0M	ew:f:0.8548	sk:Z:colinear
+L	C84	+	C86	+	0M	ew:f:0.1449	sk:Z:bubble_indel
+L	C85	+	C86	+	0M	ew:f:0.6668	sk:Z:colinear
+L	C85	+	C87	+	0M	ew:f:0.1870	sk:Z:bubble_indel
+L	C86	+	C87	+	0M	ew:f:0.7968	sk:Z:colinear
+L	C86	+	C88	+	0M	ew:f:0.0135	sk:Z:bubble_indel
+L	C87	+	C88	+	0M	ew:f:0.9644	sk:Z:colinear
+L	C88	+	C89	+	0M	ew:f:0.5743	sk:Z:colinear
+L	C88	+	C90	+	0M	ew:f:0.1144	sk:Z:bubble_indel
+L	C88	+	C91	+	0M	ew:f:0.2882	sk:Z:bubble_indel
+L	C89	+	C90	+	0M	ew:f:0.3025	sk:Z:colinear
+L	C89	+	C91	+	0M	ew:f:0.0106	sk:Z:bubble_indel
+L	C89	+	C92	+	0M	ew:f:0.2705	sk:Z:bubble_indel
+L	C90	+	C91	+	0M	ew:f:0.3431	sk:Z:colinear
+L	C90	+	C93	+	0M	ew:f:0.0735	sk:Z:bubble_indel
+L	C91	+	C92	+	0M	ew:f:0.4565	sk:Z:colinear
+L	C91	+	C94	+	0M	ew:f:0.1884	sk:Z:bubble_indel
+L	C92	+	C93	+	0M	ew:f:0.7276	sk:Z:colinear
+L	C93	+	C94	+	0M	ew:f:0.7867	sk:Z:colinear
+L	C94	+	C95	+	0M	ew:f:0.9755	sk:Z:colinear
+L	C95	+	C96	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C96	+	C97	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C97	+	C98	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C98	+	C99	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C99	+	C100	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C100	+	C101	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C101	+	C102	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C102	+	C103	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C103	+	C104	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C104	+	C105	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C105	+	C106	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C106	+	C107	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C107	+	C108	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C108	+	C109	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C109	+	C110	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C110	+	C111	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C111	+	C112	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C112	+	C113	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C113	+	C114	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C114	+	C115	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C115	+	C116	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C116	+	C117	+	0M	ew:f:0.9992	sk:Z:colinear
+L	C117	+	C118	+	0M	ew:f:0.9775	sk:Z:colinear
+L	C117	+	C119	+	0M	ew:f:0.0217	sk:Z:bubble_indel
+L	C118	+	C119	+	0M	ew:f:0.9473	sk:Z:colinear
+L	C118	+	C120	+	0M	ew:f:0.0310	sk:Z:bubble_indel
+L	C119	+	C120	+	0M	ew:f:0.9623	sk:Z:colinear
+L	C120	+	C121	+	0M	ew:f:0.9115	sk:Z:colinear
+L	C120	+	C122	+	0M	ew:f:0.0818	sk:Z:bubble_indel
+L	C121	+	C122	+	0M	ew:f:0.9076	sk:Z:colinear
+L	C121	+	C123	+	0M	ew:f:0.0106	sk:Z:bubble_indel
+L	C122	+	C123	+	0M	ew:f:0.9892	sk:Z:colinear
+L	C123	+	C124	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C124	+	C125	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C125	+	C126	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C126	+	C127	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C127	+	C128	+	0M	ew:f:0.9980	sk:Z:colinear
+L	C128	+	C129	+	0M	ew:f:0.9971	sk:Z:colinear
+L	C129	+	C130	+	0M	ew:f:0.9931	sk:Z:colinear
+L	C130	+	C131	+	0M	ew:f:0.9865	sk:Z:colinear
+L	C131	+	C132	+	0M	ew:f:0.9845	sk:Z:colinear
+L	C132	+	C133	+	0M	ew:f:0.9893	sk:Z:colinear
+L	C133	+	C134	+	0M	ew:f:0.9965	sk:Z:colinear
+L	C134	+	C135	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C135	+	C136	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C136	+	C137	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C137	+	C138	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C138	+	C139	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C139	+	C140	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C140	+	C141	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C141	+	C142	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C142	+	C143	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C143	+	C144	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C144	+	C145	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C145	+	C146	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C146	+	C147	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C147	+	C148	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C148	+	C149	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C149	+	C150	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C150	+	C151	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C151	+	C152	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C152	+	C153	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C153	+	C154	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C154	+	C155	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C155	+	C156	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C156	+	C157	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C157	+	C158	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C158	+	C159	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C159	+	C160	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C160	+	C161	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C161	+	C162	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C162	+	C163	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C163	+	C164	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C164	+	C165	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C165	+	C166	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C166	+	C167	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C167	+	C168	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C168	+	C169	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C169	+	C170	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C170	+	C171	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C171	+	C172	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C172	+	C173	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C173	+	C174	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C174	+	C175	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C175	+	C176	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C176	+	C177	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C177	+	C178	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C178	+	C179	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C179	+	C180	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C180	+	C181	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C181	+	C182	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C182	+	C183	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C183	+	C184	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C184	+	C185	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C185	+	C186	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C186	+	C187	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C187	+	C188	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C188	+	C189	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C189	+	C190	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C190	+	C191	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C191	+	C192	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C192	+	C193	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C193	+	C194	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C194	+	C195	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C195	+	C196	+	0M	ew:f:1.0000	sk:Z:colinear
+L	C196	+	C197	+	0M	ew:f:0.9521	sk:Z:colinear
+L	C196	+	C198	+	0M	ew:f:0.0342	sk:Z:bubble_indel
+L	C196	+	C203	+	0M	ew:f:0.0134	sk:Z:bubble_indel
+L	C197	+	C198	+	0M	ew:f:0.8945	sk:Z:colinear
+L	C198	+	C199	+	0M	ew:f:0.8120	sk:Z:colinear
+L	C198	+	C203	+	0M	ew:f:0.0278	sk:Z:bubble_indel
+L	C198	+	C204	+	0M	ew:f:0.0139	sk:Z:bubble_indel
+L	C198	+	C236	+	0M	ew:f:0.0115	sk:Z:bubble_indel
+L	C199	+	C200	+	0M	ew:f:0.6821	sk:Z:colinear
+L	C199	+	C201	+	0M	ew:f:0.0417	sk:Z:bubble_indel
+L	C199	+	C203	+	0M	ew:f:0.0606	sk:Z:bubble_indel
+L	C199	+	C204	+	0M	ew:f:0.0132	sk:Z:bubble_indel
+L	C200	+	C201	+	0M	ew:f:0.6359	sk:Z:colinear
+L	C200	+	C203	+	0M	ew:f:0.0195	sk:Z:bubble_indel
+L	C200	+	C228	+	0M	ew:f:0.0118	sk:Z:bubble_indel
+L	C201	+	C202	+	0M	ew:f:0.4960	sk:Z:colinear
+L	C201	+	C205	+	0M	ew:f:0.0279	sk:Z:bubble_indel
+L	C201	+	C207	+	0M	ew:f:0.0298	sk:Z:bubble_indel
+L	C201	+	C209	+	0M	ew:f:0.0243	sk:Z:bubble_indel
+L	C201	+	C228	+	0M	ew:f:0.0962	sk:Z:bubble_indel
+L	C202	+	C203	+	0M	ew:f:0.3944	sk:Z:colinear
+L	C202	+	C204	+	0M	ew:f:0.0301	sk:Z:bubble_indel
+L	C202	+	C206	+	0M	ew:f:0.0565	sk:Z:bubble_indel
+L	C203	+	C204	+	0M	ew:f:0.4688	sk:Z:colinear
+L	C203	+	C212	+	0M	ew:f:0.0240	sk:Z:bubble_indel
+L	C203	+	C217	+	0M	ew:f:0.0107	sk:Z:bubble_indel
+L	C204	+	C205	+	0M	ew:f:0.4326	sk:Z:colinear
+L	C204	+	C206	+	0M	ew:f:0.0275	sk:Z:bubble_indel
+L	C204	+	C211	+	0M	ew:f:0.0104	sk:Z:bubble_indel
+L	C204	+	C212	+	0M	ew:f:0.0137	sk:Z:bubble_indel
+L	C205	+	C206	+	0M	ew:f:0.4460	sk:Z:colinear
+L	C206	+	C207	+	0M	ew:f:0.3072	sk:Z:colinear
+L	C206	+	C208	+	0M	ew:f:0.0690	sk:Z:bubble_indel
+L	C206	+	C230	+	0M	ew:f:0.0139	sk:Z:bubble_indel
+L	C207	+	C208	+	0M	ew:f:0.3020	sk:Z:colinear
+L	C207	+	C209	+	0M	ew:f:0.0138	sk:Z:bubble_indel
+L	C207	+	C228	+	0M	ew:f:0.0213	sk:Z:bubble_indel
+L	C207	+	C237	+	0M	ew:f:0.0113	sk:Z:bubble_indel
+L	C208	+	C209	+	0M	ew:f:0.2763	sk:Z:colinear
+L	C208	+	C218	+	0M	ew:f:0.0390	sk:Z:bubble_indel
+L	C208	+	C228	+	0M	ew:f:0.0276	sk:Z:bubble_indel
+L	C209	+	C210	+	0M	ew:f:0.1554	sk:Z:colinear
+L	C209	+	C213	+	0M	ew:f:0.0672	sk:Z:bubble_indel
+L	C209	+	C228	+	0M	ew:f:0.0278	sk:Z:bubble_indel
+L	C209	+	C234	+	0M	ew:f:0.0694	sk:Z:bubble_indel
+L	C210	+	C211	+	0M	ew:f:0.0808	sk:Z:colinear
+L	C210	+	C213	+	0M	ew:f:0.0203	sk:Z:bubble_indel
+L	C210	+	C217	+	0M	ew:f:0.0278	sk:Z:bubble_indel
+L	C210	+	C224	+	0M	ew:f:0.0138	sk:Z:bubble_indel
+L	C210	+	C228	+	0M	ew:f:0.0137	sk:Z:bubble_indel
+L	C211	+	C212	+	0M	ew:f:0.0968	sk:Z:colinear
+L	C212	+	C213	+	0M	ew:f:0.1211	sk:Z:colinear
+L	C213	+	C214	+	0M	ew:f:0.0569	sk:Z:colinear
+L	C213	+	C221	+	0M	ew:f:0.0145	sk:Z:bubble_indel
+L	C213	+	C223	+	0M	ew:f:0.0101	sk:Z:bubble_indel
+L	C214	+	C215	+	0M	ew:f:0.0435	sk:Z:colinear
+L	C215	+	C216	+	0M	ew:f:0.0428	sk:Z:colinear
+L	C216	+	C217	+	0M	ew:f:0.0487	sk:Z:colinear
+L	C217	+	C218	+	0M	ew:f:0.0801	sk:Z:colinear
+L	C218	+	C219	+	0M	ew:f:0.0972	sk:Z:colinear
+L	C219	+	C220	+	0M	ew:f:0.0694	sk:Z:colinear
+L	C220	+	C221	+	0M	ew:f:0.0694	sk:Z:colinear
+L	C221	+	C222	+	0M	ew:f:0.0680	sk:Z:colinear
+L	C221	+	C224	+	0M	ew:f:0.0145	sk:Z:bubble_indel
+L	C222	+	C223	+	0M	ew:f:0.0417	sk:Z:colinear
+L	C223	+	C224	+	0M	ew:f:0.0518	sk:Z:colinear
+L	C224	+	C225	+	0M	ew:f:0.0417	sk:Z:colinear
+L	C224	+	C231	+	0M	ew:f:0.0278	sk:Z:bubble_indel
+L	C225	+	C226	+	0M	ew:f:0.0417	sk:Z:colinear
+L	C226	+	C227	+	0M	ew:f:0.0438	sk:Z:colinear
+L	C227	+	C228	+	0M	ew:f:0.0693	sk:Z:colinear
+L	C228	+	C229	+	0M	ew:f:0.1518	sk:Z:colinear
+L	C228	+	C234	+	0M	ew:f:0.1034	sk:Z:bubble_indel
+L	C228	+	C239	+	0M	ew:f:0.0126	sk:Z:bubble_indel
+L	C228	+	C241	+	0M	ew:f:0.0137	sk:Z:bubble_indel
+L	C229	+	C230	+	0M	ew:f:0.1054	sk:Z:colinear
+L	C229	+	C233	+	0M	ew:f:0.0278	sk:Z:bubble_indel
+L	C229	+	C235	+	0M	ew:f:0.0134	sk:Z:bubble_indel
+L	C229	+	C237	+	0M	ew:f:0.0275	sk:Z:bubble_indel
+L	C230	+	C231	+	0M	ew:f:0.1092	sk:Z:colinear
+L	C231	+	C232	+	0M	ew:f:0.1094	sk:Z:colinear
+L	C231	+	C237	+	0M	ew:f:0.0275	sk:Z:bubble_indel
+L	C232	+	C233	+	0M	ew:f:0.0921	sk:Z:colinear
+L	C233	+	C234	+	0M	ew:f:0.1000	sk:Z:colinear
+L	C234	+	C235	+	0M	ew:f:0.2410	sk:Z:colinear
+L	C234	+	C236	+	0M	ew:f:0.0291	sk:Z:bubble_indel
+L	C235	+	C236	+	0M	ew:f:0.2135	sk:Z:colinear
+L	C235	+	C237	+	0M	ew:f:0.0126	sk:Z:bubble_indel
+L	C236	+	C237	+	0M	ew:f:0.2462	sk:Z:colinear
+L	C237	+	C238	+	0M	ew:f:0.1503	sk:Z:colinear
+L	C238	+	C239	+	0M	ew:f:0.0786	sk:Z:colinear
+L	C238	+	C240	+	0M	ew:f:0.0278	sk:Z:bubble_indel
+L	C239	+	C240	+	0M	ew:f:0.0924	sk:Z:colinear
+L	C240	+	C241	+	0M	ew:f:0.0882	sk:Z:colinear
+P	Homo_sapiens	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+	*
+P	Chrysochloris_asiatica	C1+,C2+,C9+,C10+,C11+,C12+,C13+,C14+,C15+,C16+,C17+,C18+,C19+,C20+,C21+,C22+,C23+,C24+,C27+,C28+,C29+,C30+,C31+,C32+,C33+,C34+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C73+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+	*
+P	Echinops_telfairi	C1+,C2+,C3+,C4+,C5+,C6+,C7+,C8+,C9+,C10+,C11+,C12+,C13+,C14+,C15+,C16+,C17+,C18+,C19+,C20+,C21+,C22+,C23+,C24+,C25+,C26+,C27+,C28+,C29+,C30+,C31+,C32+,C33+,C34+,C35+,C36+,C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C73+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C202+,C204+,C205+,C206+,C207+,C208+,C209+,C210+,C217+,C218+,C219+,C220+,C221+,C228+,C234+,C235+,C236+,C237+,C238+,C240+	*
+P	Tenrec_ecaudatus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C73+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C204+,C205+,C206+,C207+,C209+,C210+,C217+,C218+,C219+,C220+,C221+,C228+,C234+,C235+,C236+,C237+,C238+,C240+	*
+P	Camelus_ferus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C86+,C87+,C88+,C90+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C206+	*
+P	Hippopotamus_amphibius	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C86+,C87+,C88+,C90+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C210+,C224+	*
+P	Phacochoerus_africanus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C204+,C212+,C213+,C221+,C224+,C231+,C237+	*
+P	Sus_scrofa	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C204+,C212+,C213+,C221+,C224+,C231+,C237+	*
+P	Vicugna_pacos	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C86+,C87+,C88+,C90+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C206+	*
+P	Nyctereutes_procyonoides	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C234+,C235+,C236+,C237+	*
+P	Odobenus_rosmarus	C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C234+,C235+,C236+,C237+	*
+P	Phoca_vitulina	C38+,C39+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C234+,C235+,C236+,C237+	*
+P	Vulpes_vulpes	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C234+,C235+,C236+,C237+	*
+P	Zalophus_californianus	C38+,C39+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C234+,C235+,C236+,C237+	*
+P	Balaenoptera_acutorostrata	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C86+,C87+,C88+,C90+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C210+,C227+	*
+P	Eschrichtius_robustus	C38+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C86+,C87+,C88+,C90+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C210+,C211+,C212+,C213+,C214+,C215+,C216+,C217+,C218+,C219+,C220+,C221+,C222+,C223+,C224+,C225+,C226+,C227+,C228+,C229+,C230+,C231+,C232+,C233+,C234+,C235+,C236+,C237+,C238+,C239+,C240+,C241+	*
+P	Eubalaena_glacialis	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C86+,C87+,C88+,C90+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C210+,C211+,C212+,C213+,C214+,C215+,C216+,C217+,C218+,C219+,C220+,C221+,C222+,C223+,C224+,C225+,C226+,C227+,C228+,C229+,C230+,C231+,C232+,C233+,C234+,C235+,C236+,C237+,C238+,C239+,C240+,C241+	*
+P	Kogia_breviceps	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C86+,C87+,C88+,C90+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C210+,C211+,C212+,C213+,C214+,C215+,C216+,C217+,C218+,C219+,C220+,C221+,C222+,C223+,C224+,C225+,C226+,C227+,C228+,C229+,C230+,C231+,C232+,C233+,C234+,C235+,C236+,C237+,C238+,C239+,C240+,C241+	*
+P	Neophocaena_asiaeorientalis	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C86+,C87+,C88+,C90+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C210+,C213+	*
+P	Artibeus_jamaicensis	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C228+,C234+,C236+,C237+,C238+	*
+P	Desmodus_rotundus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C228+,C234+,C236+,C237+,C238+	*
+P	Eptesicus_fuscus	C38+,C39+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C228+,C234+,C235+,C236+,C237+	*
+P	Rhinolophus_sinicus	C38+,C39+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C228+,C234+,C235+,C236+,C237+	*
+P	Rousettus_aegyptiacus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C227+,C228+,C239+,C240+,C241+	*
+P	Sturnira_hondurensis	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C228+,C234+,C236+,C237+,C238+	*
+P	Dasypus_novemcinctus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C206+,C230+,C231+,C232+,C233+	*
+P	Condylura_cristata	C38+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C204+,C205+,C206+,C207+,C228+,C229+,C230+,C231+,C232+,C240+,C241+	*
+P	Erinaceus_europaeus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C90+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C236+,C237+,C238+,C239+,C240+	*
+P	Sorex_fumeus	C38+,C40+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+	*
+P	Suncus_etruscus	C38+,C40+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C73+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C201+,C202+,C203+,C204+,C205+,C206+,C207+,C237+,C238+,C239+,C240+	*
+P	Talpa_occidentalis	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C86+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C204+,C206+,C207+,C228+	*
+P	Lepus_europaeus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C209+,C228+,C229+,C237+	*
+P	Ochotona_curzoniae	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C73+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C209+,C216+,C217+,C227+,C228+,C241+	*
+P	Oryctolagus_cuniculus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C209+,C228+,C229+,C237+	*
+P	Sylvilagus_bachmani	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+	*
+P	Sylvilagus_floridanus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+	*
+P	Aethalodelphis_obliquidens	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C86+,C87+,C88+,C90+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C210+,C211+,C212+,C213+	*
+P	Macrotis_lagotis	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C73+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+	*
+P	Orycteropus_afer	C1+,C2+,C3+,C7+,C8+,C9+,C10+,C11+,C12+,C13+,C14+,C15+,C16+,C17+,C18+,C19+,C20+,C21+,C22+,C23+,C24+,C25+,C26+,C27+,C28+,C29+,C30+,C31+,C32+,C33+,C34+,C35+,C36+,C37+,C38+,C39+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C73+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C212+,C213+	*
+P	Diceros_bicornis	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C206+,C208+,C209+,C213+	*
+P	Equus_asinus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C206+,C208+,C209+,C213+	*
+P	Equus_caballus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C206+,C208+,C209+,C213+	*
+P	Equus_przewalskii	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C206+,C208+,C209+,C213+	*
+P	Equus_quagga	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C206+,C208+,C209+,C213+	*
+P	Manis_javanica	C19+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C201+,C207+,C208+	*
+P	Manis_pentadactyla	C19+,C20+,C21+,C22+,C23+,C24+,C25+,C26+,C27+,C28+,C29+,C30+,C31+,C32+,C33+,C34+,C35+,C36+,C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C201+,C207+,C208+	*
+P	Choloepus_didactylus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C203+,C204+,C205+,C206+,C207+,C208+,C209+,C210+,C228+,C229+,C235+,C236+,C237+,C238+	*
+P	Tamandua_tetradactyla	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C228+,C229+,C230+,C231+,C232+,C233+	*
+P	Macaca_mulatta	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+	*
+P	Nomascus_leucogenys	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+	*
+P	Otolemur_garnettii	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C211+,C212+,C213+,C214+,C228+,C229+,C230+,C231+,C232+,C233+,C234+,C235+,C236+,C237+	*
+P	Pan_troglodytes	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+	*
+P	Papio_anubis	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+	*
+P	Piliocolobus_tephrosceles	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+	*
+P	Pongo_pygmaeus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+	*
+P	Propithecus_coquereli	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C204+,C205+,C206+,C207+,C208+,C228+,C229+,C230+,C231+,C232+,C233+,C234+,C235+,C236+,C237+,C240+,C241+	*
+P	Rhinopithecus_roxellana	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+	*
+P	Saimiri_boliviensis	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+,C207+,C208+,C228+,C229+,C233+,C234+,C235+	*
+P	Sapajus_apella	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C228+,C229+,C233+,C234+,C235+	*
+P	Symphalangus_syndactylus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+	*
+P	Trachypithecus_francoisi	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C205+,C206+	*
+P	Elephas_maximus	C1+,C5+,C6+,C22+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C73+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+	*
+P	Loxodonta_africana	C1+,C5+,C6+,C22+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C73+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+	*
+P	Cricetulus_griseus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C198+,C199+,C200+,C201+,C205+,C206+,C207+,C208+,C218+,C219+	*
+P	Dipodomys_spectabilis	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C91+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C204+,C211+,C212+,C213+,C237+	*
+P	Nannospalax_galili	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C205+,C206+,C207+,C208+,C218+	*
+P	Peromyscus_maniculatus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C198+,C199+,C200+,C201+,C205+,C206+,C207+,C208+,C218+,C219+	*
+P	Sciurus_vulgaris	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C228+,C234+,C235+,C236+,C237+	*
+P	Tupaia_belangeri	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+	*
+P	Tupaia_chinensis	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+	*
+P	Tupaia_tana	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C72+,C73+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C86+,C87+,C88+,C89+,C92+,C93+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C121+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+	*
+P	Trichechus_manatus	C38+,C40+,C41+,C42+,C43+,C44+,C45+,C46+,C47+,C48+,C49+,C50+,C51+,C52+,C53+,C54+,C55+,C56+,C57+,C58+,C59+,C60+,C61+,C62+,C63+,C64+,C65+,C66+,C67+,C68+,C69+,C70+,C71+,C73+,C74+,C75+,C76+,C77+,C78+,C79+,C80+,C81+,C82+,C83+,C84+,C85+,C87+,C88+,C89+,C90+,C91+,C94+,C95+,C96+,C97+,C98+,C99+,C100+,C101+,C102+,C103+,C104+,C105+,C106+,C107+,C108+,C109+,C110+,C111+,C112+,C113+,C114+,C115+,C116+,C117+,C118+,C119+,C120+,C122+,C123+,C124+,C125+,C126+,C127+,C128+,C129+,C130+,C131+,C132+,C133+,C134+,C135+,C136+,C137+,C138+,C139+,C140+,C141+,C142+,C143+,C144+,C145+,C146+,C147+,C148+,C149+,C150+,C151+,C152+,C153+,C154+,C155+,C156+,C157+,C158+,C159+,C160+,C161+,C162+,C163+,C164+,C165+,C166+,C167+,C168+,C169+,C170+,C171+,C172+,C173+,C174+,C175+,C176+,C177+,C178+,C179+,C180+,C181+,C182+,C183+,C184+,C185+,C186+,C187+,C188+,C189+,C190+,C191+,C192+,C193+,C194+,C195+,C196+,C197+,C198+,C199+,C200+,C201+,C202+,C203+,C217+,C218+	*

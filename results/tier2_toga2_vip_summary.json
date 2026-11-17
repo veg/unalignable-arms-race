@@ -1,0 +1,76 @@
+{
+  "n_total": 7045,
+  "groups": {
+    "Hijacked_Host_Hubs": {
+      "n": 179,
+      "median_taxa": 839,
+      "median_codons": 268,
+      "busted_pct": 39.11,
+      "mean_episodic_site_pct": 6.09,
+      "mean_toggle_conv_site_pct": 28.34,
+      "mean_gap_codons_per_site": 6.73,
+      "mean_indel_events_per_100_codons": 118.28
+    },
+    "Proteome_Background": {
+      "n": 6817,
+      "median_taxa": 819,
+      "median_codons": 260,
+      "busted_pct": 57.28,
+      "mean_episodic_site_pct": 7.59,
+      "mean_toggle_conv_site_pct": 37.72,
+      "mean_gap_codons_per_site": 9.73,
+      "mean_indel_events_per_100_codons": 164.83
+    },
+    "Antiviral_Sensors_Effectors": {
+      "n": 49,
+      "median_taxa": 441,
+      "median_codons": 215,
+      "busted_pct": 69.39,
+      "mean_episodic_site_pct": 12.55,
+      "mean_toggle_conv_site_pct": 36.2,
+      "mean_gap_codons_per_site": 15.02,
+      "mean_indel_events_per_100_codons": 185.86
+    }
+  },
+  "p_antiviral_vs_hijacked": {
+    "busted_fisher_p": 0.00014516587650952744,
+    "episodic_density_mwu_p": 8.673755710585222e-09,
+    "toggle_convergent_mwu_p": 0.0026743866920157884,
+    "gap_plasticity_mwu_p": 1.5314689095024136e-11,
+    "hijacked_higher_taxa_retention_mwu_p": 1.853762036792667e-07
+  },
+  "covariate_adjusted_av_vs_hijacked": {
+    "episodic_site_pct": {
+      "beta_antiviral_adj": 4.8165,
+      "se": 1.2351,
+      "t": 3.9,
+      "p_two_sided": 0.00012733468018597772
+    },
+    "gap_density_pct": {
+      "beta_antiviral_adj": 3.6931,
+      "se": 1.1425,
+      "t": 3.233,
+      "p_two_sided": 0.0014114821400025093
+    },
+    "toggle_conv_pct": {
+      "beta_antiviral_adj": 10.287,
+      "se": 3.0082,
+      "t": 3.42,
+      "p_two_sided": 0.0007448724768857447
+    }
+  },
+  "covariate_adjusted_av_vs_background": {
+    "episodic_site_pct": {
+      "beta_antiviral_adj": 4.5048,
+      "se": 0.9113,
+      "t": 4.943,
+      "p_two_sided": 7.871655514515383e-07
+    },
+    "gap_density_pct": {
+      "beta_antiviral_adj": 2.1867,
+      "se": 1.1712,
+      "t": 1.867,
+      "p_two_sided": 0.06194670051593139
+    }
+  }
+}
